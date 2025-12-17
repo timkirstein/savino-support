@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="no">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Savino – Personvernerklæring</title>
+  <meta name="description" content="Personvernerklæring for Savino." />
+  <meta name="theme-color" content="#0B4F46" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body>
+  <header class="nav">
+    <div class="container nav-inner">
+      <div class="brand">
+        <div class="logo" aria-hidden="true"></div>
+        <div class="brand-text">
+          <div class="brand-name">SAVINO</div>
+          <div class="brand-tagline">Personvernerklæring</div>
+        </div>
+      </div>
+      <div class="nav-actions">
+        <a class="btn btn-secondary" href="./index.html">Tilbake</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="section">
+    <div class="container">
+      <h1>Personvernerklæring</h1>
+      <p class="lead">Sist oppdatert: 5. november 2025</p>
+
+      <div class="card" style="max-width: 860px;">
+        <h3>Om Savino</h3>
+        <p>Savino er en app som gir vinanbefalinger basert på matretter brukeren skriver inn.</p>
+
+        <h3 style="margin-top:18px;">Hvilke data behandles</h3>
+        <p>Savino samler ikke inn navn, e-postadresse eller andre direkte identifiserende opplysninger.</p>
+        <p>Appen kan behandle følgende data for å fungere og forbedres:</p>
+        <ul class="list">
+          <li>Søkehistorikk og produktinteraksjon (bruksmønster) lagres anonymt for analyse og forbedring.</li>
+          <li>En anonym app-/brukeridentifikator kan brukes for å lagre preferanser uten å vite hvem brukeren er.</li>
+        </ul>
+
+        <h3 style="margin-top:18px;">Formål</h3>
+        <ul class="list">
+          <li>Å forbedre vinanbefalinger</li>
+          <li>Å analysere bruk av appen (funksjoner og stabilitet)</li>
+        </ul>
+
+        <h3 style="margin-top:18px;">Databehandlere og tredjepart</h3>
+        <p>Savino bruker Google Firebase som databehandler for drift og analyse. Vi selger ikke data og deler ikke data til markedsføringsformål.</p>
+
+        <h3 style="margin-top:18px;">Lagring og sikkerhet</h3>
+        <p>Kommunikasjon mellom appen og tjenestene er kryptert (HTTPS). Data lagres i Google Firebase.</p>
+
+        <h3 style="margin-top:18px;">Kontakt</h3>
+        <p class="mono"><a href="mailto:hei@savino.no">hei@savino.no</a></p>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div>© <span id="year"></span> Savino</div>
+      <div class="footer-links">
+        <a href="./index.html">Hjem</a>
+        <a href="mailto:hei@savino.no">Support</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
