@@ -292,10 +292,28 @@ h1 {
 .section {
   padding: 44px 0;
 }
+
+.section-intro {
+ background: transparent;
+  border: 0;
+}
 .section-muted {
   background: color-mix(in oklab, var(--surface) 35%, transparent);
   border-top: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
+}
+.section-intro .section-box{
+  border: 1px solid var(--line);
+  background: color-mix(in oklab, var(--surface) 35%, transparent);
+  border-radius: var(--radius-lg);
+  padding: 28px;
+}
+
+@media (min-width: 900px){
+  .section-intro .section-box{
+    margin: 0 24px;
+    padding: 34px;
+  }
 }
 h2 {
   margin: 0 0 18px;
