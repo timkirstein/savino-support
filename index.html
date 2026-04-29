@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="no">
+<html lang="no" class="light">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -52,15 +52,6 @@
         </div>
 
         <div class="nav-actions">
-          <button
-            class="theme-toggle"
-            id="themeToggle"
-            type="button"
-            aria-label="Bytt tema"
-          >
-            <span class="theme-dot" aria-hidden="true"></span>
-            <span class="theme-label">Tema</span>
-          </button>
           <a
             class="btn btn-primary"
             href="https://apps.apple.com/no/app/savino/id6755443985"
@@ -78,9 +69,9 @@
           <div class="hero-copy">
             <h1>Vin som passer til maten – på sekunder.</h1>
             <p class="lead">
-              Savino er en norsk app som anbefaler vin som passer til maten,
-              basert på Vinmonopolets sortiment i butikken du velger. Som en
-              digital sommelier – rett i lomma.
+              Savino er en norsk app som anbefaler vin til maten, hjelper deg
+              med å bygge en digital vinkjeller og lar deg chatte med en
+              AI-sommelier – basert på Vinmonopolets sortiment i butikken du velger.
             </p>
 
             <div class="cta-row">
@@ -108,7 +99,7 @@
               </div>
               <div class="trust-card">
                 <div class="trust-title">Norsk</div>
-                <div class="trust-sub">Tilpasset Vinmonopolet</div>
+                <div class="trust-sub">VM og Systembolaget</div>
               </div>
             </div>
           </div>
@@ -118,14 +109,11 @@
               <img
                 id="phoneShot"
                 class="phone-shot-single"
-                src="./screenshots/savino-dark.png"
+                src="./screenshots/savino-light.png"
                 alt="Savino – skjermbilde"
                 loading="lazy"
               />
             </div>
-            <p class="hint">
-              Tips: Bytt tema i toppmenyen for å se siden i mørk/lys stil.
-            </p>
           </div>
         </div>
       </section>
@@ -141,7 +129,8 @@
             <p>
               I stedet for generelle anbefalinger får du konkrete viner som er
               tilgjengelige, med forklaring på hvorfor de passer til retten du
-              skal lage.
+              skal lage. Du kan også lagre viner i din digitale vinkjeller og
+              chatte med en AI-sommelier for å få hjelp til å velge vin.
             </p>
           </div>
         </div>
@@ -195,15 +184,18 @@
             <div class="card">
               <h3>Er Savino gratis?</h3>
               <p>
-                Ja. Savino er gratis å bruke og krever ingen konto for å komme i
-                gang.
+                Grunnfunksjonene er gratis og krever ingen konto. Et valgfritt
+                Premium-abonnement gir tilgang til vinkjeller, AI-sommelier og
+                søk mot Systembolaget.
               </p>
             </div>
 
             <div class="card">
               <h3>Fungerer Savino kun i Norge?</h3>
               <p>
-                Ja. Appen er laget spesifikt for norske brukere og Vinmonopolet.
+                Primært for norske brukere og Vinmonopolet. Premium-abonnenter
+                kan i tillegg søke mot Systembolaget for grenseshoppere i
+                Bohuslän, Dalsland og Värmland.
               </p>
             </div>
 
@@ -232,13 +224,16 @@
             <div class="card">
               <h3>Personvernerklæring</h3>
               <p>
-                Savino samler ikke inn navn eller e-post. Bruksmønster kan
+                Savino samler ikke inn navn eller IP-adresse. Bruksmønster
                 lagres anonymt for å forbedre appen.
               </p>
               <p>
                 <a class="link" href="./privacy.html"
                   >Les full personvernerklæring</a
                 >
+              </p>
+              <p style="margin-top:8px;">
+                <a class="link" href="./terms.html">Vilkår for bruk</a>
               </p>
             </div>
           </div>
@@ -251,37 +246,13 @@
         <div>© <span id="year"></span> Savino</div>
         <div class="footer-links">
           <a href="./privacy.html">Personvern</a>
+          <a href="./terms.html">Vilkår</a>
           <a href="mailto:hei@savino.no">Support</a>
         </div>
       </div>
     </footer>
 
     <script>
-      const root = document.documentElement;
-      const key = "savino-theme";
-      const phone = document.getElementById("phoneShot");
-
-      const applyShot = () => {
-        const isLight = root.classList.contains("light");
-        if (phone)
-          phone.src = isLight
-            ? "./screenshots/savino-light.png"
-            : "./screenshots/savino-dark.png";
-      };
-
-      const saved = localStorage.getItem(key);
-      if (saved === "light") root.classList.add("light");
-      applyShot();
-
-      document.getElementById("themeToggle")?.addEventListener("click", () => {
-        root.classList.toggle("light");
-        localStorage.setItem(
-          key,
-          root.classList.contains("light") ? "light" : "dark"
-        );
-        applyShot();
-      });
-
       document.getElementById("year").textContent = new Date().getFullYear();
     </script>
   </body>

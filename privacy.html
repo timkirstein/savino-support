@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="no">
+<html lang="no" class="light">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -13,57 +13,62 @@
 </head>
 
 <body>
-  
-  <header class="nav">
-      <div class="container nav-inner">
-        <div class="brand">
-          <img
-            src="./logo_primary.png"
-            alt="Savino"
-            class="logo"
-            width="48"
-            height="48"
-          />
-          <div class="brand-text">
-            <div class="brand-name">SAVINO</div>
-            <div class="brand-tagline">Personvernerklæring</div>
-          </div>
-        </div>
 
-        <div class="nav-actions">
+  <header class="nav">
+    <div class="container nav-inner">
+      <div class="brand">
+        <img
+          src="./logo_primary.png"
+          alt="Savino"
+          class="logo"
+          width="48"
+          height="48"
+        />
+        <div class="brand-text">
+          <div class="brand-name">SAVINO</div>
+          <div class="brand-tagline">Personvernerklæring</div>
+        </div>
+      </div>
+      <div class="nav-actions">
         <a class="btn btn-secondary" href="./index.html">Tilbake</a>
       </div>
-      </div>
-    </header>
+    </div>
+  </header>
 
   <main class="first-section">
     <div class="container">
       <h1>Personvernerklæring</h1>
-      <p class="lead">Sist oppdatert: 5. november 2025</p>
+      <p class="lead">Sist oppdatert: 29. april 2026</p>
 
       <div class="card" style="max-width: 860px;">
         <h3>Om Savino</h3>
-        <p>Savino er en app som gir vinanbefalinger basert på matretter brukeren skriver inn.</p>
+        <p>Savino er en app for vinkjellerforvaltning og vinanbefalinger. Du kan registrere viner i din digitale vinkjeller, få anbefalinger basert på matretter, og chatte med en digital sommelier som hjelper deg å velge vin fra kjelleren din eller søke i eksterne vinkataloger.</p>
 
-        <h3 style="margin-top:18px;">Hvilke data behandles</h3>
-        <p>Savino samler ikke inn navn, e-postadresse eller andre direkte identifiserende opplysninger.</p>
-        <p>Appen kan behandle følgende data for å fungere og forbedres:</p>
+        <h3 style="margin-top:18px;">Hva vi lagrer</h3>
         <ul class="list">
-          <li>Søkehistorikk og produktinteraksjon (bruksmønster) lagres anonymt for analyse og forbedring.</li>
-          <li>En anonym app-/brukeridentifikator kan brukes for å lagre preferanser uten å vite hvem brukeren er.</li>
+          <li>Brukere får en anonym ID i Firebase som gjør at appen kan lagre data uten å vite hvem brukeren er.</li>
+          <li>Vinkjeller (viner du har registrert) lagres i Firestore knyttet til din bruker-ID.</li>
+          <li>Søkehistorikk og aktivitet i appen lagres anonymt i Google Firebase for å forbedre tjenesten.</li>
+          <li>Samtaler med den digitale sommelieren lagres ikke — de er kun aktive mens sesjonen pågår.</li>
+          <li>Dersom du velger å koble til en Google- eller Apple-konto, lagres e-postadressen din i Firebase Authentication.</li>
         </ul>
 
-        <h3 style="margin-top:18px;">Formål</h3>
+        <h3 style="margin-top:18px;">Tredjepartstjenester</h3>
         <ul class="list">
-          <li>Å forbedre vinanbefalinger</li>
-          <li>Å analysere bruk av appen (funksjoner og stabilitet)</li>
+          <li><strong>OpenAI:</strong> Vinanbefalinger og sommeliersamtaler behandles av OpenAI. Ingen persondata sendes — kun matrett- og vindata.</li>
+          <li><strong>RevenueCat:</strong> Abonnementsstatus og kjøpshistorikk deles med RevenueCat for å behandle kjøp og fornyelse.</li>
+          <li><strong>Apple App Store / Google Play:</strong> Betalingsbehandling skjer utelukkende via App Store eller Google Play — Savino lagrer ikke betalingsinformasjon.</li>
+          <li><strong>Vinmonopolet / Systembolaget:</strong> Vinsøk bruker offentlig tilgjengelig sortimentsdata.</li>
         </ul>
 
-        <h3 style="margin-top:18px;">Databehandlere og tredjepart</h3>
-        <p>Savino bruker Google Firebase som databehandler for drift og analyse. Vi selger ikke data og deler ikke data til markedsføringsformål.</p>
+        <h3 style="margin-top:18px;">Abonnement</h3>
+        <p>Abonnementsdata (nivå, utløpsdato, leverandør) lagres i Firestore knyttet til din bruker-ID. Savino lagrer ikke betalingsinformasjon.</p>
+
+        <h3 style="margin-top:18px;">Dine rettigheter</h3>
+        <p>Du kan når som helst slette kontoen din og all tilknyttet data fra Konto-siden i appen (GDPR art. 17). Kontakt oss på <a href="mailto:hei@savino.no">hei@savino.no</a> for spørsmål om dine data.</p>
 
         <h3 style="margin-top:18px;">Lagring og sikkerhet</h3>
-        <p>Kommunikasjon mellom appen og tjenestene er kryptert (HTTPS). Data lagres i Google Firebase.</p>
+        <p>All data lagres i Google Firebase (EU/EØS). Kommunikasjon mellom appen og serverne er kryptert (HTTPS).</p>
 
         <h3 style="margin-top:18px;">Kontakt</h3>
         <p class="mono"><a href="mailto:hei@savino.no">hei@savino.no</a></p>
@@ -76,6 +81,7 @@
       <div>© <span id="year"></span> Savino</div>
       <div class="footer-links">
         <a href="./index.html">Hjem</a>
+        <a href="./terms.html">Vilkår</a>
         <a href="mailto:hei@savino.no">Support</a>
       </div>
     </div>
