@@ -1,0 +1,21 @@
+title: Savino
+description: Norsk vinapp – riktig vin til maten
+url: https://savino.no
+baseurl: ""
+lang: nb
+
+permalink: /blogg/:slug/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - .DS_Store
+  - Gemfile
+  - Gemfile.lock
+  - vendor
