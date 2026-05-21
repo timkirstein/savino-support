@@ -23,8 +23,14 @@
       <div class="wine-live-bottle wine-live-bottle--empty"></div>
       {% endif %}
 
+      {% assign score_pct = rec.score | times: 100 | round %}
+      {% if score_pct >= 90 %}{% assign badge_label = "Perfekt match" %}{% assign badge_mod = "badge--perfect" %}
+      {% elsif score_pct >= 80 %}{% assign badge_label = "Meget bra match" %}{% assign badge_mod = "badge--great" %}
+      {% elsif score_pct >= 70 %}{% assign badge_label = "Bra match" %}{% assign badge_mod = "badge--good" %}
+      {% else %}{% assign badge_label = "Ok match" %}{% assign badge_mod = "badge--ok" %}
+      {% endif %}
       <div class="wine-live-info">
-        <span class="wine-badge">Perfekt match</span>
+        <span class="wine-badge {{ badge_mod }}">{{ badge_label }}</span>
         <strong class="wine-live-name">{{ w.name }}</strong>
         {% if w.region or w.country %}
         <span class="wine-live-meta">{{ w.region }}{% if w.region and w.country %} · {% endif %}{{ w.country }}</span>
