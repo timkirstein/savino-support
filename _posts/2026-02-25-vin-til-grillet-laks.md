@@ -7,20 +7,11 @@ date: 2026-02-25
 category: Sjømat
 author: sigrid
 permalink: /blogg/vin-til-grillet-laks/
+dish: "grillet laks med sitron"
 hero:
   src: /assets/img/salmon-photo.png
   alt: "Grillet laks med sitron på et trebord"
   caption: "Sommerens enkleste rett — og en av de enkleste å pare vin med."
-wines_section_1:
-  - name: Cloudy Bay Sauvignon Blanc 2024
-    meta: "Marlborough · New Zealand · 12.5 %"
-    price: "279,90 kr"
-  - name: Domaine Vacheron Sancerre 2023
-    meta: "Loire · Frankrike · 13 %"
-    price: "329,00 kr"
-  - name: Villa Maria Private Bin 2024
-    meta: "Marlborough · New Zealand · 13 %"
-    price: "169,90 kr"
 ---
 
 Grillet laks med sitron er sommermiddagen i sin reneste form: rask å lage, vakker å se på og smakfull uten å være komplisert. Sitronen fremhever fiskens naturlige sødme og tilfører friskhet, mens grillens varme gir en lett røykfylt overflate. Det er en rett som ikke trenger mye for å skinne — og heller ikke mye for å velge riktig vin til.
@@ -35,7 +26,7 @@ Tre ting gjør jobben: **frisk syre** som speiler sitronen, **moderat fylde** so
 
 En Sauvignon Blanc fra Loire-dalen eller New Zealand er det klassiske og enkle valget. Frisk syre, sitrus- og gressnotene speiler sitronens rolle i retten og fremhever fiskens naturlige smak. Marlborough-versjonene er litt mer eksplosive; Sancerre litt mer dempet og mineralsk.
 
-{% include wine-list.html wines=page.wines_section_1 %}
+{% include wine-list-live.html %}
 
 ## Et mer overraskende valg: tørr rosé
 
