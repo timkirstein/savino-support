@@ -36,6 +36,8 @@ Savino har funnet 3 viner som passer svært godt til grillet laks med sitron.
 
 {% include wine-list-live.html %}
 
+{% include figure-aside.html image="/assets/img/salvino-screen.png" eyebrow="Slik ser det ut i appen" heading="Anbefalingene tilpasses ditt nærmeste Vinmonopol" body="Skriv inn retten — Savino sjekker hvilke av flaskene som finnes på din lokale pol akkurat nå, sammen med pris og en kort begrunnelse." %}
+
 ## Når retten varierer
 
 Grillet laks med sitron er et utgangspunkt — og små endringer i retten åpner for andre vinvalg:
@@ -45,5 +47,3 @@ Grillet laks med sitron er et utgangspunkt — og små endringer i retten åpner
 **Med røyk eller sterk marinade** (chipotle, miso, soyasaus) tåler retten mer struktur. En lett rødvin eller en *orange wine* kan ta over der hvitvin ville blitt borte.
 
 **Med smør og kapers** — den klassiske kombinasjonen — vil en vin med litt mer kropp og fylde fungere godt. Fettet i smøret trenger mer vinens syre til å balansere.
-
-{% include figure-aside.html image="/assets/img/salvino-screen.png" eyebrow="Slik ser det ut i appen" heading="Anbefalingene tilpasses ditt nærmeste Vinmonopol" body="Skriv inn retten — Savino sjekker hvilke av flaskene som finnes på din lokale pol akkurat nå, sammen med pris og en kort begrunnelse." %}
