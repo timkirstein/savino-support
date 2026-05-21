@@ -131,6 +131,16 @@ a {
   gap: 10px;
   align-items: center;
 }
+.nav-link {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--muted);
+  text-decoration: none;
+  padding: 0 4px;
+}
+.nav-link:hover {
+  color: var(--text);
+}
 .theme-toggle {
   display: inline-flex;
   align-items: center;
