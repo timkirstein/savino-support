@@ -32,7 +32,7 @@ Tunge, fatlagrede viner kan funke, men de slåss ofte med sitronen. Lette og mel
 
 ## Savinos anbefalinger akkurat nå
 
-Savino har gått gjennom hele Vinmonopolets sortiment og plukket ut flaskene som passer best til denne retten.
+Savino har funnet 3 viner som passer svært godt til grillet laks med sitron.
 
 {% include wine-list-live.html %}
 
