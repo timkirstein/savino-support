@@ -32,7 +32,8 @@ article.post {
 
     &::before {
       content: "";
-      width: 5px; height: 5px;
+      width: 5px;
+      height: 5px;
       background: var(--mint-bright);
       border-radius: 50%;
       flex-shrink: 0;
@@ -40,7 +41,8 @@ article.post {
   }
 
   .dot {
-    width: 3px; height: 3px;
+    width: 3px;
+    height: 3px;
     border-radius: 50%;
     background: var(--line-strong);
     flex-shrink: 0;
@@ -53,7 +55,8 @@ article.post {
   }
 
   .author-avatar {
-    width: 22px; height: 22px;
+    width: 22px;
+    height: 22px;
     border-radius: 50%;
     background: var(--mint-2);
     color: var(--green-deep);
@@ -105,7 +108,8 @@ article.post {
     position: relative;
 
     img {
-      width: 100%; height: 100%;
+      width: 100%;
+      height: 100%;
       object-fit: cover;
     }
   }
@@ -128,7 +132,9 @@ article.post {
   margin: 48px auto 0;
   counter-reset: h2;
 
-  p, ul, ol {
+  p,
+  ul,
+  ol {
     font-size: 17px;
     line-height: 1.65;
     color: var(--ink);
@@ -136,10 +142,18 @@ article.post {
     text-wrap: pretty;
   }
 
-  ul, ol { padding-left: 24px; }
-  li + li { margin-top: 6px; }
+  ul,
+  ol {
+    padding-left: 24px;
+  }
+  li + li {
+    margin-top: 6px;
+  }
 
-  strong { font-weight: 700; color: var(--ink); }
+  strong {
+    font-weight: 700;
+    color: var(--ink);
+  }
 
   a {
     color: var(--green-deep);
@@ -147,7 +161,9 @@ article.post {
     text-decoration-thickness: 1.5px;
     text-underline-offset: 3px;
 
-    &:hover { color: var(--green); }
+    &:hover {
+      color: var(--green);
+    }
   }
 
   h2 {
@@ -192,7 +208,13 @@ article.post {
     line-height: 1.45;
     color: var(--green-deep);
 
-    p { font-size: inherit; line-height: inherit; color: inherit; margin: 0; font-family: inherit; }
+    p {
+      font-size: inherit;
+      line-height: inherit;
+      color: inherit;
+      margin: 0;
+      font-family: inherit;
+    }
   }
 
   img {
@@ -201,10 +223,11 @@ article.post {
     height: auto;
     border-radius: 14px;
     border: 1px solid var(--line);
-    margin: 24px auto;
   }
 
-  em { font-style: italic; }
+  em {
+    font-style: italic;
+  }
 
   hr {
     border: none;
@@ -231,10 +254,16 @@ article.post {
     border-radius: 28px;
     overflow: hidden;
     background: #000;
-    box-shadow: 0 18px 40px -16px rgba(11,63,53,0.25), 0 4px 8px -2px rgba(0,0,0,0.08);
+    box-shadow:
+      0 18px 40px -16px rgba(11, 63, 53, 0.25),
+      0 4px 8px -2px rgba(0, 0, 0, 0.08);
     border: 8px solid var(--green-dark);
 
-    img { width: 100%; height: auto; display: block; }
+    img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
   }
 
   .caption-block {
@@ -281,10 +310,13 @@ article.post {
   padding: 14px 22px;
   border-bottom: 1px solid var(--line);
 
-  &:last-child { border-bottom: 0; }
+  &:last-child {
+    border-bottom: 0;
+  }
 
   .badge {
-    width: 28px; height: 28px;
+    width: 28px;
+    height: 28px;
     border-radius: 50%;
     background: var(--mint);
     color: var(--green-deep);
@@ -298,8 +330,17 @@ article.post {
   }
 
   .info {
-    .name { font-weight: 600; font-size: 15.5px; color: var(--ink); }
-    .meta { font-size: 12.5px; color: var(--muted); margin-top: 2px; letter-spacing: 0.01em; }
+    .name {
+      font-weight: 600;
+      font-size: 15.5px;
+      color: var(--ink);
+    }
+    .meta {
+      font-size: 12.5px;
+      color: var(--muted);
+      margin-top: 2px;
+      letter-spacing: 0.01em;
+    }
   }
 
   .price {
@@ -329,20 +370,29 @@ article.post {
     font-size: 14.5px;
     text-decoration: none;
     box-shadow: inset 0 0 0 1.5px var(--line-strong);
-    transition: box-shadow .15s, color .15s;
+    transition:
+      box-shadow 0.15s,
+      color 0.15s;
 
-    &:hover { box-shadow: inset 0 0 0 1.5px var(--green); color: var(--green-deep); }
+    &:hover {
+      box-shadow: inset 0 0 0 1.5px var(--green);
+      color: var(--green-deep);
+    }
   }
 }
 
 @media (max-width: 880px) {
-  article.post { padding: 36px 20px 64px; }
+  article.post {
+    padding: 36px 20px 64px;
+  }
 
   .figure-aside {
     grid-template-columns: 1fr;
     padding: 28px 20px;
     margin: 36px 0;
 
-    .phone { margin: 0 auto; }
+    .phone {
+      margin: 0 auto;
+    }
   }
 }
