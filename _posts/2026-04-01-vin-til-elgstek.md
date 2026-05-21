@@ -8,7 +8,7 @@ category: Vilt
 permalink: /blogg/vin-til-elgstek/
 dish: "elgstek"
 hero:
-  src: /assets/img/vin-til-elgstek.png
+  src: /assets/img/elgstek.jpeg
   alt: "elgstek på et trebord"
   caption: "Norsk elgstek – høstens stolthet som kaller på en vin med sjel"
 ---

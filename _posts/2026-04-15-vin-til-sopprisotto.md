@@ -8,7 +8,7 @@ category: Vegetar
 permalink: /blogg/vin-til-sopprisotto/
 dish: "sopprisotto"
 hero:
-  src: /assets/img/vin-til-sopprisotto.png
+  src: /assets/img/mushroom_risotto.jpeg
   alt: "sopprisotto på et trebord"
   caption: "Kremet sopprisotto – en vegetarrett med sjel og ambisiøst vinpotensial"
 ---

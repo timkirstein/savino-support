@@ -8,7 +8,7 @@ category: Vilt
 permalink: /blogg/vin-til-rypebryst/
 dish: "rypebryst"
 hero:
-  src: /assets/img/vin-til-rypebryst.png
+  src: /assets/img/ripa.jpg
   alt: "rypebryst på et trebord"
   caption: "Mørt rypebryst – norsk høstdelikatesse som fortjener et glass med sjel"
 ---

@@ -8,7 +8,7 @@ category: Vegetar
 permalink: /blogg/vin-til-gronnsakstagine/
 dish: "grønnsakstagine"
 hero:
-  src: /assets/img/vin-til-gronnsakstagine.png
+  src: /assets/img/gronnsakstagine.jpeg
   alt: "grønnsakstagine på et trebord"
   caption: "Duftende grønnsakstagine med couscous – nordafrikansk magi på middagsbordet"
 ---

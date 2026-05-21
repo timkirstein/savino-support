@@ -8,7 +8,7 @@ category: Vegetar
 permalink: /blogg/vin-til-marokkansk-gronnsaksgryte/
 dish: "marokkansk grønnsaksgryte"
 hero:
-  src: /assets/img/vin-til-marokkansk-gronnsaksgryte.png
+  src: /assets/img/marokkansk_gronnsaksgryte.jpeg
   alt: "marokkansk grønnsaksgryte på et trebord"
   caption: "Duftende marokkansk gryte – varme krydder som inviterer til uvanlige vinvalg"
 ---

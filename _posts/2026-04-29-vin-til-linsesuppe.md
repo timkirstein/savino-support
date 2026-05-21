@@ -8,7 +8,7 @@ category: Vegetar
 permalink: /blogg/vin-til-linsesuppe/
 dish: "linsesuppe"
 hero:
-  src: /assets/img/vin-til-linsesuppe.png
+  src: /assets/img/linsesuppe.jpeg
   alt: "linsesuppe på et trebord"
   caption: "Varmende linsesuppe – trøstemat som overrasker med riktig vin i glasset"
 ---

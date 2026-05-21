@@ -8,7 +8,7 @@ category: Vilt
 permalink: /blogg/vin-til-hjortestek/
 dish: "hjortestek"
 hero:
-  src: /assets/img/vin-til-hjortestek.png
+  src: /assets/img/hjortestek.jpeg
   alt: "hjortestek på et trebord"
   caption: "Mørkt og intenst hjortekjøtt – en festmiddag som krever vin av kaliber"
 ---

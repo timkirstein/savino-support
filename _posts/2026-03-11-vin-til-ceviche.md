@@ -8,7 +8,7 @@ category: Sjømat
 permalink: /blogg/vin-til-ceviche/
 dish: "ceviche"
 hero:
-  src: /assets/img/vin-til-ceviche.png
+  src: /assets/img/ceviche.jpeg
   alt: "ceviche på et trebord"
   caption: "Frisk og syrlig ceviche – en rett som setter krav til vinens friskhet"
 ---

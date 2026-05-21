@@ -8,7 +8,7 @@ category: Dessert og ost
 permalink: /blogg/vin-til-sjokoladefondant/
 dish: "sjokoladefondant"
 hero:
-  src: /assets/img/vin-til-sjokoladefondant.png
+  src: /assets/img/chocolate.jpg
   alt: "sjokoladefondant på et trebord"
   caption: "Sjokoladefondant med flytende kjerne – dessertens høydepunkt møter vinens"
 ---
