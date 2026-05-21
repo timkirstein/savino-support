@@ -11,6 +11,7 @@ permalink: /blogg/vin-til-grillet-laks/
 Grillet laks med sitron er sommermiddagen i sin reneste form: rask å lage, vakker å se på og smakfull uten å være komplisert. Sitronen fremhever fiskens naturlige sødme og tilfører friskhet, mens grillens varme gir en lett røykfylt overflate. Det er en rett som ikke trenger mye for å skinne – og heller ikke mye for å velge riktig vin til.
 
 ![Savino – vin til laks](/assets/vin-til-laks.png)
+_Savino anbefaler vin til laks basert på din Vinmonopol-butikk._
 
 En Sauvignon Blanc fra Loire-dalen eller New Zealand er det klassiske og enkle valget – frisk syre, sitrus- og gressnotene speiler sitronens rolle i retten og fremhever fiskens naturlige smak. En tørr rosé fra Provence er et like godt alternativ med sin friskhet og lette fruktige fylde. Begge vinene løfter den enkle retten uten å overdøve den.
 
