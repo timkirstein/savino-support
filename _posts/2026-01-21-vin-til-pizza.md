@@ -6,7 +6,7 @@ lead: "Pizza med tomatsaus og ost er en rett som passer naturlig til viner med g
 date: 2026-01-21
 category: Hverdagsmat
 permalink: /blogg/vin-til-pizza/
-dish: "pizza"
+dish: "pizza med tomatsaus og mozzarella"
 hero:
   src: /assets/img/pizza.jpg
   alt: "pizza på et trebord"

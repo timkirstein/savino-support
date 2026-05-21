@@ -6,7 +6,7 @@ lead: "Reker er en norsk delikatesse med naturlig sødme og havfriskheten som tr
 date: 2025-11-12
 category: Sjømat
 permalink: /blogg/vin-til-reker/
-dish: "reker"
+dish: "ferske reker med majones og sitron"
 hero:
   src: /assets/img/shrimps.jpg
   alt: "reker på et trebord"

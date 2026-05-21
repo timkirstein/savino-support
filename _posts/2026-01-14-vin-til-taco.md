@@ -6,7 +6,7 @@ lead: "Taco kombinerer krydder, syre fra salsa og rikdom fra rømme i en rett so
 date: 2026-01-14
 category: Hverdagsmat
 permalink: /blogg/vin-til-taco/
-dish: "taco"
+dish: "taco med kjøttdeig, salsa og rømme"
 hero:
   src: /assets/img/taco.jpg
   alt: "taco på et trebord"

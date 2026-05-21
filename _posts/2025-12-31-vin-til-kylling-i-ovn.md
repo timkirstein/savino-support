@@ -6,7 +6,7 @@ lead: "Kylling i ovn er en allsidig hverdagsklassiker som fungerer med mange vin
 date: 2025-12-31
 category: Kjøtt
 permalink: /blogg/vin-til-kylling-i-ovn/
-dish: "kylling i ovn"
+dish: "ovnsstekt kylling med hvitløk og sitron"
 hero:
   src: /assets/img/chicken_oven.jpg
   alt: "kylling i ovn på et trebord"

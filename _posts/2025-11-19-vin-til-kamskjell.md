@@ -6,7 +6,7 @@ lead: "Kamskjell er blant de mest elegante skalldyrene vi har, og trenger en vin
 date: 2025-11-19
 category: Sjømat
 permalink: /blogg/vin-til-kamskjell/
-dish: "kamskjell"
+dish: "stekte kamskjell med smør og sitron"
 hero:
   src: /assets/img/moules.jpg
   alt: "kamskjell på et trebord"

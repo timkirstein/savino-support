@@ -6,7 +6,7 @@ lead: "Fiskesuppe er en kremet og varmende rett der vinens kropp og syre må bal
 date: 2025-11-05
 category: Sjømat
 permalink: /blogg/vin-til-fiskesuppe/
-dish: "fiskesuppe"
+dish: "kremet fiskesuppe med laks og torsk"
 hero:
   src: /assets/img/fish_soup.jpg
   alt: "fiskesuppe på et trebord"

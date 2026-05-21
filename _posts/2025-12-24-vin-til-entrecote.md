@@ -6,7 +6,7 @@ lead: "Entrecôte er ett av de mest smakfulle biffkuttene vi har, og trenger en 
 date: 2025-12-24
 category: Kjøtt
 permalink: /blogg/vin-til-entrecote/
-dish: "entrecôte"
+dish: "entrecôte med béarnaisesaus"
 hero:
   src: /assets/img/entrecote.jpg
   alt: "entrecôte på et trebord"
