@@ -8,7 +8,7 @@ category: Dessert og ost
 permalink: /blogg/vin-til-ostebord/
 dish: "ostebord"
 hero:
-  src: /assets/img/vin-til-ostebord.png
+  src: /assets/img/cheese.jpg
   alt: "ostebord på et trebord"
   caption: "Et godt ostebord – vinvalgets kunst der syre og fett møtes"
 ---
