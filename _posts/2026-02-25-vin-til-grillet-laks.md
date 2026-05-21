@@ -32,7 +32,7 @@ Tunge, fatlagrede viner kan funke, men de slåss ofte med sitronen. Lette og mel
 
 ## Savinos anbefalinger akkurat nå
 
-Savino sjekker hva som finnes på ditt nærmeste Vinmonopol og velger ut flaskene som passer best til denne retten i dag.
+Savino har gått gjennom hele Vinmonopolets sortiment og plukket ut flaskene som passer best til denne retten.
 
 {% include wine-list-live.html %}
 
