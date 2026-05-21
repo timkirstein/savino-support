@@ -1,21 +1,40 @@
 ---
 layout: post
-title: Vin til hjortestek med viltsaus
-description: Hjortestek med viltsaus er en festmiddag av rang. Den rike, kraftige viltkjøttet trenger en vin med tilsvarende karakter og dybde.
+title: "Vin til hjortestek"
+description: "Hjortestek er en festmiddag med dyp viltsmak som trenger en vin med struktur, tanniner og kompleksitet for å matche kjøttets intense karakter."
+lead: "Hjortestek er en festmiddag med dyp viltsmak som trenger en vin med struktur, tanniner og kompleksitet for å matche kjøttets intense karakter."
 date: 2026-03-25
-date_display: 25. mars 2026
 category: Vilt
 permalink: /blogg/vin-til-hjortestek/
+dish: "hjortestek"
+hero:
+  src: /assets/img/vin-til-hjortestek.png
+  alt: "hjortestek på et trebord"
+  caption: "Mørkt og intenst hjortekjøtt – en festmiddag som krever vin av kaliber"
 ---
 
-Hjortestek er en av de mest prestisjefylte norske festmiddagene – kjøttet er mørkt, intenst smakfull og har en karakteristisk viltsmak som skiller seg tydelig fra vanlig storfekjøtt. En god viltsaus med fond, rødvin og gjerne tyttebær tilfører enda mer dybde og kompleksitet. Det er en rett som krever en vin med tilsvarende ambisjonsnivå.
+Hjortestek er en av de mest prestisjefylte norske festmiddagene – kjøttet er mørkt, intenst smakfull og har en karakteristisk viltsmak som skiller seg tydelig fra vanlig storfekjøtt. En god viltsaus med fond og gjerne tyttebær tilfører enda mer dybde og kompleksitet. Det er en rett som krever en vin med tilsvarende ambisjonsnivå.
 
-## [SCREENSHOT]
+## Hva å se etter i vinen
 
-*Skjermbilde fra Savino-appen kommer her.*
+Hjortekjøttets intense viltsmak er dominerende og krevende. En for lett vin vil forsvinne fullstendig, mens en for fruktig og søt vin vil virke malplassert mot kjøttets tørrere, mineralske karakter. Vinen trenger høy syre, tydelige tanniner og en kompleks smaksprofil med jordlige, urteaktige og minerale toner.
 
-En Barolo eller Barbaresco fra Piemonte er det klassiske valget til hjortestek – Nebbiolo-druens høye syre, strenge tanniner og komplekse smaksprofil med tjære, roser og røde bær er som skapt for viltkjøtt. En nordlig Rhône-Syrah – som en Saint-Joseph eller Cornas – er et annet opplest og vedtatt valg med sine mørke bær, urter og pepperkrydder. Begge trenger gjerne litt luft i karaffel før servering.
+- **Høy syre og tydelige tanniner** gir struktur og balanse mot viltsmakens intense, tørrende karakter
+- **Jordlige og mineralske toner** speiler hjortekjøttets karakteristiske viltpreg på en naturlig måte
+- **Kompleks smaksprofil** matcher rettens mange lag av dybde og aromatisk intensitet
 
----
+> Vilt kjøtt krever en vin med viltsmak – søk etter jordlighet, mineralitet og struktur.
 
-Vil du vite hvilke av disse vinene som finnes på ditt nærmeste Vinmonopolet? [Last ned Savino gratis](https://savino.no) og søk direkte i appen.
+## Savinos anbefalinger akkurat nå
+
+Savino har funnet 3 viner som passer svært godt til hjortestek.
+
+{% include wine-list-live.html %}
+
+## Slik påvirker saus og tilbehør vinvalget
+
+En kraftig viltsaus laget på fond og rødvin forsterker behovet for en vin med tilsvarende dybde og struktur. Sausen er i seg selv et argument for å velge en tannintung, kompleks rødvin som kan stå på egne ben mot sausens intenstitet.
+
+Tyttebær og bærtilbehør er klassiske følgesvenner til hjortestek og tilfører en syrlig-søt fruktdimensjon. Denne bærprofilen kan fint speiles i en vin med mørke bærtoner, og gjør at en vin med litt fruktighet i profilen kan fungere vel så godt som en meget tørr og strukturert variant.
+
+Er steken marinert i urter og hvitløk, fremheves de aromatiske dimensjonene som kaller på en vin med naturlige urtedrag. Stekes den enklere og serveres naturlig, er det viltsmakens rene, dype karakter som dominerer og trenger en tilsvarende ren og strukturert vin.

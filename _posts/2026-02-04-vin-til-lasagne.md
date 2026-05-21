@@ -1,21 +1,40 @@
 ---
 layout: post
-title: Vin til lasagne med kjøttdeig
-description: Lasagne med kjøttdeig er en familiefavoritt med lag på lag av smak. Her er Savinos vinanbefalinger for å gjøre middagen enda bedre.
+title: "Vin til lasagne"
+description: "Lasagne kombinerer kjøttsaus med tomatsyre, kremet bechamel og smeltet ost i et lag på lag som trenger en vin med god syre og middels kropp."
+lead: "Lasagne kombinerer kjøttsaus med tomatsyre, kremet bechamel og smeltet ost i et lag på lag som trenger en vin med god syre og middels kropp."
 date: 2026-02-04
-date_display: 4. februar 2026
-category: Kjøtt
+category: Pasta
 permalink: /blogg/vin-til-lasagne/
+dish: "lasagne"
+hero:
+  src: /assets/img/vin-til-lasagne.png
+  alt: "lasagne på et trebord"
+  caption: "Gratinert lasagne rett fra ovnen – familiemiddag som vil ha riktig rødvin"
 ---
 
-Lasagne er en rett med mange lag – bokstavelig talt. Kjøttsaus med tomater og urter møter kremete bechamel og smeltet ost, og pastaplatene binder det hele sammen. Den lagvise strukturen gir en rik, fyldig smaksprofil med syre fra tomatene, fett fra osten og bechamelen, og dybde fra kjøttdeigen. Et enkelt vinvalg, men det finnes tydelige favoritter.
+Lasagne er en rett med mange lag – bokstavelig talt. Kjøttsaus med tomater og urter møter kremet bechamel og smeltet ost, og pastaplatene binder det hele sammen. Den lagvise strukturen gir en rik, fyldig smaksprofil med syre fra tomatene, fett fra osten og bechamelen, og dybde fra kjøttdeigen. Et enkelt vinvalg, men det finnes tydelige favoritter.
 
-## [SCREENSHOT]
+## Hva å se etter i vinen
 
-*Skjermbilde fra Savino-appen kommer her.*
+Lasagnes kompleksitet med to ulike saustyper – den tomatbaserte kjøttsausen og den kremete bechamelen – gjør at vinen trenger å balansere begge. Syre for å møte tomaten, og nok kropp til å stå mot kremigheten fra bechamelen. Tanniner bør ikke være for markante, ettersom fettinnholdet allerede er høyt.
 
-En Sangiovese-basert vin – Chianti, Morellino di Scansano eller Rosso di Montepulciano – er det naturlige valget til lasagne. Syren i Sangiovese-druen balanserer tomatenes syre perfekt, og den mellomtunge kroppen møter retten uten å overdøve. En Barbera fra Piemonte eller en Nero d'Avola fra Sicilia er gode alternativet som gir litt mer fruktig rikdom.
+- **God syre** speiler tomatenes friskhet og holder paringen levende på tross av rettens kremighet
+- **Middels kropp** balanserer bechamelens fettrikdom uten å gjøre totalopplevelsen for tung
+- **Rød frukt og urtetoner** komplementerer kjøttsausens smaksprofil og pastalagets karakter
 
----
+> Syre er nøkkelen til lasagne – uten friskhet i glasset drukner vinen i rettens kremige rikdom.
 
-Vil du vite hvilke av disse vinene som finnes på ditt nærmeste Vinmonopolet? [Last ned Savino gratis](https://savino.no) og søk direkte i appen.
+## Savinos anbefalinger akkurat nå
+
+Savino har funnet 3 viner som passer svært godt til lasagne.
+
+{% include wine-list-live.html %}
+
+## Slik varierer lasagnen og hva det betyr for vinen
+
+En lasagne med rikelig med kjøttsaus og lite bechamel er friskere og lettere i profilen – her holder en lettere rødvin med tydelig syre og rød frukt til utmerket. En lasagne der bechamelen dominerer er kremere og rikere, og da trenger du en vin med litt mer kropp for å holde følge med fettinnholdet.
+
+Vegetarlasagne med grønnsaker erstatter kjøttets umami med en grønnere, friskere smaksprofil. Her fungerer en hvitvin med god syre og aromatisk karakter overraskende godt, særlig om lasagnen er krydret med friske urter og spinat. En lettere rødvin er selvsagt fortsatt et godt alternativ.
+
+Bruker du mye ost – parmesan, mozzarella og ricotta – øker fettinnholdet betraktelig. Da er syre i vinen enda viktigere for å holde smaken frisk og unngå at helheten virker tung og klamt.

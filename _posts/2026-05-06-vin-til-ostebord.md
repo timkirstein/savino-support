@@ -1,21 +1,40 @@
 ---
 layout: post
-title: Vin til ostebord med modne oster
-description: Ostebord med modne oster er kveldens høydepunkt – men vinvalget er mer komplisert enn mange tror. Her er Savinos guide til ost og vin.
+title: "Vin til ostebord"
+description: "Ostebord er kveldens høydepunkt, men kombinasjonen ost og vin er mer krevende enn mange tror – nøkkelen er å matche ostens intensitet og fettinnhold med vinens syre og struktur."
+lead: "Ostebord er kveldens høydepunkt, men kombinasjonen ost og vin er mer krevende enn mange tror – nøkkelen er å matche ostens intensitet og fettinnhold med vinens syre og struktur."
 date: 2026-05-06
-date_display: 6. mai 2026
-category: Ost
+category: Dessert og ost
 permalink: /blogg/vin-til-ostebord/
+dish: "ostebord"
+hero:
+  src: /assets/img/vin-til-ostebord.png
+  alt: "ostebord på et trebord"
+  caption: "Et godt ostebord – vinvalgets kunst der syre og fett møtes"
 ---
 
-Et ostebord med et utvalg modne oster er en av bordets store gleder – men kombinasjonen ost og vin er faktisk mer krevende enn de fleste tror. Den folkelige troen på at rødvin og ost alltid passer, stemmer langt fra alltid: tanninene i mange rødviner krasjer med ostens fett og gjør vinen bitter og metallisk. Det finnes heldigvis enkle grep som fungerer.
+Et ostebord med et utvalg modne oster er en av bordets store gleder – men kombinasjonen ost og vin er faktisk mer krevende enn de fleste tror. Den folkelige troen på at rødvin og ost alltid passer, stemmer langt fra alltid: tanninene i mange rødviner krasjer med ostens fett og gjør vinen bitter og metallisk. Friskhet og syre er nøkkelordene for suksess.
 
-## [SCREENSHOT]
+## Hva å se etter i vinen
 
-*Skjermbilde fra Savino-appen kommer her.*
+Ostens fettinnhold er det viktigste elementet å navigere rundt. Fett demper tanniner og gjør tannintunge rødviner smake bittere og tørrere enn de er. Syre i vinen skjærer gjennom fettinnholdet og holder smaken levende. Intensiteten i osten bør speiles av tilsvarende intensitet i vinen.
 
-Til milde, kremete oster som brie og camembert passer en fruktig Chardonnay eller en lett Pinot Noir best. Til harde, lagrede oster som parmesan, manchego og norsk gammelost er en fyldig Barolo, en kraftig Syrah eller en tørr sherry de beste valgene – saltintensiteten i osten trenger en vin med tilsvarende karakter. For blåmuggost er Sauternes fra Bordeaux, en tørr Riesling Spätlese, eller en søt Pedro Ximénez sherry de klassiske, nærmest uvirkelig gode kombinasjonene.
+- **God syre** skjærer gjennom ostens fettinnhold og holder paringen frisk og levende
+- **Intensitetsmatch** sørger for at en mild ost ikke overdøves og en kraftig ost ikke overvelder vinen
+- **Lav til moderat tannin** unngår den bitre og metalliske konflikten mellom tannin og ostens fett
 
----
+> Syre er ostens beste venn i glasset – ikke tanniner, slik mange tror.
 
-Vil du vite hvilke av disse vinene som finnes på ditt nærmeste Vinmonopolet? [Last ned Savino gratis](https://savino.no) og søk direkte i appen.
+## Savinos anbefalinger akkurat nå
+
+Savino har funnet 3 viner som passer svært godt til ostebord.
+
+{% include wine-list-live.html %}
+
+## Slik varierer ostebordet og hva det betyr for vinen
+
+Milde, kremete oster som brie og camembert er de mest forgiving for vinvalget og tåler et bredt spekter av stiler. En frisk hvitvin med god syre er ofte det beste valget, men en lett rødvin med lav tannin kan også fungere godt.
+
+Harde, lagrede oster som parmesan og manchego er intense og salte, og trenger en vin med tilsvarende karakter og struktur. Her kan en fyldigere hvitvin eller til og med en kraftig rødvin med nok syre til å stå mot saltintensiteten fungere ypperlig.
+
+Blåmuggoster er de mest krevende av alle – deres intense, krydrete og jordlige karakter trenger en vin med nok sødme til å balansere bitterheten. Her er det søte viner med syre som gjør den klassiske og sublime kombinasjonen som mange betrakter som vinparingens kronjuvel.

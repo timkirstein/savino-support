@@ -21,7 +21,7 @@ En kremet fiskesuppe trenger en vin som kan stå opp mot fløtens rikdom uten å
 
 - **Middels til fyldig kropp** som matcher suppen uten å drukne sjømatens delikate smaker
 - **Integrert syre** som skjærer gjennom fettrikdommen og holder ganen frisk
-- **Fruktig rundhet** som kompletterer subbens kremete tekstur og milde sødme
+- **Fruktig rundhet** som kompletterer suppens kremete tekstur og milde sødme
 
 > Kremete retter trenger en vin med nok fylde til å henge med – men alltid med syre i bunnen.
 
@@ -35,6 +35,6 @@ Savino har funnet 3 viner som passer svært godt til fiskesuppe.
 
 En lett buljongbasert fiskesuppe uten fløte er en helt annen sak enn en kremet variant – her holder en lettere og friskere hvitvin til perfekt. Syre og mineralitet er nøkkelordene for den tynne, klare suppen som ikke trenger kropp i glasset.
 
-Tilsetter du rekonskonservens, blåskjell eller andre skalldyr, øker kompleksiteten i retten. Skalldyrenes naturlige jodfylte havsmak kaller på en vin med god mineralitet og friskhet. En dypere sjømatfond i bunnen forsterker havsmaksprofile og kan tåle en vin med litt mer karakter.
+Tilsetter du reker, blåskjell eller andre skalldyr, øker kompleksiteten i retten. Skalldyrenes naturlige jodfylte havsmak kaller på en vin med god mineralitet og friskhet. En dypere sjømatfond i bunnen forsterker havsmaksprofilen og kan tåle en vin med litt mer karakter.
 
 Krydrer du suppen med safran, gurkemeie eller curry, går du over i et annet territorium der aromatiske hviteviner med litt blomstrete preg kan fungere overraskende godt. Disse smakene tåler mer fruktig kompleksitet i glasset enn den klassiske norske kremete fiskesuppen.
