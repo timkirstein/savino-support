@@ -6,6 +6,10 @@ date: 2026-02-25
 date_display: 25. februar 2026
 category: Sjømat
 permalink: /blogg/vin-til-grillet-laks/
+hero:
+  src: /assets/img/salmon-photo.png
+  alt: "Grillet laks med sitron på et trebord"
+  caption: "Sommerens enkleste rett — og en av de enkleste å pare vin med."
 ---
 
 Grillet laks med sitron er sommermiddagen i sin reneste form: rask å lage, vakker å se på og smakfull uten å være komplisert. Sitronen fremhever fiskens naturlige sødme og tilfører friskhet, mens grillens varme gir en lett røykfylt overflate. Det er en rett som ikke trenger mye for å skinne – og heller ikke mye for å velge riktig vin til.
