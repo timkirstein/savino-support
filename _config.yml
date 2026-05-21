@@ -1,0 +1,39 @@
+title: Savino
+description: Norsk vinapp – riktig vin til maten
+url: https://savino.no
+baseurl: ""
+lang: nb
+
+permalink: /blogg/:slug/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
+
+months:
+  - januar
+  - februar
+  - mars
+  - april
+  - mai
+  - juni
+  - juli
+  - august
+  - september
+  - oktober
+  - november
+  - desember
+
+exclude:
+  - README.md
+  - .DS_Store
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - design_handoff_savino_blog
