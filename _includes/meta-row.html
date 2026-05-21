@@ -4,20 +4,13 @@
 {% assign year        = page.date | date: "%Y" %}
 {% assign words       = content | number_of_words %}
 {% assign read_time   = words | divided_by: 220 | plus: 1 %}
-{% if page.author %}{% assign author = site.data.authors[page.author] %}{% endif %}
-
 <div class="meta-row">
   {% if page.category %}
   <span class="cat">{{ page.category }}</span>
   {% endif %}
   <span>{{ day }}. {{ nor_month }} {{ year }}</span>
-  {% if author %}
   <span class="dot" aria-hidden="true"></span>
-  <span class="author">
-    <span class="author-avatar" aria-hidden="true">{{ author.initials }}</span>
-    {{ author.name }}
-  </span>
-  {% endif %}
+  <span>Savino</span>
   <span class="dot" aria-hidden="true"></span>
   <span>{{ read_time }} min lesning</span>
 </div>
