@@ -8,7 +8,7 @@ category: Forrett
 permalink: /blogg/vin-til-burrata/
 dish: "burrata"
 hero:
-  src: /assets/img/vin-til-burrata.png
+  src: /assets/img/burrata.jpg
   alt: "burrata på et trebord"
   caption: "Kremhvit burrata med modne tomater – enkelhet som kaller på elegant vin"
 ---

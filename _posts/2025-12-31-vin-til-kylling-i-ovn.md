@@ -8,7 +8,7 @@ category: Kjøtt
 permalink: /blogg/vin-til-kylling-i-ovn/
 dish: "kylling i ovn"
 hero:
-  src: /assets/img/vin-til-kylling-i-ovn.png
+  src: /assets/img/chicken_oven.jpg
   alt: "kylling i ovn på et trebord"
   caption: "Gyllen ovnsstekt kylling – en klassiker som slipper inn mange vinstiler"
 ---

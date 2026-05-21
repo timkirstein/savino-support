@@ -8,7 +8,7 @@ category: Sjømat
 permalink: /blogg/vin-til-ovnsbakt-torsk/
 dish: "ovnsbakt torsk"
 hero:
-  src: /assets/img/vin-til-ovnsbakt-torsk.png
+  src: /assets/img/cod.jpg
   alt: "ovnsbakt torsk på et trebord"
   caption: "Saftig hvitfisk fra ovnen – enkel mat som krever riktig glass"
 ---

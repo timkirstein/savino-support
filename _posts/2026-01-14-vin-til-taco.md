@@ -8,7 +8,7 @@ category: Hverdagsmat
 permalink: /blogg/vin-til-taco/
 dish: "taco"
 hero:
-  src: /assets/img/vin-til-taco.png
+  src: /assets/img/taco.jpg
   alt: "taco på et trebord"
   caption: "Fredagstaco – Norges folkekjære middag fortjener riktig glass"
 ---

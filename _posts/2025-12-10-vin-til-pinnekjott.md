@@ -8,7 +8,7 @@ category: Kjøtt
 permalink: /blogg/vin-til-pinnekjott/
 dish: "pinnekjøtt"
 hero:
-  src: /assets/img/vin-til-pinnekjott.png
+  src: /assets/img/pinnekjott.jpg
   alt: "pinnekjøtt på et trebord"
   caption: "Vestlandets julemiddag – salt, røykfylt og krevende for vinen"
 ---

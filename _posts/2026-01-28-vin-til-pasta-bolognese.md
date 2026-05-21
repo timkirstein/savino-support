@@ -8,7 +8,7 @@ category: Pasta
 permalink: /blogg/vin-til-pasta-bolognese/
 dish: "pasta bolognese"
 hero:
-  src: /assets/img/vin-til-pasta-bolognese.png
+  src: /assets/img/pasta_bolognese.jpg
   alt: "pasta bolognese på et trebord"
   caption: "Dampende pasta bolognese – en hverdagsklassiker med klar vinlogikk"
 ---

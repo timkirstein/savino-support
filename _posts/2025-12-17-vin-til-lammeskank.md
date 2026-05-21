@@ -8,7 +8,7 @@ category: Kjøtt
 permalink: /blogg/vin-til-lammeskank/
 dish: "lammeskank"
 hero:
-  src: /assets/img/vin-til-lammeskank.png
+  src: /assets/img/lamb_skank.jpg
   alt: "lammeskank på et trebord"
   caption: "Langkokt lammeskank – en vinterrett som fortjener et glass med dybde"
 ---

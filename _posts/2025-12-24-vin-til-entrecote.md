@@ -8,7 +8,7 @@ category: Kjøtt
 permalink: /blogg/vin-til-entrecote/
 dish: "entrecôte"
 hero:
-  src: /assets/img/vin-til-entrecote.png
+  src: /assets/img/entrecote.jpg
   alt: "entrecôte på et trebord"
   caption: "Perfekt stekt entrecôte – en biffkveld som fortjener riktig rødvin"
 ---

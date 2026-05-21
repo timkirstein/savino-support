@@ -8,7 +8,7 @@ category: Sjømat
 permalink: /blogg/vin-til-kamskjell/
 dish: "kamskjell"
 hero:
-  src: /assets/img/vin-til-kamskjell.png
+  src: /assets/img/moules.jpg
   alt: "kamskjell på et trebord"
   caption: "Stekte kamskjell – delikat sødme som fortjener et glass av kaliber"
 ---

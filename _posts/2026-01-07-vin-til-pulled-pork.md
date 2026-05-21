@@ -8,7 +8,7 @@ category: Kjøtt
 permalink: /blogg/vin-til-pulled-pork/
 dish: "pulled pork"
 hero:
-  src: /assets/img/vin-til-pulled-pork.png
+  src: /assets/img/pulled_pork.jpg
   alt: "pulled pork på et trebord"
   caption: "Langkokt, røykfylt svinekjøtt – BBQ-klassikeren som krever en vin med karakter"
 ---

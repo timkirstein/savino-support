@@ -8,7 +8,7 @@ category: Pasta
 permalink: /blogg/vin-til-lasagne/
 dish: "lasagne"
 hero:
-  src: /assets/img/vin-til-lasagne.png
+  src: /assets/img/lasagne.jpg
   alt: "lasagne på et trebord"
   caption: "Gratinert lasagne rett fra ovnen – familiemiddag som vil ha riktig rødvin"
 ---

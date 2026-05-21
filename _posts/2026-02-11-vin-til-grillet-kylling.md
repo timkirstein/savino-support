@@ -8,7 +8,7 @@ category: Kjøtt
 permalink: /blogg/vin-til-grillet-kylling/
 dish: "grillet kylling"
 hero:
-  src: /assets/img/vin-til-grillet-kylling.png
+  src: /assets/img/grilled_chicken.jpg
   alt: "grillet kylling på et trebord"
   caption: "Gyllen og røykfylt grillet kylling – sommerens klassiker med mange vinmuligheter"
 ---

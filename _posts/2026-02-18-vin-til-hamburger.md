@@ -8,7 +8,7 @@ category: Hverdagsmat
 permalink: /blogg/vin-til-hamburger/
 dish: "hamburger"
 hero:
-  src: /assets/img/vin-til-hamburger.png
+  src: /assets/img/hamburger.jpg
   alt: "hamburger på et trebord"
   caption: "Saftig hjemmelaget burger – også dette fortjener et godt glass vin"
 ---

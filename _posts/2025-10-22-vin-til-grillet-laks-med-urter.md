@@ -8,7 +8,7 @@ category: Sjømat
 permalink: /blogg/vin-til-grillet-laks-med-urter/
 dish: "grillet laks med urter"
 hero:
-  src: /assets/img/vin-til-grillet-laks-med-urter.png
+  src: /assets/img/salmon-photo.png
   alt: "grillet laks med urter på et trebord"
   caption: "Røykfylte grillspor, friske urter og en vin som matcher"
 ---

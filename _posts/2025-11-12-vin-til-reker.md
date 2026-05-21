@@ -8,7 +8,7 @@ category: Sjømat
 permalink: /blogg/vin-til-reker/
 dish: "reker"
 hero:
-  src: /assets/img/vin-til-reker.png
+  src: /assets/img/shrimps.jpg
   alt: "reker på et trebord"
   caption: "Ferske reker på terrassen – en norsk klassiker som fortjener riktig glass"
 ---

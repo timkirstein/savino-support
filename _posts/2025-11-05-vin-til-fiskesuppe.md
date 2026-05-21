@@ -8,7 +8,7 @@ category: Sjømat
 permalink: /blogg/vin-til-fiskesuppe/
 dish: "fiskesuppe"
 hero:
-  src: /assets/img/vin-til-fiskesuppe.png
+  src: /assets/img/fish_soup.jpg
   alt: "fiskesuppe på et trebord"
   caption: "Dampende fiskesuppe – trøstemat som fortjener riktig vin i glasset"
 ---

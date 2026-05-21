@@ -8,7 +8,7 @@ category: Hverdagsmat
 permalink: /blogg/vin-til-pizza/
 dish: "pizza"
 hero:
-  src: /assets/img/vin-til-pizza.png
+  src: /assets/img/pizza.jpg
   alt: "pizza på et trebord"
   caption: "Sprø pizza med tomatsaus – en hverdagsklassiker som vil ha riktig vin"
 ---

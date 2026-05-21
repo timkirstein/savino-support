@@ -8,7 +8,7 @@ category: Sjømat
 permalink: /blogg/vin-til-bacalao/
 dish: "bacalao"
 hero:
-  src: /assets/img/vin-til-bacalao.png
+  src: /assets/img/bacalao.jpg
   alt: "bacalao på et trebord"
   caption: "Norsk hverdagsklassiker med iberiske røtter – og et krevende vinvalg"
 ---

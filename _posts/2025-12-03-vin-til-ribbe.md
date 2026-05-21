@@ -8,7 +8,7 @@ category: Kjøtt
 permalink: /blogg/vin-til-ribbe/
 dish: "ribbe"
 hero:
-  src: /assets/img/vin-til-ribbe.png
+  src: /assets/img/ribbe.jpg
   alt: "ribbe på et trebord"
   caption: "Sprø svor og rik ribbe – julemiddagen som krever riktig glass"
 ---
