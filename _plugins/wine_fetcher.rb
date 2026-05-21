@@ -39,11 +39,12 @@ module Savino
     req['Content-Type'] = 'application/json'
     req['X-Api-Key']    = api_key
     req.body = JSON.generate(
-      dishText:   dish,
+      dishText:   dish.encode('UTF-8'),
       priceMin:   100,
       priceMax:   500,
       maxResults: 3
     )
+    req.body.force_encoding('UTF-8')
 
     res = http.request(req)
 

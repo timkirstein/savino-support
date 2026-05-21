@@ -6,7 +6,7 @@ lead: "Burrata er en delikat og kremet ost som trenger en vin med frisk syre og 
 date: 2026-03-04
 category: Forrett
 permalink: /blogg/vin-til-burrata/
-dish: "burrata"
+dish: "burrata med tomater og basilikum"
 hero:
   src: /assets/img/burrata.jpg
   alt: "burrata på et trebord"
