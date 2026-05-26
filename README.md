@@ -1,4 +1,43 @@
-# Savino – Support
+# Savino – Support site (savino.no)
+
+Jekyll-site for savino.no — markedsføringsside, blogg og personvernerklæring.
+
+## Kjøre lokalt
+
+Krever Ruby + Bundler. Installer avhengigheter første gang:
+
+```bash
+bundle install
+```
+
+Hent API-nøkkelen for vinanbefaling-pluginen (krever Firebase-tilgang):
+
+```bash
+firebase functions:secrets:access BLOG_API_KEY --project grapemate-f80e3
+```
+
+Start Jekyll med nøkkelen:
+
+```bash
+SAVINO_API_KEY=<nøkkelen> bundle exec jekyll serve
+```
+
+Åpne [http://localhost:4000](http://localhost:4000).
+
+> Uten `SAVINO_API_KEY` bygger siden fint, men blogginnlegg viser ingen vinAnbefalinger.
+> Hentede viner caches i `.jekyll-cache/wine_fetcher/` — neste bygg er raskere.
+
+## Deploye til produksjon
+
+Siden deployes automatisk via **GitHub Pages** når du pusher til `main`:
+
+```bash
+git push origin main
+```
+
+GitHub Pages kjører Jekyll og publiserer til [savino.no](https://savino.no) i løpet av ~1 minutt.
+
+---
 
 Har du spørsmål, feil eller tilbakemeldinger?
 Kontakt oss på: hei@savino.no
