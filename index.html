@@ -1,5 +1,6 @@
 ---
 ---
+
 <!doctype html>
 <html lang="no" class="light">
   <head>
@@ -27,15 +28,30 @@
 
     <!-- Optional but recommended -->
     <meta property="og:site_name" content="Savino" />
+    <link rel="canonical" href="https://savino.no/" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&display=swap"
       rel="stylesheet"
     />
-    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon/favicon-16x16.png" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicon/apple-touch-icon.png" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/assets/img/favicon/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/assets/img/favicon/favicon-16x16.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/assets/img/favicon/apple-touch-icon.png"
+    />
     <link rel="stylesheet" href="./styles.css" />
     <link rel="stylesheet" href="/assets/css/main.css" />
   </head>
@@ -315,7 +331,6 @@
           </div>
         </div>
       </section>
-
     </main>
 
     <footer class="footer">
@@ -331,6 +346,9 @@
 
     <script>
       document.getElementById("year").textContent = new Date().getFullYear();
+      if (window.location.pathname === "/index.html") {
+        window.location.replace("/");
+      }
     </script>
   </body>
 </html>

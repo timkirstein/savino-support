@@ -1,94 +1,146 @@
 <!doctype html>
 <html lang="no" class="light">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Savino – Personvernerklæring</title>
-  <meta name="description" content="Personvernerklæring for Savino." />
-  <meta name="theme-color" content="#0B4F46" />
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./styles.css" />
-</head>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Savino – Personvernerklæring</title>
+    <meta name="description" content="Personvernerklæring for Savino." />
+    <meta name="theme-color" content="#0B4F46" />
+    <link rel="canonical" href="https://savino.no/privacy" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
 
-<body>
-
-  <header class="nav">
-    <div class="container nav-inner">
-      <div class="brand">
-        <img
-          src="./logo_primary.png"
-          alt="Savino"
-          class="logo"
-          width="48"
-          height="48"
-        />
-        <div class="brand-text">
-          <div class="brand-name">SAVINO</div>
-          <div class="brand-tagline">Personvernerklæring</div>
+  <body>
+    <header class="nav">
+      <div class="container nav-inner">
+        <div class="brand">
+          <img
+            src="./logo_primary.png"
+            alt="Savino"
+            class="logo"
+            width="48"
+            height="48"
+          />
+          <div class="brand-text">
+            <div class="brand-name">SAVINO</div>
+            <div class="brand-tagline">Personvernerklæring</div>
+          </div>
+        </div>
+        <div class="nav-actions">
+          <a class="btn btn-secondary" href="./index.html">Tilbake</a>
         </div>
       </div>
-      <div class="nav-actions">
-        <a class="btn btn-secondary" href="./index.html">Tilbake</a>
+    </header>
+
+    <main class="first-section">
+      <div class="container">
+        <h1>Personvernerklæring</h1>
+        <p class="lead">Sist oppdatert: 29. april 2026</p>
+
+        <div class="card" style="max-width: 860px">
+          <h3>Om Savino</h3>
+          <p>
+            Savino er en app for vinkjellerforvaltning og vinanbefalinger. Du
+            kan registrere viner i din digitale vinkjeller, få anbefalinger
+            basert på matretter, og chatte med en digital sommelier som hjelper
+            deg å velge vin fra kjelleren din eller søke i eksterne
+            vinkataloger.
+          </p>
+
+          <h3 style="margin-top: 18px">Hva vi lagrer</h3>
+          <ul class="list">
+            <li>
+              Brukere får en anonym ID i Firebase som gjør at appen kan lagre
+              data uten å vite hvem brukeren er.
+            </li>
+            <li>
+              Vinkjeller (viner du har registrert) lagres i Firestore knyttet
+              til din bruker-ID.
+            </li>
+            <li>
+              Søkehistorikk og aktivitet i appen lagres anonymt i Google
+              Firebase for å forbedre tjenesten.
+            </li>
+            <li>
+              Samtaler med den digitale sommelieren lagres ikke — de er kun
+              aktive mens sesjonen pågår.
+            </li>
+            <li>
+              Dersom du velger å koble til en Google- eller Apple-konto, lagres
+              e-postadressen din i Firebase Authentication.
+            </li>
+          </ul>
+
+          <h3 style="margin-top: 18px">Tredjepartstjenester</h3>
+          <ul class="list">
+            <li>
+              <strong>OpenAI:</strong> Vinanbefalinger og sommeliersamtaler
+              behandles av OpenAI. Ingen persondata sendes — kun matrett- og
+              vindata.
+            </li>
+            <li>
+              <strong>RevenueCat:</strong> Abonnementsstatus og kjøpshistorikk
+              deles med RevenueCat for å behandle kjøp og fornyelse.
+            </li>
+            <li>
+              <strong>Apple App Store / Google Play:</strong>
+              Betalingsbehandling skjer utelukkende via App Store eller Google
+              Play — Savino lagrer ikke betalingsinformasjon.
+            </li>
+            <li>
+              <strong>Vinmonopolet / Systembolaget:</strong> Vinsøk bruker
+              offentlig tilgjengelig sortimentsdata.
+            </li>
+          </ul>
+
+          <h3 style="margin-top: 18px">Abonnement</h3>
+          <p>
+            Abonnementsdata (nivå, utløpsdato, leverandør) lagres i Firestore
+            knyttet til din bruker-ID. Savino lagrer ikke betalingsinformasjon.
+          </p>
+
+          <h3 style="margin-top: 18px">Dine rettigheter</h3>
+          <p>
+            Du kan når som helst slette kontoen din og all tilknyttet data fra
+            Konto-siden i appen (GDPR art. 17). Kontakt oss på
+            <a href="mailto:hei@savino.no">hei@savino.no</a> for spørsmål om
+            dine data.
+          </p>
+
+          <h3 style="margin-top: 18px">Lagring og sikkerhet</h3>
+          <p>
+            All data lagres i Google Firebase (EU/EØS). Kommunikasjon mellom
+            appen og serverne er kryptert (HTTPS).
+          </p>
+
+          <h3 style="margin-top: 18px">Kontakt</h3>
+          <p class="mono"><a href="mailto:hei@savino.no">hei@savino.no</a></p>
+        </div>
       </div>
-    </div>
-  </header>
+    </main>
 
-  <main class="first-section">
-    <div class="container">
-      <h1>Personvernerklæring</h1>
-      <p class="lead">Sist oppdatert: 29. april 2026</p>
-
-      <div class="card" style="max-width: 860px;">
-        <h3>Om Savino</h3>
-        <p>Savino er en app for vinkjellerforvaltning og vinanbefalinger. Du kan registrere viner i din digitale vinkjeller, få anbefalinger basert på matretter, og chatte med en digital sommelier som hjelper deg å velge vin fra kjelleren din eller søke i eksterne vinkataloger.</p>
-
-        <h3 style="margin-top:18px;">Hva vi lagrer</h3>
-        <ul class="list">
-          <li>Brukere får en anonym ID i Firebase som gjør at appen kan lagre data uten å vite hvem brukeren er.</li>
-          <li>Vinkjeller (viner du har registrert) lagres i Firestore knyttet til din bruker-ID.</li>
-          <li>Søkehistorikk og aktivitet i appen lagres anonymt i Google Firebase for å forbedre tjenesten.</li>
-          <li>Samtaler med den digitale sommelieren lagres ikke — de er kun aktive mens sesjonen pågår.</li>
-          <li>Dersom du velger å koble til en Google- eller Apple-konto, lagres e-postadressen din i Firebase Authentication.</li>
-        </ul>
-
-        <h3 style="margin-top:18px;">Tredjepartstjenester</h3>
-        <ul class="list">
-          <li><strong>OpenAI:</strong> Vinanbefalinger og sommeliersamtaler behandles av OpenAI. Ingen persondata sendes — kun matrett- og vindata.</li>
-          <li><strong>RevenueCat:</strong> Abonnementsstatus og kjøpshistorikk deles med RevenueCat for å behandle kjøp og fornyelse.</li>
-          <li><strong>Apple App Store / Google Play:</strong> Betalingsbehandling skjer utelukkende via App Store eller Google Play — Savino lagrer ikke betalingsinformasjon.</li>
-          <li><strong>Vinmonopolet / Systembolaget:</strong> Vinsøk bruker offentlig tilgjengelig sortimentsdata.</li>
-        </ul>
-
-        <h3 style="margin-top:18px;">Abonnement</h3>
-        <p>Abonnementsdata (nivå, utløpsdato, leverandør) lagres i Firestore knyttet til din bruker-ID. Savino lagrer ikke betalingsinformasjon.</p>
-
-        <h3 style="margin-top:18px;">Dine rettigheter</h3>
-        <p>Du kan når som helst slette kontoen din og all tilknyttet data fra Konto-siden i appen (GDPR art. 17). Kontakt oss på <a href="mailto:hei@savino.no">hei@savino.no</a> for spørsmål om dine data.</p>
-
-        <h3 style="margin-top:18px;">Lagring og sikkerhet</h3>
-        <p>All data lagres i Google Firebase (EU/EØS). Kommunikasjon mellom appen og serverne er kryptert (HTTPS).</p>
-
-        <h3 style="margin-top:18px;">Kontakt</h3>
-        <p class="mono"><a href="mailto:hei@savino.no">hei@savino.no</a></p>
+    <footer class="footer">
+      <div class="container footer-inner">
+        <div>© <span id="year"></span> Savino</div>
+        <div class="footer-links">
+          <a href="./index.html">Hjem</a>
+          <a href="./terms.html">Vilkår</a>
+          <a href="mailto:hei@savino.no">Support</a>
+        </div>
       </div>
-    </div>
-  </main>
+    </footer>
 
-  <footer class="footer">
-    <div class="container footer-inner">
-      <div>© <span id="year"></span> Savino</div>
-      <div class="footer-links">
-        <a href="./index.html">Hjem</a>
-        <a href="./terms.html">Vilkår</a>
-        <a href="mailto:hei@savino.no">Support</a>
-      </div>
-    </div>
-  </footer>
-
-  <script>
-    document.getElementById("year").textContent = new Date().getFullYear();
-  </script>
-</body>
+    <script>
+      document.getElementById("year").textContent = new Date().getFullYear();
+      if (window.location.pathname === "/index.html") {
+        window.location.replace("/");
+      }
+    </script>
+  </body>
 </html>
