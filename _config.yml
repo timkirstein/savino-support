@@ -6,8 +6,6 @@ lang: nb
 
 permalink: /blogg/:slug/
 
-future: true
-
 markdown: kramdown
 kramdown:
   input: GFM
