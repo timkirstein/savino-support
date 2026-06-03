@@ -3,7 +3,7 @@ layout: post
 title: "Vin til grillet tunfiskbiff med sesam og ingefær"
 description: "Grillet tunfiskbiff er sommerens mest kjøttlignende sjømatrett – tett, proteinrikt kjøtt som tåler og trenger viner med mer karakter enn vanlig fisk."
 lead: "Grillet tunfiskbiff er sommerens mest kjøttlignende sjømatrett – tett, proteinrikt kjøtt som tåler og trenger viner med mer karakter enn vanlig fisk."
-date: 2026-07-22
+date: 2025-08-06
 category: Sjømat
 permalink: /blogg/vin-til-grillet-tunfisk/
 dish: "grillet tunfiskbiff med sesam, ingefær og soyasaus"

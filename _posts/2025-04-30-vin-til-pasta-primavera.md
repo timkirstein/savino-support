@@ -3,7 +3,7 @@ layout: post
 title: "Vin til pasta primavera med sesongens grønnsaker"
 description: "Pasta primavera – vårens pasta – er en feiring av grønnsakenes beste sesong: friske erter, asparges, courgette og urter i en lett, oljebasert saus."
 lead: "Pasta primavera – vårens pasta – er en feiring av grønnsakenes beste sesong: friske erter, asparges, courgette og urter i en lett, oljebasert saus."
-date: 2026-10-28
+date: 2025-04-30
 category: Pasta
 permalink: /blogg/vin-til-pasta-primavera/
 dish: "pasta primavera med friske erter, asparges og courgette"

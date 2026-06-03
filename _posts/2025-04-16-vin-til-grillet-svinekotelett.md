@@ -3,7 +3,7 @@ layout: post
 title: "Vin til grillet svinekotelett med eple og salvie"
 description: "Grillet svinekotelett med eple og salvie er en tidsløs kombinasjon – svinets rike umami, eplenes søtlige syre og salvienes aromatiske bitterhet er en vinparingens treenighet."
 lead: "Grillet svinekotelett med eple og salvie er en tidsløs kombinasjon – svinets rike umami, eplenes søtlige syre og salvienes aromatiske bitterhet er en vinparingens treenighet."
-date: 2026-11-11
+date: 2025-04-16
 category: Kjøtt
 permalink: /blogg/vin-til-grillet-svinekotelett/
 dish: "grillet svinekotelett med eple, salvie og sennep"

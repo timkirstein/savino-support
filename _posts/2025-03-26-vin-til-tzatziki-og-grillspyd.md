@@ -3,7 +3,7 @@ layout: post
 title: "Vin til tzatziki med grillspyd av lam og pita"
 description: "Tzatziki med grillspyd av lam og varm pita er sommerens store Middelhavsfest – frisk, aromatisk og krydret på en måte som åpner for overraskende vinvalg."
 lead: "Tzatziki med grillspyd av lam og varm pita er sommerens store Middelhavsfast – frisk, aromatisk og krydret på en måte som åpner for overraskende vinvalg."
-date: 2026-12-02
+date: 2025-03-26
 category: Kjøtt
 permalink: /blogg/vin-til-tzatziki-og-grillspyd/
 dish: "grillspyd av lam med tzatziki, hvitløk og varm pita"

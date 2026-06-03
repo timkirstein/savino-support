@@ -3,7 +3,7 @@ layout: post
 title: "Vin til tomatsalat med basilikum og mozzarella"
 description: "Tomatsalat med basilikum og mozzarella er capresens uformelle søsken – en enkel rett der råvarenes kvalitet er alt og vinen bør matche enkelheten."
 lead: "Tomatsalat med basilikum og mozzarella er capresens uformelle søsken – en enkel rett der råvarenes kvalitet er alt og vinen bør matche enkelheten."
-date: 2026-09-02
+date: 2025-06-25
 category: Forrett
 permalink: /blogg/vin-til-tomatsalat/
 dish: "tomatsalat med basilikum, mozzarella og god olivenolje"

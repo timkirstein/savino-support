@@ -3,7 +3,7 @@ layout: post
 title: "Vin til sommersalat med jordbær, feta og valnøtter"
 description: "En sommersalat med jordbær, fetaost og valnøtter er sesongkjøkkenets kjekkeste kombinasjon – søtt, salt og nøttete i en balanse som gir vinen noe å jobbe med."
 lead: "En sommersalat med jordbær, fetaost og valnøtter er sesongkjøkkenets kjekkeste kombinasjon – søtt, salt og nøttete i en balanse som gir vinen noe å jobbe med."
-date: 2026-11-25
+date: 2025-04-02
 category: Vegetar
 permalink: /blogg/vin-til-sommersalat-med-jordbaer/
 dish: "sommersalat med ferske jordbær, fetaost og valnøtter"

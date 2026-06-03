@@ -3,7 +3,7 @@ layout: post
 title: "Vin til sjømatfat med krabbe, reker og hummer"
 description: "Et sjømatfat med krabbe, reker og hummer er sommerens ultimate festbord ved sjøen – og krever en vin som er like ambisiøs som selskapet."
 lead: "Et sjømatfat med krabbe, reker og hummer er sommerens ultimate festbord ved sjøen – og krever en vin som er like ambisiøs som selskapet."
-date: 2026-11-18
+date: 2025-04-09
 category: Sjømat
 permalink: /blogg/vin-til-sjomatfat/
 dish: "sjømatfat med krabbe, reker, hummer og sjømat fra kysten"

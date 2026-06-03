@@ -3,7 +3,7 @@ layout: post
 title: "Vin til kyllingspyd med yoghurtmarinade og pita"
 description: "Kyllingspyd med yoghurtmarinade er sommergrillens store allrounder – mør kylling, aromatisk krydder og frisk pita som samles til en festlig middag."
 lead: "Kyllingspyd med yoghurtmarinade er sommergrillens store allrounder – mør kylling, aromatisk krydder og frisk pita som samles til en festlig middag."
-date: 2026-10-21
+date: 2025-05-07
 category: Kjøtt
 permalink: /blogg/vin-til-kyllingspyd/
 dish: "kyllingspyd med yoghurtmarinade, krydder og pita"

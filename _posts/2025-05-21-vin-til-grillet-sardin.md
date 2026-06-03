@@ -3,7 +3,7 @@ layout: post
 title: "Vin til grillet sardin med sitron og urter"
 description: "Grillet sardin er Middelhavets mest ærlige sommermat – intens, fet og full av umami. En vin uten nok karakter vil forsvinne fullstendig."
 lead: "Grillet sardin er Middelhavets mest ærlige sommermat – intens, fet og full av umami. En vin uten nok karakter vil forsvinne fullstendig."
-date: 2026-10-07
+date: 2025-05-21
 category: Sjømat
 permalink: /blogg/vin-til-grillet-sardin/
 dish: "grillet sardin med sitron, persille og olivenolje"

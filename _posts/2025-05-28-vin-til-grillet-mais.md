@@ -3,7 +3,7 @@ layout: post
 title: "Vin til grillet mais med smør og chili"
 description: "Grillet mais med smør og chili er sommerens mest folkelige grillside – søt, karamellisert og lett krydret på en måte som gir vinen noe konkret å jobbe med."
 lead: "Grillet mais med smør og chili er sommerens mest folkelige grillside – søt, karamellisert og lett krydret på en måte som gir vinen noe konkret å jobbe med."
-date: 2026-09-30
+date: 2025-05-28
 category: Vegetar
 permalink: /blogg/vin-til-grillet-mais/
 dish: "grillet mais med smør, chili og limejuice"

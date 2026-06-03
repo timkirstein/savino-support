@@ -3,7 +3,7 @@ layout: post
 title: "Vin til grillet lammekoteletter med rosmarin"
 description: "Grillet lammekoteletter med rosmarin er sommerens kjøttrett med mest karakter – lammet er intenst, aromatisk og krever en vin som kan stå imot."
 lead: "Grillet lammekoteletter med rosmarin er sommerens kjøttrett med mest karakter – lammet er intenst, aromatisk og krever en vin som kan stå imot."
-date: 2026-07-29
+date: 2025-07-30
 category: Kjøtt
 permalink: /blogg/vin-til-grillet-lammekoteletter/
 dish: "grillet lammekoteletter med rosmarin og hvitløk"

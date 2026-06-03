@@ -3,7 +3,7 @@ layout: post
 title: "Vin til kald gazpacho med tomat og agurk"
 description: "Gazpacho er Spanias svar på sommervarme – kald, frisk og full av grønnsaksintensitet. En utfordrende, men givende match for vinen."
 lead: "Gazpacho er Spanias svar på sommervarme – kald, frisk og full av grønnsaksintensitet. En utfordrende, men givende match for vinen."
-date: 2026-07-01
+date: 2025-08-27
 category: Vegetar
 permalink: /blogg/vin-til-gazpacho/
 dish: "kald gazpacho med tomat, agurk og paprika"

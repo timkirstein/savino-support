@@ -3,7 +3,7 @@ layout: post
 title: "Vin til grillet sjøkreps med smør og hvitløk"
 description: "Sjøkreps er det norske fjordfiskets edleste krepsdyr – grillet med smør og hvitløk er det en rett som rettferdiggjør den beste flasken i kjelleren."
 lead: "Sjøkreps er det norske fjordfiskets edleste krepsdyr – grillet med smør og hvitløk er det en rett som rettferdiggjør den beste flasken i kjelleren."
-date: 2026-08-19
+date: 2025-07-09
 category: Sjømat
 permalink: /blogg/vin-til-sjokreps/
 dish: "grillet sjøkreps med smør og hvitløk"

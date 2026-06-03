@@ -3,7 +3,7 @@ layout: post
 title: "Vin til vitello tonnato – kalvekjøtt med tunfisksaus"
 description: "Vitello tonnato er en av Piemontes mest særegne klassikere – kaldt kalvekjøtt med en kremet tunfisksaus er en smaksmessig overraskelse som gleder vinelskere."
 lead: "Vitello tonnato er en av Piemontes mest særegne klassikere – kaldt kalvekjøtt med en kremet tunfisksaus er en smaksmessig overraskelse som gleder vinelskere."
-date: 2026-11-04
+date: 2025-04-23
 category: Kjøtt
 permalink: /blogg/vin-til-vitello-tonnato/
 dish: "vitello tonnato – tynne skiver kalvekjøtt med kremet tunfisksaus"

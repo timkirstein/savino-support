@@ -3,7 +3,7 @@ layout: post
 title: "Vin til ratatouille med provençalske grønnsaker"
 description: "Ratatouille er Provences hyllest til sommerens grønnsaker – aubergine, courgette, tomat, paprika og løk i en aromatisk sammensmeltning som er overraskende vinvennlig."
 lead: "Ratatouille er Provences hyllest til sommerens grønnsaker – aubergine, courgette, tomat, paprika og løk i en aromatisk sammensmeltning som er overraskende vinvennlig."
-date: 2026-09-23
+date: 2025-06-04
 category: Vegetar
 permalink: /blogg/vin-til-ratatouille/
 dish: "ratatouille med aubergine, courgette, tomat og paprika"

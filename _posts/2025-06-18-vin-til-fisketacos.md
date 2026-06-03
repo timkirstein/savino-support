@@ -3,7 +3,7 @@ layout: post
 title: "Vin til fisketacos med hvit fisk og mangosalsa"
 description: "Fisketacos med mangosalsa er en av sommerens mest fargerike og friske retter – sødmefulle, syrlige og litt krydrede toner gir vinen et spennende puslespill."
 lead: "Fisketacos med mangosalsa er en av sommerens mest fargerike og friske retter – sødmefulle, syrlige og litt krydrede toner gir vinen et spennende puslespill."
-date: 2026-09-09
+date: 2025-06-18
 category: Hverdagsmat
 permalink: /blogg/vin-til-fisketacos/
 dish: "fisketacos med hvit fisk, mangosalsa og lime-krem"

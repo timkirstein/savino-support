@@ -3,7 +3,7 @@ layout: post
 title: "Vin til caprese med fersk mozzarella og tomat"
 description: "Caprese er sommerens enkleste og vakreste rett – fersk mozzarella, modne tomater og basilikum med god olivenolje. Vinvalget skal speile den enkle elegansen."
 lead: "Caprese er sommerens enkleste og vakreste rett – fersk mozzarella, modne tomater og basilikum med god olivenolje. Vinvalget skal speile den enkle elegansen."
-date: 2026-06-24
+date: 2025-09-03
 category: Forrett
 permalink: /blogg/vin-til-caprese/
 dish: "caprese med fersk mozzarella, tomat og basilikum"

@@ -3,7 +3,7 @@ layout: post
 title: "Vin til pasta med basilikumpesto og parmesan"
 description: "Pasta med fersk basilikumpesto er sommerens hurtigmiddag og piknik-mat, men basilikumens intense urtekarakter er en av de mest krevende for vinvalget."
 lead: "Pasta med fersk basilikumpesto er sommerens hurtigmiddag og piknik-mat, men basilikumens intense urtekarakter er en av de mest krevende for vinvalget."
-date: 2026-08-05
+date: 2025-07-23
 category: Pasta
 permalink: /blogg/vin-til-pasta-med-pesto/
 dish: "pasta med basilikumpesto, pinjekjerner og parmesan"

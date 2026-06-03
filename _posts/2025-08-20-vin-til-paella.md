@@ -3,7 +3,7 @@ layout: post
 title: "Vin til spansk paella med sjømat"
 description: "Paella med sjømat er en av Middelhavets store festmenyer – safranets gule farge og sjømatens marine dybde setter en vin på prøve på en herlig måte."
 lead: "Paella med sjømat er en av Middelhavets store festmenyer – safranets gule farge og sjømatens marine dybde setter en vin på prøve på en herlig måte."
-date: 2026-07-08
+date: 2025-08-20
 category: Sjømat
 permalink: /blogg/vin-til-paella/
 dish: "spansk paella med sjømat og safran"

@@ -3,7 +3,7 @@ layout: post
 title: "Vin til grillet blekksprut med sitron og persille"
 description: "Grillet blekksprut er en av sommerens mest undervurderte sjømatretter. Med riktig tilberedning og riktig vin er det en opplevelse som nærmer seg det sublime."
 lead: "Grillet blekksprut er en av sommerens mest undervurderte sjømatretter. Med riktig tilberedning og riktig vin er det en opplevelse som nærmer seg det sublime."
-date: 2026-07-15
+date: 2025-08-13
 category: Sjømat
 permalink: /blogg/vin-til-grillet-blekksprut/
 dish: "grillet blekksprut med sitron, persille og olivenolje"

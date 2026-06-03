@@ -3,7 +3,7 @@ layout: post
 title: "Vin til fersk melon med spekeskinke og basilikum"
 description: "Melon og spekeskinke er en av Europas mest elskede sommerformene – søtt møter salt i en klassisk kontrast som vinvalget bør speile og forsterke."
 lead: "Melon og spekeskinke er en av Europas mest elskede sommerformere – søtt møter salt i en klassisk kontrast som vinvalget bør speile og forsterke."
-date: 2026-09-16
+date: 2025-06-11
 category: Forrett
 permalink: /blogg/vin-til-melon-og-spekeskinke/
 dish: "fersk melon med spekeskinke og frisk basilikum"

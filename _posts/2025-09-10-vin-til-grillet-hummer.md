@@ -3,7 +3,7 @@ layout: post
 title: "Vin til grillet hummer med hvitløksmør"
 description: "Grillet hummer med hvitløksmør er sommerens festmiddag fremfor alle andre – og vinvalget er avgjørende for å gjøre øyeblikket komplett."
 lead: "Grillet hummer med hvitløksmør er sommerens festmiddag fremfor alle andre – og vinvalget er avgjørende for å gjøre øyeblikket komplett."
-date: 2026-06-17
+date: 2025-09-10
 category: Sjømat
 permalink: /blogg/vin-til-grillet-hummer/
 dish: "grillet hummer med hvitløksmør"

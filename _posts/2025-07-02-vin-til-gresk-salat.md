@@ -3,7 +3,7 @@ layout: post
 title: "Vin til gresk salat med fetaost og oliven"
 description: "Gresk salat er sommerens mest internasjonale sidrett – tomat, agurk, paprika, rødløk, kalamataoliven og fetaost gir et smaksbilde som er overraskende krevende for vinen."
 lead: "Gresk salat er sommerens mest internasjonale sidrett – tomat, agurk, paprika, rødløk, kalamataoliven og fetaost gir et smaksbilde som er overraskende krevende for vinen."
-date: 2026-08-26
+date: 2025-07-02
 category: Vegetar
 permalink: /blogg/vin-til-gresk-salat/
 dish: "gresk salat med fetaost, kalamataoliven og tomat"

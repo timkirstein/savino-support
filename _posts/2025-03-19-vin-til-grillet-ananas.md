@@ -3,7 +3,7 @@ layout: post
 title: "Vin til grillet ananas med vaniljeis og rom"
 description: "Grillet ananas med vaniljeis og rom er sommerdessertenens karamelliserte triumf – en rett med intenst søte, bitre og alkoholiske toner som kaller på en spesiell vin."
 lead: "Grillet ananas med vaniljeis og rom er sommerdessertenens karamelliserte triumf – en rett med intenst søte, bitre og alkoholiske toner som kaller på en spesiell vin."
-date: 2026-12-09
+date: 2025-03-19
 category: Dessert og ost
 permalink: /blogg/vin-til-grillet-ananas/
 dish: "grillet ananas med vaniljeis, rom og karamellisert sukker"

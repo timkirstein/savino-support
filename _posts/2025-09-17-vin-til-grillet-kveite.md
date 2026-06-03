@@ -3,7 +3,7 @@ layout: post
 title: "Vin til grillet kveite med kapers og smør"
 description: "Kveite er Norges mest prestisjefylte flatfisk, og grillet med kapers og smør er den en rett som fortjener en vin på sitt eget nivå."
 lead: "Kveite er Norges mest prestisjefylte flatfisk, og grillet med kapers og smør er den en rett som fortjener en vin på sitt eget nivå."
-date: 2026-06-10
+date: 2025-09-17
 category: Sjømat
 permalink: /blogg/vin-til-grillet-kveite/
 dish: "grillet kveite med kapers og smørbasert saus"

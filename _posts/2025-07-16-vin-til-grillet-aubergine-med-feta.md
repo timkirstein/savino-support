@@ -3,7 +3,7 @@ layout: post
 title: "Vin til grillet aubergine med fetaost og mynte"
 description: "Grillet aubergine med fetaost er Middelhavsommerens store vegetarrett – røykfylt, salt og aromatisk på en måte som slår overraskende hardt i vinparingen."
 lead: "Grillet aubergine med fetaost er Middelhavsommerens store vegetarrett – røykfylt, salt og aromatisk på en måte som slår overraskende hardt i vinparingen."
-date: 2026-08-12
+date: 2025-07-16
 category: Vegetar
 permalink: /blogg/vin-til-grillet-aubergine-med-feta/
 dish: "grillet aubergine med fetaost, mynte og olivenolje"

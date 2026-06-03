@@ -3,7 +3,7 @@ layout: post
 title: "Vin til hvit asparges med hollandaise"
 description: "Hvit asparges med hollandaise er vårens og sommerens store delikatesse – og en av vinparingens mest krevende utfordringer takket være aspargesen alene."
 lead: "Hvit asparges med hollandaise er vårens og sommerens store delikatesse – og en av vinparingens mest krevende utfordringer takket være aspargesen alene."
-date: 2026-10-14
+date: 2025-05-14
 category: Vegetar
 permalink: /blogg/vin-til-hvit-asparges/
 dish: "hvit asparges med hollandaisesaus og kokt egg"
