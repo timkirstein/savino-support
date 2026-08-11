@@ -4,6 +4,12 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    # Daily rebuild so future-dated blog posts (_posts/*.md with a date that
+    # has just arrived) go live without needing a manual push — the site has
+    # no future: true in _config.yml, so a post only renders once its date
+    # has passed, and GitHub Pages never rebuilds on its own.
+    - cron: "0 5 * * *"
 
 permissions:
   contents: read
