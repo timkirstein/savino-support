@@ -77,6 +77,8 @@
                 href="https://apps.apple.com/no/app/savino/id6755443985"
                 target="_blank"
                 rel="noopener"
+                data-track="download_click"
+                data-store="ios"
               >
                 <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                   <path
@@ -90,6 +92,8 @@
                 href="https://play.google.com/store/apps/details?id=com.savino.digitalsommelier"
                 target="_blank"
                 rel="noopener"
+                data-track="download_click"
+                data-store="android"
               >
                 <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
                   <path
@@ -347,8 +351,11 @@
     <script>
       document.getElementById("year").textContent = new Date().getFullYear();
       if (window.location.pathname === "/index.html") {
-        window.location.replace("/");
+        window.location.replace("/" + window.location.search);
       }
     </script>
+
+    {% include cookie-consent.html %}
+    <script type="module" src="/assets/js/ref-tracking.js"></script>
   </body>
 </html>
