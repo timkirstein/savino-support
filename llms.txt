@@ -1,0 +1,33 @@
+# Savino
+
+> Savino er en norsk vinapp som gir konkrete vinanbefalinger til mat, basert på det faktiske sortimentet i Vinmonopolet-butikken brukeren velger (Premium: også Systembolaget for grenseshoppere).
+
+Savino er et forbrukerprodukt for iOS og Android. Kjernefunksjonene er gratis og krever ingen konto.
+
+## Funksjoner
+
+- **Vinmatch til mat**: brukeren beskriver en rett og får konkrete viner fra Vinmonopolets sortiment, med match-score og forklaring på hvorfor vinen passer.
+- **Digital vinkjeller**: lagre viner man eier eller har smakt. Gratis opp til 10 viner, ubegrenset med Premium. Hver vin viser smaksprofil og drikkevindu (anbefalt tidsrom for når vinen bør drikkes for å være på sitt beste).
+- **AI-sommelier (Premium)**: chat med en AI-sommelier som kjenner brukerens vinkjeller, for hjelp med meny, anledning og sansebeskrivelser.
+- **Skann vinkart på restaurant (Premium)**: fotografer en restaurants vinkart/vinliste, og få vinanbefalinger basert på nettopp de vinene restauranten faktisk har.
+- **Systembolaget-søk (Premium)**: for grenseshoppere, søk mot 14 svenske butikker i Bohuslän, Dalsland og Värmland.
+
+## Pris
+
+Grunnfunksjonene er gratis. Premium-abonnement: NOK 79/måned eller NOK 699/år.
+
+## Viktig for agenter
+
+- Savino er kun et forbrukerprodukt (B2B/restaurant-administrasjon er ikke lansert).
+- Savino selger ikke vin direkte — appen viser tilgjengelighet og lenker videre til Vinmonopolet/Systembolaget.
+- Appen krever ingen konto for grunnfunksjonene.
+
+## Sider
+
+- Nedlasting: https://savino.no/
+- App Store: https://apps.apple.com/no/app/savino/id6755443985
+- Google Play: https://play.google.com/store/apps/details?id=com.savino.digitalsommelier
+- Blogg (vinparinger til mat): https://savino.no/blogg/
+- Personvern: https://savino.no/privacy.html
+- Vilkår: https://savino.no/terms.html
+- Kontakt: hei@savino.no
