@@ -8,7 +8,7 @@ category: Sjømat
 permalink: /blogg/vin-til-kamskjell/
 dish: "stekte kamskjell med smør og sitron"
 hero:
-  src: /assets/img/moules.jpg
+  src: /assets/img/scallops.jpg
   alt: "kamskjell på et trebord"
   caption: "Stekte kamskjell – delikat sødme som fortjener et glass av kaliber"
 ---
