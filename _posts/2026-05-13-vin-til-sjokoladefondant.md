@@ -12,6 +12,7 @@ hero:
   alt: "sjokoladefondant på et trebord"
   caption: "Sjokoladefondant med flytende kjerne – dessertens høydepunkt møter vinens"
 ---
+**Kort svar:** naturlig sødme, intensitet og konsentrasjon og kompleks smaksprofil er det du bør se etter i vin til sjokoladefondant.
 
 Sjokoladefondant med flytende kjerne og kald vaniljeis er en av de mest imponerende desserter du kan sette på bordet – og en av de vanskeligste å finne vin til. Mørk sjokolade har en intens bitterhet og kompleksitet som rett og slett tar knekken på de fleste tørre rødviner og gjør dem smake syrlige og hule. Hemmeligheten er å velge søtt mot søtt.
 

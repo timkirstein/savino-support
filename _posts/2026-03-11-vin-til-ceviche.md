@@ -12,6 +12,7 @@ hero:
   alt: "ceviche på et trebord"
   caption: "Frisk og syrlig ceviche – en rett som setter krav til vinens friskhet"
 ---
+**Kort svar:** livlig friskhet, aromatisk intensitet og lett kropp er det du bør se etter i vin til ceviche.
 
 Ceviche er en av de mest sitrussyrlige rettene som finnes – den hvite fisken marineres i limejuice og serveres med frisk koriander, chili og gjerne søt mais eller avokado. Retten har en intenst frisk, lys smaksprofil som er utfordrende for mange viner: for mye syre i vinen kolliderer med sitrussyren, for lite syre og vinen smaker flat og kjedelig.
 

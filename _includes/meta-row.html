@@ -6,7 +6,7 @@
 {% assign read_time   = words | divided_by: 220 | plus: 1 %}
 <div class="meta-row">
   {% if page.category %}
-  <span class="cat">{{ page.category }}</span>
+  <a class="cat" href="/blogg/kategori/{{ page.category | slugify }}/">{{ page.category }}</a>
   {% endif %}
   <span>{{ day }}. {{ nor_month }} {{ year }}</span>
   <span class="dot" aria-hidden="true"></span>

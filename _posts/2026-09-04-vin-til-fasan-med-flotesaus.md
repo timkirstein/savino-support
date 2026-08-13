@@ -12,6 +12,7 @@ hero:
   alt: "helstekt fasan med fløtesaus på et fat"
   caption: "Helstekt fasan med fløtesaus – viltets mest elegante fjørfe"
 ---
+**Kort svar:** elegant fylde, kremet eller myk syre og jordlige eller sopprike toner er det du bør se etter i vin til fasan med fløtesaus.
 
 Fasan er den mildeste og mest elegante av viltfuglene, med et hvitt, magert kjøtt og en subtil viltsmak som ligger mye nærmere kylling enn rype eller and. En kremet fløtesaus med sopp løfter retten uten å overdøve den fine viltkarakteren, og de glaserte rotgrønnsakene bidrar med en søtlig dybde. Vinvalget bør speile denne balansen mellom elegant og rik.
 

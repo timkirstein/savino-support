@@ -12,6 +12,7 @@ hero:
   alt: "Sommersalat med jordbær, feta og valnøtter"
   caption: "Sommer på en tallerken – der jordbærenes sødme møter fetaostens salt"
 ---
+**Kort svar:** frisk, aromatisk hvitvin, rosé og lav tannin er det du bør se etter i vin til sommersalat med jordbær, feta og valnøtter.
 
 En grønn salat med ferske norske jordbær, salt-syrlig fetaost og sprø valnøtter er sommerens mest sofistikerte hverdagsrett. Bringebærvinaigretten som binder det hele er søtlig-syrlig og tilfører en mørk fruktighet. Det er en rett med mange smaksdimensjoner – søtt, salt, syrlig, bittert og nøttete – som gir vinen et interessant puslespill.
 

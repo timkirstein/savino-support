@@ -12,6 +12,7 @@ hero:
   alt: "hamburger på et trebord"
   caption: "Saftig hjemmelaget burger – også dette fortjener et godt glass vin"
 ---
+**Kort svar:** modne tanniner, mørk, bærfylt frukt og nok kropp er det du bør se etter i vin til hamburger.
 
 En hjemmelaget oksekjøttburger laget av kvalitetskjøttdeig er noe helt annet enn fastfood-varianten – saftig, intenst smakfull og med en rik umamidybde fra oksekjøttet. Med godt brød, smeltet ost og smakfullt tilbehør er det en middag som faktisk fortjener et godt glass vin i stedet for den automatiske ølen.
 

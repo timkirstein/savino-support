@@ -12,6 +12,7 @@ hero:
   alt: "stekt andebryst med plommesaus på en tallerken"
   caption: "Sprøstekt andebryst med plommesaus – høstens klassiske viltrett"
 ---
+**Kort svar:** mørk, moden frukt, nok struktur og tanniner og god syre er det du bør se etter i vin til andebryst med plommesaus.
 
 Andebryst er langt mer beslektet med rødt kjøtt enn med annen fjørfe – mørkt, fett og fullt av smak, med et sprøstekt skinn som gir en herlig kontrast i tekstur. Plommesausen tilfører en søtlig-syrlig dybde som binder retten sammen, mens en portvinsreduksjon gir den ekstra mørk fylde. Dette er en rett som krever en vin med reell struktur bak seg.
 

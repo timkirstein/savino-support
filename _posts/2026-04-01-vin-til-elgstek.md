@@ -12,6 +12,7 @@ hero:
   alt: "elgstek på et trebord"
   caption: "Norsk elgstek – høstens stolthet som kaller på en vin med sjel"
 ---
+**Kort svar:** silkemyke, modne tanniner, god syre og kompleks, jordlig profil er det du bør se etter i vin til elgstek.
 
 Elgstek er selve kroneksemplet på norsk høstfestmat – det mørke, magre kjøttet med sin dype viltsmak er noe helt annet enn storfekjøtt, og fløtesausen tilfører den kremete rikdommen som gjør retten komplett. Kombinasjonen av kraftig vilt og kremet saus gir en smaksprofil som trenger en vin med nok struktur til å tåle kjøttet og nok eleganse til ikke å overdøve sausens finesse.
 

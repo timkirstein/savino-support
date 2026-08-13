@@ -12,6 +12,7 @@ hero:
   alt: "gresskarpai med pisket krem"
   caption: "Gresskarpai – amerikansk høstklassiker med krydret dybde"
 ---
+**Kort svar:** aromatisk krydderkarakter, nok sødme og god syre er det du bør se etter i vin til gresskarpai.
 
 Gresskarpai er selve symbolet på amerikansk høstfeiring, men den fortjener en plass på flere norske dessertbord også. Den kremete gresskarfyllingen krydres med kanel, muskat, ingefær og nellik, og bakes i en sprø paideig. Den piskede kremen på toppen gir en mild, kald kontrast til den varme, krydrede fyllingen. Krydderprofilen gjør dette til en overraskende spennende dessert å finne vin til.
 

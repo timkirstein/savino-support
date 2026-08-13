@@ -5,23 +5,20 @@ layout: default
   <div class="blog-index-wrap">
 
     <div class="blog-index-header">
-      <h1>{{ page.title | default: "Blogg" }}</h1>
-      {% if page.description %}
-      <p>{{ page.description }}</p>
+      {% if page.category == "Guide" %}
+      <h1>Guider</h1>
+      <p>Savinos guider til vinvalg, utenom de faste matparingene.</p>
+      {% else %}
+      <h1>Vin til {{ page.category | downcase }}</h1>
+      <p>Savinos vinparinger i kategorien {{ page.category | downcase }}.</p>
       {% endif %}
     </div>
 
-    {% if site.categories.size > 0 %}
-    <nav class="meta-row" aria-label="Kategorier" style="margin-bottom:32px; flex-wrap:wrap;">
-      {% for cat in site.categories %}
-      <a class="cat" href="/blogg/kategori/{{ cat[0] | slugify }}/">{{ cat[0] }} ({{ cat[1].size }})</a>
-      {% endfor %}
-    </nav>
-    {% endif %}
+    <p><a href="/blogg/">← Alle kategorier</a></p>
 
-    {% if site.posts.size > 0 %}
+    {% if page.posts.size > 0 %}
     <div class="post-grid">
-      {% for post in site.posts %}
+      {% for post in page.posts %}
       {% assign day       = post.date | date: "%-d" %}
       {% assign month_idx = post.date | date: "%-m" | minus: 1 %}
       {% assign nor_month = site.months[month_idx] %}

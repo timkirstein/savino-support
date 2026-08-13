@@ -12,6 +12,7 @@ hero:
   alt: "boeuf bourguignon i en gryte med rotgrønnsaker"
   caption: "Boeuf bourguignon – fransk grytemat brygget for høsten"
 ---
+**Kort svar:** struktur og modne tanniner, jordlige toner og god syre er det du bør se etter i vin til boeuf bourguignon.
 
 Boeuf bourguignon er selve definisjonen på fransk komfortmat – oksekjøtt som får trekke i timevis i rødvin sammen med bacon, sjampinjong og perleløk til det er så mørt at det nesten faller fra hverandre. Det er en rett med dyp, konsentrert smak der rødvinen fra gryta selv naturlig peker mot hvilken vin som bør stå på bordet.
 

@@ -12,6 +12,7 @@ hero:
   alt: "viltburger med tyttebærkompott og karamellisert løk"
   caption: "Viltburger med tyttebær – hverdagsmat med høstkarakter"
 ---
+**Kort svar:** rustikk kraft og struktur, mørk bærfrukt og fruktig fylde er det du bør se etter i vin til viltburger med tyttebær.
 
 En burger av viltkjøttdeig – gjerne hjort eller elg – har en dypere, mer jordlig smak enn en vanlig biff- eller kyllingburger. Tyttebærkompotten tilfører en syrlig-søt bærprofil som er en klassisk norsk følgesvenn til vilt, mens karamellisert løk og en portvinssaus gir retten ekstra dybde og en anelse sødme.
 

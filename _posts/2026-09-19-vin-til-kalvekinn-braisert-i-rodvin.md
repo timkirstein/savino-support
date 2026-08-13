@@ -12,6 +12,7 @@ hero:
   alt: "braisert kalvekinn med rotgrønnsaker og potetmos"
   caption: "Kalvekinn braisert i rødvin – mør høstrett med fransk sjel"
 ---
+**Kort svar:** elegant struktur, modne, mørke fruktnoter og god syre er det du bør se etter i vin til kalvekinn braisert i rødvin.
 
 Kalvekinn er en av de mest undervurderte kjøttstykkene på markedet – rimelig, men med et potensial som overgår mange dyrere kutt når det braiseres riktig. Etter timevis i rødvin blir kjøttet så mørt at det smelter på tunga, mens rotgrønnsakene og potetmosen gir retten en rund, komfortabel helhet. Dette er raffinert høstmat uten unødvendig kompleksitet.
 

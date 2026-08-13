@@ -12,6 +12,7 @@ hero:
   alt: "valnøttkake med karamellisert pære og vaniljeis"
   caption: "Valnøttkake med karamellisert pære – nøtteaktig avslutning på høsten"
 ---
+**Kort svar:** nøtteaktig, oksidativ dybde, karamellisert fruktighet og god syre er det du bør se etter i vin til valnøttkake med karamellisert pære.
 
 Valnøttkake har en dyp, nesten karamellisert nøttesmak som gjør den til en av høstens mest fyldige dessertkaker. Karamelliserte pærebiter tilfører en søtlig fruktighet, kanel gir varme, og en kule vaniljeis smelter langsomt inn i det hele. Dette er en dessert med mye dybde, og den fortjener en vin som kan matche kakens nøtteaktige rikdom.
 

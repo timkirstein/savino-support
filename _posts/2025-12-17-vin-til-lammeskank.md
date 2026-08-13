@@ -12,6 +12,7 @@ hero:
   alt: "lammeskank på et trebord"
   caption: "Langkokt lammeskank – en vinterrett som fortjener et glass med dybde"
 ---
+**Kort svar:** modne tanniner, fruktdybde og konsentrasjon og urtetoner og krydder er det du bør se etter i vin til lammeskank.
 
 Lammeskank som har stått i ovnen i timevis utvikler en dyp, intens smak med karamelliserte rotgrønnsaker, kraftig kjøttsaft og aromatiske urter som rosmarin og timian. Det er en solid høst- og vinterrett som krever en vin med tilsvarende karakter og dybde. En for lett vin vil drukne i retten og forsvinne helt.
 

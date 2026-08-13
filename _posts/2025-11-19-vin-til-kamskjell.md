@@ -12,6 +12,7 @@ hero:
   alt: "kamskjell på et trebord"
   caption: "Stekte kamskjell – delikat sødme som fortjener et glass av kaliber"
 ---
+**Kort svar:** rikdom og fylde, integrert syre og nøtteaktig eller kremet preg er det du bør se etter i vin til kamskjell.
 
 Kamskjell er blant de mest søte og delikate skalldyrene vi har, med en tekstur som smelter på tunga og en smak som kombinerer havets saltholdighet med en nesten kremaktig sødme. Tilberedes de med brunet smør, får de en nøtteaktig dybde som gjør retten til et lite gastronomisk øyeblikk. Vinvalget bør heve retten, ikke konkurrere med den.
 

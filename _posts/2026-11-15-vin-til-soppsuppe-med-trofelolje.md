@@ -12,6 +12,7 @@ hero:
   alt: "kremet soppsuppe med trøffelolje"
   caption: "Soppsuppe med trøffelolje – varmende høstforrett"
 ---
+**Kort svar:** jordlige, komplekse toner, god syre og elegant, ikke for kraftig fylde er det du bør se etter i vin til soppsuppe med trøffelolje.
 
 En kremet soppsuppe er en av de mest komfortable måtene å åpne et høstmåltid på. Sjampinjong og portobello gir dybde og umami, mens fløten binder sammen en jevn, fyldig konsistens. Noen dråper trøffelolje helt til slutt løfter retten fra hverdagslig til nesten luksuriøs. Dette er en suppe som fortjener mer oppmerksomhet ved vinvalget enn den vanligvis får.
 

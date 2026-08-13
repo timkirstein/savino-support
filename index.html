@@ -225,6 +225,8 @@
                 class="phone-shot-single"
                 src="./screenshots/savino-light.png"
                 alt="Savino – skjermbilde"
+                width="1284"
+                height="2778"
                 loading="lazy"
               />
             </div>
@@ -342,6 +344,8 @@
                   class="phone-shot-single"
                   src="./screenshots/savino-cellar.png"
                   alt="Min kjeller – liste over viner"
+                  width="1284"
+                  height="2778"
                   loading="lazy"
                 />
               </div>
@@ -353,6 +357,8 @@
                   class="phone-shot-single"
                   src="./screenshots/savino-details.png"
                   alt="Vindetaljer – smaksprofil og drikkevinduer"
+                  width="1284"
+                  height="2778"
                   loading="lazy"
                 />
               </div>
@@ -364,6 +370,8 @@
                   class="phone-shot-single"
                   src="./screenshots/savino-chat.png"
                   alt="Salvino – AI-sommelier chat"
+                  width="1284"
+                  height="2778"
                   loading="lazy"
                 />
               </div>
@@ -474,12 +482,30 @@
           </div>
         </div>
       </section>
+
+      <section class="section">
+        <div class="container">
+          <h2>Fra bloggen</h2>
+          <div class="cards">
+            {% for post in site.posts limit: 3 %}
+            <a class="card" href="{{ post.url | relative_url }}" style="display:block; text-decoration:none; color:inherit;">
+              <h3>{{ post.title }}</h3>
+              <p>{{ post.description }}</p>
+            </a>
+            {% endfor %}
+          </div>
+          <p style="margin-top:16px">
+            <a class="btn btn-secondary" href="/blogg/">Se alle vinparinger →</a>
+          </p>
+        </div>
+      </section>
     </main>
 
     <footer class="footer">
       <div class="container footer-inner">
         <div>© <span id="year"></span> Savino</div>
         <div class="footer-links">
+          <a href="/om/">Om Savino</a>
           <a href="./privacy.html">Personvern</a>
           <a href="./terms.html">Vilkår</a>
           <a href="mailto:hei@savino.no">Support</a>
