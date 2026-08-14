@@ -12,7 +12,7 @@ hero:
   alt: "linsesuppe på et trebord"
   caption: "Varmende linsesuppe – trøstemat som overrasker med riktig vin i glasset"
 ---
-**Kort svar:** fruktig, lett profil, frisk syre og moderat kropp er det du bør se etter i vin til linsesuppe.
+**Kort svar:** fruktig, lett profil, frisk syre og moderat kropp er det du bør se etter i vin til linsesuppe. Et godt eksempel er en lett Gamay/Beaujolais.
 
 Linsesuppe med spisskummen er den ultimate trøstemat: næringsrik, varmende og med en jordnær, krydret smaksprofil som varierer etter hvem som lager den. Spisskummen gir en karakteristisk nøtteaktig og litt bitter kryddersmak, mens linsene gir fylde og substans. Mange tenker ikke på vin til suppe, men et godt glass kan løfte selv den enkleste rett.
 

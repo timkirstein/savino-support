@@ -12,7 +12,7 @@ hero:
   alt: "Sjømatfat med krabbe, reker og sjømat på is"
   caption: "Sommerens ultimate festbord – sjømatens fulle bredde på ett fat"
 ---
-**Kort svar:** frisk mineralitet og tørr stil, god syre og nøytral og ren karakter er det du bør se etter i vin til sjømatfat med krabbe, reker og hummer.
+**Kort svar:** frisk mineralitet og tørr stil, god syre og nøytral og ren karakter er det du bør se etter i vin til sjømatfat med krabbe, reker og hummer. Et godt eksempel er Muscadet, Chablis eller Albariño.
 
 Et sjømatfat er ikke en rett – det er en begivenhet. Krabbe knekket ved bordet, ferske reker skrelt i solen, hummer skjært i to med sitron, kanskje muslinger, østers eller blåskjell. Servert på is med mayo, sitron, godt brød og hvitvin er det sommerens definitive festmiddag ved sjøen.
 

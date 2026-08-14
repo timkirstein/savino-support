@@ -12,7 +12,7 @@ hero:
   alt: "Blåskjell i hvitvin dampet i gryte"
   caption: "Blåskjell i hvitvin – der den klassiske regelen «drink what's in the pot» faktisk gjelder"
 ---
-**Kort svar:** frisk syre, mineralitet og lett til middels kropp er det du bør se etter i vin til blåskjell i hvitvin og hvitløk.
+**Kort svar:** frisk syre, mineralitet og lett til middels kropp er det du bør se etter i vin til blåskjell i hvitvin og hvitløk. Et godt eksempel er Muscadet eller Picpoul de Pinet.
 
 Blåskjell dampet i hvitvin og hvitløk er sommermat i sitt enkleste og mest nydelige format. Hvitløken og vinen i gryten setter smaksprofilen: salt, marin, lett syrlig med en hvitløksduftet kraft som appellerer til å dyppe godt brød i. Det er en rett der vinvalget er nesten gitt.
 

@@ -12,7 +12,7 @@ hero:
   alt: "hjortestek på et trebord"
   caption: "Mørkt og intenst hjortekjøtt – en festmiddag som krever vin av kaliber"
 ---
-**Kort svar:** høy syre og tydelige tanniner, jordlige og mineralske toner og kompleks smaksprofil er det du bør se etter i vin til hjortestek.
+**Kort svar:** høy syre og tydelige tanniner, jordlige og mineralske toner og kompleks smaksprofil er det du bør se etter i vin til hjortestek. Et godt eksempel er Barolo eller en kraftig Syrah.
 
 Hjortestek er en av de mest prestisjefylte norske festmiddagene – kjøttet er mørkt, intenst smakfull og har en karakteristisk viltsmak som skiller seg tydelig fra vanlig storfekjøtt. En god viltsaus med fond og gjerne tyttebær tilfører enda mer dybde og kompleksitet. Det er en rett som krever en vin med tilsvarende ambisjonsnivå.
 

@@ -12,7 +12,7 @@ hero:
   alt: "rotgrønnsaksgrateng med geitost og timian"
   caption: "Rotgrønnsaksgrateng med geitost – kremet høstkomfort"
 ---
-**Kort svar:** høy syre, fruktig sødme og urteaktig karakter er det du bør se etter i vin til rotgrønnsaksgrateng med geitost.
+**Kort svar:** høy syre, fruktig sødme og urteaktig karakter er det du bør se etter i vin til rotgrønnsaksgrateng med geitost. Et godt eksempel er Sauvignon Blanc eller en halvtørr Chenin Blanc.
 
 En rotgrønnsaksgrateng med gulrot, sellerirot og potet, dekket med geitost og timian, er høstkjøkkenets svar på klassisk potetgrateng – men med en syrlig, aromatisk vri. Geitostens syrlige kant kutter gjennom gratengens rike, kremete konsistens, mens timianen tilfører en urteaktig dybde. Det er en enkel rett som kan bære overraskende mye vin.
 

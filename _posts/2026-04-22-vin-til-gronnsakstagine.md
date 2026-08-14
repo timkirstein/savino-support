@@ -12,7 +12,7 @@ hero:
   alt: "grønnsakstagine på et trebord"
   caption: "Duftende grønnsakstagine med couscous – nordafrikansk magi på middagsbordet"
 ---
-**Kort svar:** aromatisk ekspressivitet, fruktig sødme og frisk syre er det du bør se etter i vin til grønnsakstagine.
+**Kort svar:** aromatisk ekspressivitet, fruktig sødme og frisk syre er det du bør se etter i vin til grønnsakstagine. Et godt eksempel er Gewürztraminer eller en halvtørr Chenin Blanc.
 
 En grønnsakstagine med couscous er en festmiddag i én gryte – løk, gulrøtter, kikærter og rotgrønnsaker som får stå og suge til seg kanel, safran, ingefær og gjerne litt honning og tørket aprikos. Resultatet er en rik, aromatisk og lett søt rett med stor smaksdybde. Krydderprofilen gjør vinvalget krevende, men gir også mulighet for interessante kombinasjoner.
 

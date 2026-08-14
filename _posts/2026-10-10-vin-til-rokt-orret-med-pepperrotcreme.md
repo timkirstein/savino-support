@@ -12,7 +12,7 @@ hero:
   alt: "røkt ørret med pepperrotcreme og rødløk"
   caption: "Røkt ørret med pepperrotcreme – norsk klassiker for høsten"
 ---
-**Kort svar:** aromatisk dybde, høy syre og mineralsk eller sitrusaktig karakter er det du bør se etter i vin til røkt ørret med pepperrotcreme.
+**Kort svar:** aromatisk dybde, høy syre og mineralsk eller sitrusaktig karakter er det du bør se etter i vin til røkt ørret med pepperrotcreme. Et godt eksempel er Riesling eller Grüner Veltliner.
 
 Røkt ørret er en av de mest karakterfulle norske sjømatrettene – den røkte dybden gir fisken en kompleksitet som skiller seg markant fra fersk fisk. Pepperrotcremen tilfører en skarp, nesten brennende friskhet, mens rødløken bidrar med en syrlig bite. Kombinasjonen krever en vin som tåler både røyk og skarphet uten å bli overkjørt.
 

@@ -12,7 +12,7 @@ hero:
   alt: "pinnekjøtt på et trebord"
   caption: "Vestlandets julemiddag – salt, røykfylt og krevende for vinen"
 ---
-**Kort svar:** noe resterende sødme, frisk, livlig syre og aromatisk intensitet er det du bør se etter i vin til pinnekjøtt.
+**Kort svar:** noe resterende sødme, frisk, livlig syre og aromatisk intensitet er det du bør se etter i vin til pinnekjøtt. Et godt eksempel er en halvtørr Riesling eller Gewürztraminer.
 
 Pinnekjøtt er en av Norges mest intense juleretter: det saltede og tørkede lammet har en dyp, røykfylt smak med markert salthold, og kålrabistappen tilfører en mild sødme som balanserer det salte kjøttet. Retten er krevende for vinen – salt og røyksmak kan ta knekken på mange viner og gjøre dem bitre eller smakløse. Her gjelder det å velge med omhu.
 

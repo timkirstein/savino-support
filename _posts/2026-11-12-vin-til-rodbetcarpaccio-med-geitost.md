@@ -12,7 +12,7 @@ hero:
   alt: "rødbetcarpaccio med geitost og valnøtter"
   caption: "Rødbetcarpaccio med geitost – frisk høststart på middagen"
 ---
-**Kort svar:** frisk syre, diskret fruktig sødme og lett, elegant kropp er det du bør se etter i vin til rødbetcarpaccio med geitost.
+**Kort svar:** frisk syre, diskret fruktig sødme og lett, elegant kropp er det du bør se etter i vin til rødbetcarpaccio med geitost. Et godt eksempel er en halvtørr Riesling eller en tørr rosé.
 
 Tynne skiver rå rødbet, marinert til de blir møre, danner grunnlaget for denne fargerike forretten. Geitosten tilfører en syrlig, kremet kontrast, valnøttene gir sprø tekstur, og honning-sennepsdressingen binder det hele sammen med en søtlig-skarp kant. Dette er en lett, men smaksrik åpning på middagen som setter tonen for resten av måltidet.
 

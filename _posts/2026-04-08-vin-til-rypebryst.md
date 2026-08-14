@@ -12,7 +12,7 @@ hero:
   alt: "rypebryst på et trebord"
   caption: "Mørt rypebryst – norsk høstdelikatesse som fortjener et glass med sjel"
 ---
-**Kort svar:** jordlige og komplekse toner, god syre og modne tanniner og rød bærfrukt er det du bør se etter i vin til rypebryst.
+**Kort svar:** jordlige og komplekse toner, god syre og modne tanniner og rød bærfrukt er det du bør se etter i vin til rypebryst. Et godt eksempel er en Pinot Noir fra Burgund.
 
 Rype er en av de mest ettertraktede norske viltfuglene – kjøttet er mørkt, intenst og med en karakteristisk jordlig og nøtteaktig viltsmak som er unik og krevende. Tyttebærsausen tilfører en syrlig-søt bærprofil som kontrasterer fint mot den kraftige viltsmaken. Det er en delikatesse som fortjener et glass vin av tilsvarende kaliber.
 

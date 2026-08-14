@@ -12,7 +12,7 @@ hero:
   alt: "entrecôte på et trebord"
   caption: "Perfekt stekt entrecôte – en biffkveld som fortjener riktig rødvin"
 ---
-**Kort svar:** tydelige, modne tanniner, konsentrert mørk frukt og lang avslutning er det du bør se etter i vin til entrecôte.
+**Kort svar:** tydelige, modne tanniner, konsentrert mørk frukt og lang avslutning er det du bør se etter i vin til entrecôte. Et godt eksempel er Cabernet Sauvignon eller Malbec.
 
 Entrecôte er ett av de mest smakfulle kuttene fra storfe – marmorert med fett som smelter under steking og gir kjøttet en intens, rik umamismak. Det er en kraftfull rett som trenger en vin med tilsvarende styrke og karakter – men også nok struktur til å tåle fettet og fremheve kjøttets dype smaker. En for lett vin vil forsvinne fullstendig.
 
