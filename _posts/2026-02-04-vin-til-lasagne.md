@@ -12,7 +12,7 @@ hero:
   alt: "lasagne på et trebord"
   caption: "Gratinert lasagne rett fra ovnen – familiemiddag som vil ha riktig rødvin"
 ---
-**Kort svar:** god syre, middels kropp og rød frukt og urtetoner er det du bør se etter i vin til lasagne. Et godt eksempel er Chianti eller en Sangiovese-basert rødvin.
+**Kort svar:** god syre, middels kropp og rød frukt og urtetoner er det du bør se etter i vin til lasagne.
 
 Lasagne er en rett med mange lag – bokstavelig talt. Kjøttsaus med tomater og urter møter kremet bechamel og smeltet ost, og pastaplatene binder det hele sammen. Den lagvise strukturen gir en rik, fyldig smaksprofil med syre fra tomatene, fett fra osten og bechamelen, og dybde fra kjøttdeigen. Et enkelt vinvalg, men det finnes tydelige favoritter.
 

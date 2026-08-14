@@ -12,7 +12,7 @@ hero:
   alt: "Grillet blekksprut med sitron og persille på grillen"
   caption: "Sommerens undervurderte sjømatperle – enkelt grillet med sitron og persille"
 ---
-**Kort svar:** frisk, mineral hvitvin, syrlig friskhet og lett kropp er det du bør se etter i vin til grillet blekksprut med sitron og persille. Et godt eksempel er Vermentino eller Albariño.
+**Kort svar:** frisk, mineral hvitvin, syrlig friskhet og lett kropp er det du bør se etter i vin til grillet blekksprut med sitron og persille.
 
 Blekksprut på grillen er kjent som calamari i Italia og pulpo i Spania – og i begge land er det en sommerklassiker langs kysten. Riktig grillet er kjøttet mørt, med en lett røykfylt og karamellisert overflate som kontrasterer den delikate, milde smaken. Sitron og persille er garnityret – frisk og enkelt.
 

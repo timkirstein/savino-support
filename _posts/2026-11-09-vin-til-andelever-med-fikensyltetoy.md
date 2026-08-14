@@ -12,7 +12,7 @@ hero:
   alt: "stekt andelever med fikensyltetøy på ristet brioche"
   caption: "Andelever med fikensyltetøy – klassisk fransk luksusforrett"
 ---
-**Kort svar:** konsentrert søtme, høy syre og mørk, fruktig karakter er det du bør se etter i vin til andelever med fikensyltetøy. Et godt eksempel er Sauternes eller en annen botrytisert dessertvin.
+**Kort svar:** konsentrert søtme, høy syre og mørk, fruktig karakter er det du bør se etter i vin til andelever med fikensyltetøy.
 
 Stekt andelever er en av de rikeste og mest smøraktige rettene i det franske kjøkkenet – en tynn skorpe av karamellisering utenpå, og en konsistens innenfor som nesten smelter på tunga. Fikensyltetøyet tilfører en søtlig, litt syrlig motvekt, mens den ristede briochen og flaky salt gir tekstur og kontrast. Dette er en rett der den klassiske vinparingen faktisk er en av kjøkkenets mest pålitelige regler.
 

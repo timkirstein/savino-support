@@ -12,7 +12,7 @@ hero:
   alt: "grønnkålsalat med ovnsbakt gresskar og granateplekjerner"
   caption: "Grønnkålsalat med gresskar – frisk høstsalat med mange lag"
 ---
-**Kort svar:** frisk syre, ren fruktighet og diskret fylde er det du bør se etter i vin til grønnkålsalat med ovnsbakt gresskar. Et godt eksempel er Sauvignon Blanc eller Grüner Veltliner.
+**Kort svar:** frisk syre, ren fruktighet og diskret fylde er det du bør se etter i vin til grønnkålsalat med ovnsbakt gresskar.
 
 Denne salaten er et godt eksempel på hvordan høstens råvarer kan settes sammen til noe langt mer spennende enn en vanlig sommersalat. Den lett bitre grønnkålen balanseres av det søtlige, ovnsbakte gresskaret, mens granateplekjernene gir en frisk, syrlig sprengkraft og de ristede mandlene tilfører sprø tekstur. Mange smaksdimensjoner på én tallerken krever en vin som kan følge med på svingene.
 

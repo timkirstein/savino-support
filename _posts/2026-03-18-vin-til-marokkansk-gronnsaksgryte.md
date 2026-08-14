@@ -12,7 +12,7 @@ hero:
   alt: "marokkansk grønnsaksgryte på et trebord"
   caption: "Duftende marokkansk gryte – varme krydder som inviterer til uvanlige vinvalg"
 ---
-**Kort svar:** fruktig profil med litt sødme, moderat syre og lav til moderat tannin er det du bør se etter i vin til marokkansk grønnsaksgryte. Et godt eksempel er Gewürztraminer eller en fruktig rosé.
+**Kort svar:** fruktig profil med litt sødme, moderat syre og lav til moderat tannin er det du bør se etter i vin til marokkansk grønnsaksgryte.
 
 Marokkansk grønnsaksgryte er aromatisk, varm og kompleks – kanel, spisskummen, koriander, ingefær og harissa gir et smaklag som er eksotisk og trøstende på samme tid. Grønnsakene absorber krydderne og gir en dyp, avrundet sødme. Det er en rett som utfordrer de klassiske vinparingsreglene, men det finnes viner som fungerer utmerket.
 

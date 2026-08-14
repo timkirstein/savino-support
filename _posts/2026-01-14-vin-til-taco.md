@@ -12,7 +12,7 @@ hero:
   alt: "taco på et trebord"
   caption: "Fredagstaco – Norges folkekjære middag fortjener riktig glass"
 ---
-**Kort svar:** fruktig profil, moderat syre og lett til middels kropp er det du bør se etter i vin til taco. Et godt eksempel er Garnacha eller en fruktig rosé.
+**Kort svar:** fruktig profil, moderat syre og lett til middels kropp er det du bør se etter i vin til taco.
 
 Taco med kjøttdeig er Norges mest spiste fredagsmiddag, og det er lett å forstå hvorfor: det er raskt, smakfullt og sosialt. Men vinvalget til taco er faktisk litt krevende – krydderne, salsaens syre og rømmens fett skaper en kompleks smaksprofil som ikke alle viner takler like godt. Heldigvis finnes det enkle valg som fungerer ypperlig.
 

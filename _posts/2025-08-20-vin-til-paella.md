@@ -12,7 +12,7 @@ hero:
   alt: "Stor paellapanne med sjømat og safran"
   caption: "Spanias stolteste festmat – og en vin som føler seg hjemme i Middelhavet"
 ---
-**Kort svar:** frisk syre og mineralitet, tilpasset kropp og regionalt bånd er det du bør se etter i vin til spansk paella med sjømat. Et godt eksempel er Albariño, Verdejo eller en spansk rosé.
+**Kort svar:** frisk syre og mineralitet, tilpasset kropp og regionalt bånd er det du bør se etter i vin til spansk paella med sjømat.
 
 En god paella med sjømat er mer enn en rett – det er en opplevelse. Safranens intense gule farge, lukten av rødvinssmøret og lyden av risen som akkurat begynner å danne en karamellisert bunn – socarrat – er alt del av ritualet. Sjømat, ris og krydder i en panne på åpen flamme er definitivt festivitas.
 

@@ -12,7 +12,7 @@ hero:
   alt: "kjøttkaker i brun saus med ertestuing og poteter"
   caption: "Kjøttkaker i brun saus – norsk hverdagsmat med høstkomfort"
 ---
-**Kort svar:** myke, avrundede tanniner, god fruktighet og balansert struktur er det du bør se etter i vin til kjøttkaker i brun saus. Et godt eksempel er Merlot eller en lett Rioja.
+**Kort svar:** myke, avrundede tanniner, god fruktighet og balansert struktur er det du bør se etter i vin til kjøttkaker i brun saus.
 
 Få retter er mer forankret i norsk hverdagsmat enn kjøttkaker i brun saus. Den mørke, kjøttfulle sausen, de myke kjøttkakene og den klassiske ertestuingen gir en rett som er både enkel og dypt tilfredsstillende. Det er ikke en rett man tenker mye vin til til daglig, men den fortjener det – brun saus har faktisk mer dybde enn mange tror.
 

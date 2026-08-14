@@ -12,7 +12,7 @@ hero:
   alt: "Grillede reker med aioli og sitron på et trebord"
   caption: "Sommerens klassiker på grillen – og en av de enkleste å pare vin med når du vet trikset"
 ---
-**Kort svar:** god syre, minerale toner og moderat fylde er det du bør se etter i vin til grillede reker med aioli. Et godt eksempel er Albariño eller Chablis.
+**Kort svar:** god syre, minerale toner og moderat fylde er det du bør se etter i vin til grillede reker med aioli.
 
 Grillede reker med aioli er en av de mest feirede sommerrettene langs kysten. Rekene får en lett røykfylt overflate fra grillen, mens aioli tilfører fyldig, hvitløkspreget rikdom som setter premissene for hele vinvalget. Det er en kombinasjon som kan gå galt med feil vin – og bli en opplevelse av rang med riktig.
 

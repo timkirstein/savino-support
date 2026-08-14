@@ -12,7 +12,7 @@ hero:
   alt: "ovnsbakt gresskar med fetaost og valnøtter"
   caption: "Ovnsbakt gresskar med fetaost – høstens søtlig-salte favoritt"
 ---
-**Kort svar:** fruktig sødme, god syre og urteaktig eller nøtteaktig dybde er det du bør se etter i vin til ovnsbakt gresskar med fetaost. Et godt eksempel er en halvtørr Riesling eller Viognier.
+**Kort svar:** fruktig sødme, god syre og urteaktig eller nøtteaktig dybde er det du bør se etter i vin til ovnsbakt gresskar med fetaost.
 
 Ovnsbaking fremhever gresskarets naturlige sødme og gir det en karamellisert, nesten røstet dybde. Sammen med salt fetaost, sprøstekt salvie og ristede valnøtter blir dette en rett der søtt, salt og nøtteaktig møtes i perfekt balanse. Det er en av høstens mest allsidige vegetarretter, og den fortjener en vin som følger den samme balansegangen.
 

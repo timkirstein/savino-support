@@ -12,7 +12,7 @@ hero:
   alt: "rødbetrisotto med geitost og valnøtter"
   caption: "Rødbetrisotto med geitost – dyp høstfarge, dyp høstsmak"
 ---
-**Kort svar:** jordlige toner, god syre og nok kropp er det du bør se etter i vin til rødbetrisotto med geitost. Et godt eksempel er en lett Pinot Noir eller Sauvignon Blanc.
+**Kort svar:** jordlige toner, god syre og nok kropp er det du bør se etter i vin til rødbetrisotto med geitost.
 
 Rødbeter gir risottoen en dyp, nesten dramatisk farge og en jordlig sødme som skiller seg fra den klassiske parmesanrisottoen. Geitost rørt inn på slutten tilfører en syrlig kant, mens ristede valnøtter gir tekstur og en nøtteaktig dybde. Resultatet er en rett med mer kompleksitet enn man skulle tro av en tilsynelatende enkel vegetarrett.
 

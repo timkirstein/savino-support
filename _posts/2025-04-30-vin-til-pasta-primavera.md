@@ -12,7 +12,7 @@ hero:
   alt: "Pasta primavera med friske grønnsaker og urter"
   caption: "Vårens og sommerens pasta – en feiring av grønt og friskt"
 ---
-**Kort svar:** frisk, lett hvitvin, urtelike toner og lett kropp er det du bør se etter i vin til pasta primavera med sesongens grønnsaker. Et godt eksempel er Sauvignon Blanc, Vermentino eller Grüner Veltliner.
+**Kort svar:** frisk, lett hvitvin, urtelike toner og lett kropp er det du bør se etter i vin til pasta primavera med sesongens grønnsaker.
 
 Pasta primavera ble egentlig popularisert i New York på 1970-tallet, men retten er i sin sjel en feiring av vårens grønnsaker – primavera betyr rett og slett vår på italiensk. Friske erter, tynne aspargeskudd, courgette, cherrytomater og friske urter stekt raskt i god olivenolje er en rett som smaker av grønt og lys.
 

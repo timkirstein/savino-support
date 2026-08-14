@@ -12,7 +12,7 @@ hero:
   alt: "sopprisotto på et trebord"
   caption: "Kremet sopprisotto – en vegetarrett med sjel og ambisiøst vinpotensial"
 ---
-**Kort svar:** jordlige toner, god syre og middels kropp er det du bør se etter i vin til sopprisotto. Et godt eksempel er Barbera eller Pinot Noir.
+**Kort svar:** jordlige toner, god syre og middels kropp er det du bør se etter i vin til sopprisotto.
 
 En sopprisotto laget med porcini, sjampinjong eller kantarell har en dyp, jordnær umamiprofil som kan konkurrere med mange kjøttretter i intensitet. Parmesan og smøret som røres inn mot slutten gir kremet rikdom og salt kompleksitet. Det er en rett som fungerer like godt som hverdagsmiddag som festrett, og vinvalget varierer etter ambisjonsnivå.
 

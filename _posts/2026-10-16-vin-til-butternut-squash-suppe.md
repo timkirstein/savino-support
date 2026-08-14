@@ -12,7 +12,7 @@ hero:
   alt: "kremet butternut squash-suppe med ristede gresskarkjerner"
   caption: "Butternut squash-suppe – høstens mest komfortable vegetarrett"
 ---
-**Kort svar:** fruktig sødme, aromatisk krydderprofil og god syre er det du bør se etter i vin til butternut squash-suppe. Et godt eksempel er Viognier eller en halvtørr Chenin Blanc.
+**Kort svar:** fruktig sødme, aromatisk krydderprofil og god syre er det du bør se etter i vin til butternut squash-suppe.
 
 Butternut squash-suppe er høstkjøkkenets mest samlende rett – naturlig søtlig gresskar, kremet kokosmelk og en varm ingefærkant som gir energi til hele skålen. De ristede gresskarkjernene tilfører tekstur og en nøtteaktig dybde. Det er en enkel rett, men den søtlige og krydrede profilen gjør vinvalget mer interessant enn man skulle tro.
 

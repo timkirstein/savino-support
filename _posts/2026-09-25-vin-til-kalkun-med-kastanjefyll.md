@@ -12,7 +12,7 @@ hero:
   alt: "ovnsstekt kalkun med kastanjefyll og tyttebærsaus"
   caption: "Kalkun med kastanjefyll – høstfestens klassiske hovedrett"
 ---
-**Kort svar:** fruktig, men balansert profil, nøtteaktig eller fruktig dybde og god syre er det du bør se etter i vin til kalkun med kastanjefyll. Et godt eksempel er Pinot Noir eller en halvtørr Riesling.
+**Kort svar:** fruktig, men balansert profil, nøtteaktig eller fruktig dybde og god syre er det du bør se etter i vin til kalkun med kastanjefyll.
 
 Kalkun med kastanjefyll er selve symbolet på høst- og vinterfest – mildt, magert kjøtt fylt med en nøtteaktig, søtlig kastanjefarse, servert med tyttebærsaus og ovnsbakte rotgrønnsaker. Utfordringen med kalkun er at ulike deler av retten trekker vinvalget i forskjellige retninger, noe som gjør denne middagen til en av vinsesongens mest interessante.
 

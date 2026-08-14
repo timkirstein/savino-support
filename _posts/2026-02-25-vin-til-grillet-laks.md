@@ -13,7 +13,7 @@ hero:
   alt: "Grillet laks med sitron på et trebord"
   caption: "Sommerens enkleste rett — og en av de enkleste å pare vin med."
 ---
-**Kort svar:** frisk syre, moderat fylde og minerale eller sitrusige toner er det du bør se etter i vin til grillet laks med sitron. Et godt eksempel er Chablis eller Grüner Veltliner.
+**Kort svar:** frisk syre, moderat fylde og minerale eller sitrusige toner er det du bør se etter i vin til grillet laks med sitron.
 
 Grillet laks med sitron er sommermiddagen i sin reneste form: rask å lage, vakker å se på og smakfull uten å være komplisert. Sitronen fremhever fiskens naturlige sødme og tilfører friskhet, mens grillens varme gir en lett røykfylt overflate. Det er en rett som ikke trenger mye for å skinne — og heller ikke mye for å velge riktig vin til.
 

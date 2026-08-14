@@ -12,7 +12,7 @@ hero:
   alt: "Grillspyd av lam med tzatziki og pita"
   caption: "Middelhavet på grillen – krydret lam møter frisk tzatziki"
 ---
-**Kort svar:** frisk syre, aromatisk karakter og lett til middels tannin er det du bør se etter i vin til tzatziki med grillspyd av lam og pita. Et godt eksempel er en Assyrtiko eller en lett rosé.
+**Kort svar:** frisk syre, aromatisk karakter og lett til middels tannin er det du bør se etter i vin til tzatziki med grillspyd av lam og pita.
 
 Grillspyd av lam marinert i hvitløk, oregano og sitron med kald tzatziki på siden og varm pita til å pakke det inn er sommer i Hellas, Tyrkia og Libanon – og nå like mye norsk sommerfest. Retten er frisk og aromatisk med en kontrastbalanse mellom det varme, krydrete kjøttet og den kalde, kremete tzatzikien.
 

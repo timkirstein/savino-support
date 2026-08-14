@@ -12,7 +12,7 @@ hero:
   alt: "stekt oksefilet med rødvinssaus og potetgrateng"
   caption: "Oksefilet med rødvinssaus – klassisk festmiddag for høsten"
 ---
-**Kort svar:** modne, avrundede tanniner, jordlige toner og god struktur er det du bør se etter i vin til oksefilet med rødvinssaus. Et godt eksempel er Cabernet Sauvignon eller en Bordeaux-blend.
+**Kort svar:** modne, avrundede tanniner, jordlige toner og god struktur er det du bør se etter i vin til oksefilet med rødvinssaus.
 
 Oksefilet er kjøkkenets mest mørkjøttet kjøttstykke, og når det parres med en kraftig rødvinssaus og sjampinjong, får man en rett som er både elegant og fyldig på samme tid. Potetgratengen tilfører en rik, kremet dimensjon som runder av helheten. Dette er en av de tryggeste og mest klassiske vinkombinasjonene i norsk festmat.
 

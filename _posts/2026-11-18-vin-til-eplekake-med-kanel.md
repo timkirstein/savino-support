@@ -12,7 +12,7 @@ hero:
   alt: "varm eplekake med kanel og vaniljesaus"
   caption: "Eplekake med kanel – høstens mest tidløse dessert"
 ---
-**Kort svar:** god syre, aromatisk krydderkarakter og nok sødme er det du bør se etter i vin til eplekake med kanel. Et godt eksempel er en sen-høstet Riesling eller Gewürztraminer.
+**Kort svar:** god syre, aromatisk krydderkarakter og nok sødme er det du bør se etter i vin til eplekake med kanel.
 
 Få desserter er mer forbundet med høst enn en varm eplekake. De syrlige eplene mykner i ovnen og blandes med varm kanel, mens mandlene gir sprø tekstur og vaniljesausen tilfører en kremet rikdom. Det er en dessert som er både enkel og dypt nostalgisk, og den fortjener en vin som løfter helheten uten å overdøve de milde eplesmakene.
 

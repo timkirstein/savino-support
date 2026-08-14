@@ -12,7 +12,7 @@ hero:
   alt: "Pasta med basilikumpesto og revet parmesan"
   caption: "Sommerens grønne pasta – enkel å lage, krevende å matche vin til"
 ---
-**Kort svar:** urtelike eller grønne toner, god syre og lette til moderate tanniner er det du bør se etter i vin til pasta med basilikumpesto og parmesan. Et godt eksempel er Vermentino, Sauvignon Blanc eller en lett Sangiovese.
+**Kort svar:** urtelike eller grønne toner, god syre og lette til moderate tanniner er det du bør se etter i vin til pasta med basilikumpesto og parmesan.
 
 Fersk basilikumpesto – knust basilikum, pinjekjerner, parmesan, hvitløk og olivenolje – er en av kjøkkenets mest aromatiske sauser. Over god pasta med rikelig revet parmesan på toppen er det en av sommerens enkleste og beste retter. Men basilikumens intense urtekarakter er faktisk en av de mest krevende for vinvalget.
 

@@ -12,7 +12,7 @@ hero:
   alt: "gresskarravioli med brunet smør og salvie"
   caption: "Gresskarravioli med brunet smør – italiensk høstklassiker"
 ---
-**Kort svar:** diskret fruktig sødme, nøtteaktig rikdom og god syre er det du bør se etter i vin til gresskarravioli med brunet smør. Et godt eksempel er en fatlagret Chardonnay eller Viognier.
+**Kort svar:** diskret fruktig sødme, nøtteaktig rikdom og god syre er det du bør se etter i vin til gresskarravioli med brunet smør.
 
 Gresskarravioli er en av de italienske klassikerne som virkelig kommer til sin rett om høsten. Den søtlige gresskarfarsen får en nøtteaktig motvekt fra det brunede smøret, mens sprøstekt salvie og revet parmesan gir retten karakter og dybde. Balansen mellom søtt, nøtteaktig og salt gjør dette til en overraskende vinvennlig pastarett.
 

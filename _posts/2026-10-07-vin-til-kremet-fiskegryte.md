@@ -12,7 +12,7 @@ hero:
   alt: "kremet fiskegryte med torsk, laks og rotgrønnsaker"
   caption: "Kremet fiskegryte – varmende sjømat for kalde høstkvelder"
 ---
-**Kort svar:** fyldig, men elegant kropp, god syre og diskret fruktighet er det du bør se etter i vin til kremet fiskegryte. Et godt eksempel er en fyldig Chardonnay.
+**Kort svar:** fyldig, men elegant kropp, god syre og diskret fruktighet er det du bør se etter i vin til kremet fiskegryte.
 
 Når temperaturen faller, er en kremet fiskegryte akkurat det man trenger – torsk og laks som trekker i en rik, fyldig kraft sammen med rotgrønnsaker, fløte og gjerne litt hvitvin. Det er en rett som kombinerer sjømatens delikate karakter med grytemadens varmende komfort, noe som gjør vinvalget litt mer krevende enn ved enklere fiskeretter.
 

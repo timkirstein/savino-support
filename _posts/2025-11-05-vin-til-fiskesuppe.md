@@ -12,7 +12,7 @@ hero:
   alt: "fiskesuppe på et trebord"
   caption: "Dampende fiskesuppe – trøstemat som fortjener riktig vin i glasset"
 ---
-**Kort svar:** middels til fyldig kropp, integrert syre og fruktig rundhet er det du bør se etter i vin til fiskesuppe. Et godt eksempel er en hvit Rhône-blend eller en rund Chardonnay.
+**Kort svar:** middels til fyldig kropp, integrert syre og fruktig rundhet er det du bør se etter i vin til fiskesuppe.
 
 Fiskesuppe har en rik, kremet tekstur og en mild, avrundet smak der sjømatens sødme møter fløtens fylde. Det er en rett som krever en vin med nok kropp til å matche kremøsiteten, men uten å overdøve den subtile fiskesmaken. Mange undervurderer hvor viktig vinvalget er til en tilsynelatende enkel suppe.
 

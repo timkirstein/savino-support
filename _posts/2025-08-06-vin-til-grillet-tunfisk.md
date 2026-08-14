@@ -12,7 +12,7 @@ hero:
   alt: "Grillet tunfiskbiff med sesamfrø og urter"
   caption: "Havets biff – tett, proteinsrikt og klart for både hvit- og rødvin"
 ---
-**Kort svar:** rødvin med lav til moderat tannin, hvitvin med kropp og syre og ingefær og soya er det du bør se etter i vin til grillet tunfiskbiff med sesam og ingefær. Et godt eksempel er en lett Pinot Noir eller en fyldig Riesling.
+**Kort svar:** rødvin med lav til moderat tannin, hvitvin med kropp og syre og ingefær og soya er det du bør se etter i vin til grillet tunfiskbiff med sesam og ingefær.
 
 Tunfisk er ikke som annen fisk. Kjøttet er tett, mørkt og proteinfylt – mer likt en god biff enn en delikat hvit fisk. Grillet med sesam og en marinade med ingefær og soyasaus er det en rett som effektivt befinner seg i spennet mellom sjømat og kjøtt. Det gjør vinvalget overraskende åpent.
 

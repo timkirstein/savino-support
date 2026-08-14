@@ -12,7 +12,7 @@ hero:
   alt: "Caprese med fersk mozzarella, tomater og basilikum"
   caption: "Sommer på et fat – der friskhet og enkle råvarer er alt som trengs"
 ---
-**Kort svar:** frisk syre, lette, urtelike toner og lett til middels kropp er det du bør se etter i vin til caprese med fersk mozzarella og tomat. Et godt eksempel er Vermentino eller Pinot Grigio.
+**Kort svar:** frisk syre, lette, urtelike toner og lett til middels kropp er det du bør se etter i vin til caprese med fersk mozzarella og tomat.
 
 Caprese stammer fra Campania i Italia, og det er ingen tilfeldighet at retten bruker fargene til det italienske flagget. Fersk mozzarella, tomater og basilikum er i sin reneste form et ode til sommerens råvarer – og retten er både det perfekte åpningskapittelet til en fest og en komplett sommermiddag i seg selv.
 

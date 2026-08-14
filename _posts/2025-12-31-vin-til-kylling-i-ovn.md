@@ -12,7 +12,7 @@ hero:
   alt: "kylling i ovn på et trebord"
   caption: "Gyllen ovnsstekt kylling – en klassiker som slipper inn mange vinstiler"
 ---
-**Kort svar:** middels kropp, god syre og aromatisk profil er det du bør se etter i vin til kylling i ovn. Et godt eksempel er en fyldig Chardonnay eller en lett Pinot Noir.
+**Kort svar:** middels kropp, god syre og aromatisk profil er det du bør se etter i vin til kylling i ovn.
 
 Kylling i ovn er en av de mest allsidige middagsrettene vi har – aromatisk, saftig og med den friske sitronsyren som binder alt sammen når den tilberedes med hvitløk og sitron. Det er en rett som passer til hverdagsmiddag og festmiddag like gjerne, og den er bemerkelsesverdig vennlig mot mange vinstiler. Her er det faktisk mulig å velge både hvitt og rødt med godt resultat.
 

@@ -12,7 +12,7 @@ hero:
   alt: "stekt lammecarré med rosmarin på et fat"
   caption: "Lammecarré med rosmarin – elegant høstmat med klassisk følge"
 ---
-**Kort svar:** elegant struktur og modne tanniner, urteaktige eller aromatiske toner og god syre er det du bør se etter i vin til lammecarré med rosmarin. Et godt eksempel er Cabernet Sauvignon eller Syrah.
+**Kort svar:** elegant struktur og modne tanniner, urteaktige eller aromatiske toner og god syre er det du bør se etter i vin til lammecarré med rosmarin.
 
 Lammecarré er et av kjøkkenets mest elegante kjøttstykker – mørt, jevnt stekt og med en mild lammesmak som løftes av rosmarin og hvitløk. Ovnsbakte rotgrønnsaker gir retten en søtlig høstkarakter uten å ta over. Dette er en klassisk kombinasjon som fortjener en vin med tilsvarende raffinement.
 

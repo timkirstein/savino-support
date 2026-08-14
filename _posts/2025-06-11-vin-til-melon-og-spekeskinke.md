@@ -12,7 +12,7 @@ hero:
   alt: "Fersk melon med tynnskåret spekeskinke og basilikum"
   caption: "Europas elegante sommerforrett – der søtt og salt danser perfekt"
 ---
-**Kort svar:** litt resterende sødme eller fruktig karakter, friskhet og syre og lett, aromatisk stil er det du bør se etter i vin til fersk melon med spekeskinke og basilikum. Et godt eksempel er en Prosecco eller en halvtørr Riesling.
+**Kort svar:** litt resterende sødme eller fruktig karakter, friskhet og syre og lett, aromatisk stil er det du bør se etter i vin til fersk melon med spekeskinke og basilikum.
 
 Melon med spekeskinke – prosciutto e melone – er en av Italias mest ikoniske sommerformater. Det er ikke egentlig en rett, men en balanse-akt: melonens intense sødme og spekeskinkens salte, umamifylte intensitet i en kontrast som har fungert i hundrevis av år. Med frisk basilikum over er det sommer på sitt beste.
 
