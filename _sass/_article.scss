@@ -129,7 +129,7 @@ article.post {
 /* Body */
 .body {
   max-width: var(--reading-width);
-  margin: 48px auto 0;
+  margin: 48px 0 0;
   counter-reset: h2;
 
   p,
@@ -238,7 +238,7 @@ article.post {
 
 /* Aside figure */
 .figure-aside {
-  margin: 48px calc(-1 * (var(--content-width) - var(--reading-width)) / 2) 48px;
+  margin: 48px calc(-1 * (var(--content-width) - var(--reading-width))) 48px 0;
   max-width: var(--content-width);
   display: grid;
   grid-template-columns: 280px 1fr;
