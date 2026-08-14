@@ -12,7 +12,7 @@ hero:
   alt: "Grillet ananas med vaniljeis og karamellsaus"
   caption: "Sommerens karamelliserte dessert – søt, bitter og tropisk på én gang"
 ---
-**Kort svar:** søtere enn desserten, tropisk fruktkarakter og syre til å balansere sødmen er det du bør se etter i vin til grillet ananas med vaniljeis og rom.
+**Kort svar:** søtere enn desserten, tropisk fruktkarakter og syre til å balansere sødmen er det du bør se etter i vin til grillet ananas med vaniljeis og rom. Et godt eksempel er en Sauternes eller en søt Muscat-basert dessertvin.
 
 Grillet ananas transformeres fullstendig under grillvarmen. Det tropiske, syrlige fruktkjøttet karamelliseres til noe søtere, mer komplekst og med en lett bitterhet fra de brunte kantene. Med vaniljeis smelter smørene mot varmen, og et sprut av god rom gir alkoholisk dybde og karibisk karakter. Det er en dessert med mange lag.
 

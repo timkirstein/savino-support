@@ -12,7 +12,7 @@ hero:
   alt: "Grillet mais med smør og chili på trefjøl"
   caption: "Sommerens søteste grillside – karamellisert mais med smør og chili"
 ---
-**Kort svar:** frisk fruktig karakter, god syre og lett kropp er det du bør se etter i vin til grillet mais med smør og chili.
+**Kort svar:** frisk fruktig karakter, god syre og lett kropp er det du bør se etter i vin til grillet mais med smør og chili. Et godt eksempel er en halvtørr Riesling eller en frisk Grüner Veltliner.
 
 Grillet mais er sommerens mest intuitive grillmat. Sukkermaisen med de gule kornene karamelliseres vakkert mot grillristen, smøret smelter inn i de varme rynnene, og chili og lime gir en frisk og krydret kontrast til den naturlige sødmen. Det er enkel mat med overraskende mye karakter.
 

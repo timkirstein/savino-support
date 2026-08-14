@@ -12,7 +12,7 @@ hero:
   alt: "pærer pochert i rødvin med mascarponekrem"
   caption: "Pærer pochert i rødvin – elegant dessert med dyp farge og smak"
 ---
-**Kort svar:** mørk, krydret frukt, nok sødme og rikdom og fylde er det du bør se etter i vin til pærer pochert i rødvin.
+**Kort svar:** mørk, krydret frukt, nok sødme og rikdom og fylde er det du bør se etter i vin til pærer pochert i rødvin. Et godt eksempel er Port eller Recioto della Valpolicella.
 
 Pærer som får trekke sakte i rødvin sammen med kanel og stjerneanis, tar til seg en dyp rubinrød farge og en krydret, nesten vinøs smak som er langt mer kompleks enn frukten alene. Den kremete mascarponekremen tilfører en mild, syrlig kontrast. Dette er en av de mest elegante høstdessertene, og den peker naturlig mot en vin med tilsvarende dyp, krydret karakter.
 

@@ -12,7 +12,7 @@ hero:
   alt: "grillet laks med urter på et trebord"
   caption: "Røykfylte grillspor, friske urter og en vin som matcher"
 ---
-**Kort svar:** god syre, aromatisk profil og middels kropp er det du bør se etter i vin til grillet laks med urter.
+**Kort svar:** god syre, aromatisk profil og middels kropp er det du bør se etter i vin til grillet laks med urter. Et godt eksempel er en lett Pinot Noir eller en fyldig Chardonnay.
 
 Grillet laks kombinerer den milde fettigheten fra fisken med røykfylte grillnuanser og friske, aromatiske urter. Det er en rett som er både enkel og kompleks på samme tid – og vinvalget kan enten løfte eller drepe hele opplevelsen. Syren i retten, enten fra sitron eller friske urter, setter krav til vinen.
 

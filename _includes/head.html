@@ -4,7 +4,7 @@
   <title>{% if page.title %}{{ page.title }} · Savino{% else %}Savino Blogg{% endif %}</title>
   {% if page.description %}<meta name="description" content="{{ page.description }}" />{% endif %}
   <meta name="theme-color" content="#199978" />
-  <meta property="og:type" content="article" />
+  <meta property="og:type" content="{% if page.date %}article{% else %}website{% endif %}" />
   <meta property="og:site_name" content="Savino" />
   <meta property="og:title" content="{{ page.title }} · Savino" />
   {% if page.description %}<meta property="og:description" content="{{ page.description }}" />{% endif %}

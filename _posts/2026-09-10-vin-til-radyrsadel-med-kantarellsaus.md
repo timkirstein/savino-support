@@ -12,7 +12,7 @@ hero:
   alt: "stekt rådyrsadel med kantarellsaus på en tallerken"
   caption: "Rådyrsadel med kantarellsaus – høstens mest elegante viltrett"
 ---
-**Kort svar:** elegant kraft, jordlige, sopprike toner og myk syre og fin fruktighet er det du bør se etter i vin til rådyrsadel med kantarellsaus.
+**Kort svar:** elegant kraft, jordlige, sopprike toner og myk syre og fin fruktighet er det du bør se etter i vin til rådyrsadel med kantarellsaus. Et godt eksempel er Pinot Noir eller Nebbiolo.
 
 Rådyr er blant de mest møre og delikate viltvariantene, med et kjøtt som er mildere og mer elegant enn både hjort og elg. Kantarellsesongen faller sammen med rådyrjakten, og en kremet kantarellsaus er en naturlig følgesvenn – jordlig, nøtteaktig og med akkurat nok rikdom til å løfte det møre kjøttet uten å overdøve det.
 

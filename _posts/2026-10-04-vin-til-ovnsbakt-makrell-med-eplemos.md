@@ -12,7 +12,7 @@ hero:
   alt: "ovnsbakt makrell med eplemos og pepperrot"
   caption: "Ovnsbakt makrell med eplemos – høstens fete fisk møter syrlig frukt"
 ---
-**Kort svar:** høy syre, fruktig, eplaktig karakter og mineralsk friskhet er det du bør se etter i vin til ovnsbakt makrell med eplemos.
+**Kort svar:** høy syre, fruktig, eplaktig karakter og mineralsk friskhet er det du bør se etter i vin til ovnsbakt makrell med eplemos. Et godt eksempel er en tørr Riesling.
 
 Makrell er en av høstens beste fisker – fet, kraftig i smak og full av omega-3, med et skinn som blir nydelig sprøtt i ovnen. Den syrlige eplemosen og pepperroten er ikke tilfeldig valgt følge – begge deler skjærer effektivt gjennom fettet og gir retten en frisk kontrast. Dette er en rett der vinens syre er helt avgjørende.
 

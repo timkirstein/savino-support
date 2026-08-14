@@ -12,7 +12,7 @@ hero:
   alt: "ribbe på et trebord"
   caption: "Sprø svor og rik ribbe – julemiddagen som krever riktig glass"
 ---
-**Kort svar:** god til høy syre, moderat sødme og middels kropp er det du bør se etter i vin til ribbe.
+**Kort svar:** god til høy syre, moderat sødme og middels kropp er det du bør se etter i vin til ribbe. Et godt eksempel er en halvtørr Riesling eller en fruktig Zinfandel.
 
 Ribbe med sprø svor og surkål er en julemiddag full av kontraster: det fete svinekjøttet møter den syrlige surkålen, og den sprø svoren gir tekstur og salt intensitet. Rettens rikdom er stor, og den trenger en vin med nok syre til å skjære gjennom fettet og rense ganen mellom hvert bitt. Vinvalget til ribbe er faktisk langt viktigere enn mange tror.
 

@@ -12,7 +12,7 @@ hero:
   alt: "sopp-wellington skåret i skiver med rødvinssaus"
   caption: "Sopp-wellington – vegetarisk festmat med kjøttfull dybde"
 ---
-**Kort svar:** jordlige toner, god struktur og diskret syre er det du bør se etter i vin til sopp-wellington.
+**Kort svar:** jordlige toner, god struktur og diskret syre er det du bør se etter i vin til sopp-wellington. Et godt eksempel er Pinot Noir eller Nebbiolo.
 
 Sopp-wellington er beviset på at vegetarmat kan være like festlig og kraftfull som en tradisjonell beef wellington. Portobellosopp har en dyp, kjøttfull umami-karakter som pakkes inn med spinat i sprøtt butterdeig, og serveres med en rik rødvinssaus. Dette er en rett som lurer smaksløkene til å tro at den er langt mer kjøttfull enn den faktisk er – og vinvalget bør følge etter.
 

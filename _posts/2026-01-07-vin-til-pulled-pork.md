@@ -12,7 +12,7 @@ hero:
   alt: "pulled pork på et trebord"
   caption: "Langkokt, røykfylt svinekjøtt – BBQ-klassikeren som krever en vin med karakter"
 ---
-**Kort svar:** fruktrik bærprofil, kraftig kropp og myk tanninstruktur er det du bør se etter i vin til pulled pork.
+**Kort svar:** fruktrik bærprofil, kraftig kropp og myk tanninstruktur er det du bør se etter i vin til pulled pork. Et godt eksempel er Zinfandel eller Malbec.
 
 Pulled pork er det ultimate slow food-prosjektet: svinekjøtt som har stått i timevis utvikler et dypt, røykfylt smaklag med en naturlig sødme og intens umami. Coleslaw tilfører syre og knasende friskhet som balanserer retten. Det er en kraftfull BBQ-klassiker som trenger en vin med nok kropp og fruktig sødme til å matche røyksmaken og den søtlige sausen.
 

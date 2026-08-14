@@ -12,7 +12,7 @@ hero:
   alt: "Tomatsalat med basilikum og mozzarella på fat"
   caption: "Sommerens enkleste og beste rett – der råvarene er alt"
 ---
-**Kort svar:** frisk syre, urtelike toner og lett kropp er det du bør se etter i vin til tomatsalat med basilikum og mozzarella.
+**Kort svar:** frisk syre, urtelike toner og lett kropp er det du bør se etter i vin til tomatsalat med basilikum og mozzarella. Et godt eksempel er Vermentino eller Sauvignon Blanc.
 
 Tomatsalat er sommerkjøkkenets enkleste triumf. Når tomaten er moden, saftig og søt – gjerne fersk fra eget kjøkkenhage eller kjøpt på gårdsmarked – trenger den ingenting annet enn god olivenolje, salt, basilikum og kanskje litt mozzarella for å bli uforglemmelig. Det er en rett som handler om råvarer, og vinen bør speile det.
 

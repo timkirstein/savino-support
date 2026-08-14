@@ -12,7 +12,7 @@ hero:
   alt: "Grillet hummer med hvitløksmør"
   caption: "Sommerens ultimate festmiddag – krever en vin på sitt eget nivå"
 ---
-**Kort svar:** rik kropp og tekstur, frisk balanserende syre og eleganse og lengde er det du bør se etter i vin til grillet hummer med hvitløksmør.
+**Kort svar:** rik kropp og tekstur, frisk balanserende syre og eleganse og lengde er det du bør se etter i vin til grillet hummer med hvitløksmør. Et godt eksempel er en fyldig hvit Burgund (Chardonnay) eller Champagne.
 
 Hummer er ikke for alle dager. Når du velger å grille hummer med hvitløksmør, er det en erklæring – dette er en spesiell kveld. Hummerkjøttets søte, delikate rikdom kombinert med den kraftige aromaen av hvitløksmør skaper en av sommerens mest celebre smaker. Vinen bør matche den feiringen.
 

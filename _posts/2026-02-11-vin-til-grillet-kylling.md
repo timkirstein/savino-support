@@ -12,7 +12,7 @@ hero:
   alt: "grillet kylling på et trebord"
   caption: "Gyllen og røykfylt grillet kylling – sommerens klassiker med mange vinmuligheter"
 ---
-**Kort svar:** aromatisk profil, frisk syre og middels kropp er det du bør se etter i vin til grillet kylling.
+**Kort svar:** aromatisk profil, frisk syre og middels kropp er det du bør se etter i vin til grillet kylling. Et godt eksempel er en fyldig hvitvin som Chardonnay eller en lett Pinot Noir.
 
 Grillet kylling med urter som rosmarin, timian og oregano har en karakteristisk røykfylt overflate og saftig kjøtt med aromatisk dybde. Grillingen tilfører en karamellisering og lett bitterhet som gjør retten mer kompleks enn vanlig ovnstekt kylling. Det er en allsidig rett som fungerer med mange vinstiler, men noen valg skiller seg ut.
 

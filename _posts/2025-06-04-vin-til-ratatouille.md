@@ -12,7 +12,7 @@ hero:
   alt: "Ratatouille med lagvise grønnsaker i ildfast form"
   caption: "Provence i en gryte – sommergrønnsakenes store festmåltid"
 ---
-**Kort svar:** frisk syre, urtelike og aromatiske toner og moderat kropp er det du bør se etter i vin til ratatouille med provençalske grønnsaker.
+**Kort svar:** frisk syre, urtelike og aromatiske toner og moderat kropp er det du bør se etter i vin til ratatouille med provençalske grønnsaker. Et godt eksempel er en rosé fra Provence eller en lett Côtes du Rhône.
 
 Ratatouille er mer enn en grønnsaksgryterett – det er et konsept. Sommerens overflod av tomat, aubergine, courgette, paprika og løk smeltet sammen med timian, rosmarin og hvitløk i god olivenolje. Det er Provences svar på sommer, og det er en av de mest aromatisk komplekse vegetarrettene i det franske kjøkken.
 

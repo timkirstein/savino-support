@@ -12,7 +12,7 @@ hero:
   alt: "ovnsbakt torsk på et trebord"
   caption: "Saftig hvitfisk fra ovnen – enkel mat som krever riktig glass"
 ---
-**Kort svar:** lett til middels kropp, frisk syre og mineralsk preg er det du bør se etter i vin til ovnsbakt torsk.
+**Kort svar:** lett til middels kropp, frisk syre og mineralsk preg er det du bør se etter i vin til ovnsbakt torsk. Et godt eksempel er Chablis eller Muscadet.
 
 Ovnsbakt torsk er en norsk hverdagsklassiker med sin milde, hvite fiskefilet og delikate smak. Retten tilberedes gjerne med smør, sitron og enkle urter, noe som gir en subtil og ren smaksprofil. Nettopp denne enkelheten gjør vinvalget viktig – vinen skal støtte, ikke dominere.
 

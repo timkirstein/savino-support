@@ -12,7 +12,7 @@ hero:
   alt: "Grillet kveite med kapers og smør"
   caption: "Norges prestisjerik flatfisk – en sommerrett som kaller på en vin med ambisjon"
 ---
-**Kort svar:** fyldig kropp, frisk syre og kompleksitet er det du bør se etter i vin til grillet kveite med kapers og smør.
+**Kort svar:** fyldig kropp, frisk syre og kompleksitet er det du bør se etter i vin til grillet kveite med kapers og smør. Et godt eksempel er en fyldig, fatlagret Chardonnay.
 
 Kveite er ikke hverdagsfisk. Den tette, hvite fiskefileten med sin delikate, smørrike smak er blant de mest verdsatte råvarene fra norske farvann. Grillet med kapers og smør oppnår den en rikdom og eleganse som nærmer seg finedining – og vinvalget bør speile det ambisjonsnivået.
 

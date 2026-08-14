@@ -12,7 +12,7 @@ hero:
   alt: "ostebord på et trebord"
   caption: "Et godt ostebord – vinvalgets kunst der syre og fett møtes"
 ---
-**Kort svar:** god syre, intensitetsmatch og lav til moderat tannin er det du bør se etter i vin til ostebord.
+**Kort svar:** god syre, intensitetsmatch og lav til moderat tannin er det du bør se etter i vin til ostebord. Et godt eksempel er en fruktig Beaujolais til de mildeste ostene, eller en søt Port til de kraftigste.
 
 Et ostebord med et utvalg modne oster er en av bordets store gleder – men kombinasjonen ost og vin er faktisk mer krevende enn de fleste tror. Den folkelige troen på at rødvin og ost alltid passer, stemmer langt fra alltid: tanninene i mange rødviner krasjer med ostens fett og gjør vinen bitter og metallisk. Friskhet og syre er nøkkelordene for suksess.
 

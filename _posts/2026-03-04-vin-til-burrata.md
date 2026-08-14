@@ -12,7 +12,7 @@ hero:
   alt: "burrata på et trebord"
   caption: "Kremhvit burrata med modne tomater – enkelhet som kaller på elegant vin"
 ---
-**Kort svar:** frisk, diskret syre, lett kropp og floral eller urteaktig preg er det du bør se etter i vin til burrata.
+**Kort svar:** frisk, diskret syre, lett kropp og floral eller urteaktig preg er det du bør se etter i vin til burrata. Et godt eksempel er Vermentino eller Grüner Veltliner.
 
 Burrata er en av de mest luksuriøse enkle rettene som finnes – den kremete, milde osten mot saftige modne tomater og duftende fersk basilikum er en kombinasjon som er større enn delene. Sødmen fra osten, syrene fra tomatene og de aromatiske basilikumtonene gir en smaksprofil som er delikat og krevende på samme tid. Vinen bør fremheve, ikke forstyrre.
 
