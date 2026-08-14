@@ -12,6 +12,7 @@ hero:
   alt: "villsvingryte i en gryte med rotgrønnsaker"
   caption: "Villsvingryte – langtrukket høstrett med dyp, jordlig smak"
 ---
+**Kort svar:** kraftig struktur og modne tanniner, krydret eller aromatisk dybde og mørk, konsentrert frukt er det du bør se etter i vin til villsvingryte.
 
 Villsvin har et kraftigere og mer jordlig kjøtt enn tamgris, med en viltsmak som minner om både hjort og storfe. Langtrukket i rødvin sammen med enebær, sopp og rotgrønnsaker utvikler kjøttet en dyp, konsentrert smaksprofil over flere timer. Dette er ordentlig høstmat som krever en vin med tilsvarende kraft og karakter.
 

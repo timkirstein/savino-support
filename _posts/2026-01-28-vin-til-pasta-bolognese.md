@@ -12,6 +12,7 @@ hero:
   alt: "pasta bolognese på et trebord"
   caption: "Dampende pasta bolognese – en hverdagsklassiker med klar vinlogikk"
 ---
+**Kort svar:** tydelig syre, røde bær og umamitoner og middels tanniner er det du bør se etter i vin til pasta bolognese.
 
 En skikkelig bolognese som har stått og putret i timevis er noe av det beste hverdagsmatlagingen kan by på – kjøttdeigen som har absorbert tomater, vin, melk og urter gir en avrundet, dyp og mettende saus. Det er en rett med en kompleks smaksprofil som trenger en vin med tilsvarende karakter: nok syre til å matche tomatene, og nok kropp til å møte kjøttet.
 

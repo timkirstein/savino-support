@@ -12,6 +12,7 @@ hero:
   alt: "Grillet lammekoteletter med rosmarin på trebord"
   caption: "Lammekotelett er grillsommerens mest karakterfulle kjøttrett"
 ---
+**Kort svar:** tannin og struktur, urtelike toner og middels til kraftig kropp er det du bør se etter i vin til grillet lammekoteletter med rosmarin.
 
 Lammekoteletter er en av grillens mest givende kjoettretter. Den karakteristiske lammesmaken – litt vilter enn storfekjøtt, mer intens enn kylling – er en av kjøkkenets tydeligste smaker. Rosmarin og hvitløk er de naturlige aromaakkompagnementet som har fulgt lammet i hundrevis av år rundt Middelhavet.
 

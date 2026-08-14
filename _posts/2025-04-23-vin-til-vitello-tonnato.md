@@ -12,6 +12,7 @@ hero:
   alt: "Vitello tonnato – tynne skiver kalvekjøtt med kremet tunfisksaus og kapers"
   caption: "Piemontes elegante paradoks – kjøtt og fisk i en av Italias store klassikere"
 ---
+**Kort svar:** frisk hvitvin med syre, alternativt lett rødvin og unngå tanninsterke viner er det du bør se etter i vin til vitello tonnato – kalvekjøtt med tunfisksaus.
 
 Vitello tonnato virker merkelig på papiret: tynne skiver av kaldt, pochert kalvekjøtt dekket av en kremet saus av tunfisk, majones, ansjos og kapers. Men smaken er uforklarlig harmonisk – kalvekjøttets milde, delikate kjøttsmak og tunfisksausens rike umami og salt-syre er to elementer som faktisk finner hverandre perfekt.
 

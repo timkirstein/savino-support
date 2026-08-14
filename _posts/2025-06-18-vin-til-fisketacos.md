@@ -12,6 +12,7 @@ hero:
   alt: "Fisketacos med mangosalsa og rød kål i lomper"
   caption: "Sommerens mest fargerike middag – frisk, syrlig og litt krydret"
 ---
+**Kort svar:** frisk og fruktig hvitvin, god syre og lett kropp er det du bør se etter i vin til fisketacos med hvit fisk og mangosalsa.
 
 Fisketacos er sommerens svar på middagsglede – enkle å lage, lekre å se på, og med et spekter av smaker som spenner fra søte og friske til kremete og litt krydrete. Den hvite fisken – gjerne sei, torsk eller hyse – er det milde fundamentet som absorberer de andre smakene: mangosalsa, lime-krem, rødkål og frisk koriander.
 

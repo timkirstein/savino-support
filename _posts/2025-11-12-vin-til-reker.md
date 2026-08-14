@@ -12,6 +12,7 @@ hero:
   alt: "reker på et trebord"
   caption: "Ferske reker på terrassen – en norsk klassiker som fortjener riktig glass"
 ---
+**Kort svar:** mineralsk preg, frisk, livlig syre og lett kropp er det du bør se etter i vin til reker.
 
 Ferske reker er en norsk sommerklassiker med en naturlig sødme, fin saltholdighet og delikat havsmak. Enten du spiser dem med aioli og baguette, på brød med majones, eller rett fra posen, er reker en av de enkleste og beste smaksopplevelsene vi har. Nettopp rettens enkelhet gjør vinvalget synlig – et feil valg merkes raskt.
 

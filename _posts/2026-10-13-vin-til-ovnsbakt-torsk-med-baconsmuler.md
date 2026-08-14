@@ -12,6 +12,7 @@ hero:
   alt: "ovnsbakt torsk med baconsmuler og rotgrønnsakspuré"
   caption: "Torsk med baconsmuler – hvit fisk får høstlig kraft"
 ---
+**Kort svar:** diskret fylde, salt- og røkttolerant profil og god syre er det du bør se etter i vin til ovnsbakt torsk med baconsmuler.
 
 Torsk er blant de mildeste fiskene vi har, men baconsmulene endrer hele karakteren på retten – den salte, røkte sprøheten gir torsken en dybde og kompleksitet den ikke har alene. Rotgrønnsakspuréen tilfører en søtlig, kremet dimensjon som runder av helheten. Dette gjør retten mer allsidig i vinvalget enn man skulle tro av torsk alene.
 

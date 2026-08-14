@@ -12,6 +12,7 @@ hero:
   alt: "Grillet sjøkreps på trebord med smørsaus"
   caption: "Fjordens edleste krepsdyr – en delikatesse som kaller på Norges beste hvitviner"
 ---
+**Kort svar:** rik kropp og tekstur, frisk syre og kompleksitet og lengde er det du bør se etter i vin til grillet sjøkreps med smør og hvitløk.
 
 Sjøkreps – eller langoustine som franskmennene kaller den – er et av Norges mest undervurderte matskatter. Kjøttet er søtt, delikat og saftig med en nesten hummerlignende rikdom, men med en lettere og mer raffinert tekstur. Grillet med smør og hvitløk er det en rett som absolutt fortjener en vin på høyt nivå.
 

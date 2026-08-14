@@ -12,6 +12,7 @@ hero:
   alt: "Hvit asparges med hollandaise og kokt egg"
   caption: "Vårens og sommerens store delikatesse – og vinparingens hemmelige krevende utfordring"
 ---
+**Kort svar:** frisk, mineralsk hvitvin, unngå tannintunge rødviner og aromatiske hvitviner er det du bør se etter i vin til hvit asparges med hollandaise.
 
 Hvit asparges er en sesongdelikatesse som kun er tilgjengelig noen uker om våren og forsommeren. I Tyskland, Frankrike og Belgia er åpningen av aspargesesongen en begivenhet. Servert med hollandaise og kokte egg er det en rett med mer smakskompleksitet enn det enkle utseendet antyder.
 

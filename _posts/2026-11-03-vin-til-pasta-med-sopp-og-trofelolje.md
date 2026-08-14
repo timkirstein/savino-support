@@ -12,6 +12,7 @@ hero:
   alt: "kremet pasta med sopp og trøffelolje"
   caption: "Pasta med sopp og trøffelolje – jordlig komfort for høsten"
 ---
+**Kort svar:** jordlige, komplekse toner, god syre og elegant fylde er det du bør se etter i vin til pasta med sopp og trøffelolje.
 
 Få smaker fanger høsten bedre enn sopp og trøffel. En kremet pasta med sjampinjong og portobello, toppet med noen dråper trøffelolje, er en rett som er både enkel å lage og dypt tilfredsstillende å spise. Den jordlige, umamirike profilen gir vinvalget en tydelig retning – dette er en rett som elsker viner med egen jordlig karakter.
 

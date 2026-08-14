@@ -12,6 +12,7 @@ hero:
   alt: "Grillede kyllingspyd med pita og urter"
   caption: "Sommergrillens allrounder – mør, aromatisk og alltid populær"
 ---
+**Kort svar:** aromatisk karakter, frisk syre og lett til middels kropp er det du bør se etter i vin til kyllingspyd med yoghurtmarinade og pita.
 
 Kyllingspyd marinert i yoghurt er grill-sommermiddagens pålitelige gjenganger av god grunn. Yoghurten mørgjør kjøttet og tilfører en mild syrlig undertone. Krydderblanden – gjerne en kombinasjon av spisskummen, koriander, paprika og hvitløk – gir spydene en aromatisk dybde som løfter enkel kylling til noe mer interessant.
 

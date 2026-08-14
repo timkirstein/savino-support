@@ -12,6 +12,7 @@ hero:
   alt: "Niçoise-salat med tunfisk, egg og oliven"
   caption: "Den provençalske sommerklassikeren – en vinparingens krevende og givende utfordring"
 ---
+**Kort svar:** god syre, lav til moderat tannin og provence-rosé er det du bør se etter i vin til niçoise-salat med tunfisk.
 
 Niçoise er ingen enkel salat å pare vin med. Et enkelt fat inneholder gjerne tunfisk, hardkokte egg, grønne bønner, tomat, sorte oliven, ansjos og kapers – en bouquet av smaker som spenner fra salt og umami til syreholdige og friske toner. Resultatet er en rett med mer smakskompleksitet enn mange festmiddager.
 

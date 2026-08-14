@@ -12,6 +12,7 @@ hero:
   alt: "Kald gazpacho i glasskål med urtegarnityr"
   caption: "Spanias svar på sommervarmen – frisk, intens og overraskende vinvennlig"
 ---
+**Kort svar:** høy friskhet og syre, aromatisk karakter og lett kropp er det du bør se etter i vin til kald gazpacho med tomat og agurk.
 
 Gazpacho er ikke suppe i tradisjonell forstand – det er en kald tomat- og grønnsaksblanding fra Andalusia som serveres som en forfriskende forrett eller lett middag på de varmeste dagene. Tomater, agurk, paprika, hvitløk, olivenolje og vineddik blandes til noe som smaker som sommer i et glass.
 

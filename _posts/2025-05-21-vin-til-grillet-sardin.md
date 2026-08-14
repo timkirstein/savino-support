@@ -12,6 +12,7 @@ hero:
   alt: "Grillede sardiner med sitron og urter på grillen"
   caption: "Middelhavets ærligste sommermat – intens, fet og uforglemmelig"
 ---
+**Kort svar:** frisk, mineralsk karakter, tilstrekkelig kropp og salt og mineralsk karakter er det du bør se etter i vin til grillet sardin med sitron og urter.
 
 Grillet sardin er fjernt fra den lyse, delikate hvitfiskens verden. Sardiner er fete, intense og fulle av umami – de er Middelhavets svar på kraft og karakter i liten pakke. Langs Portugals kyst og i Spanias havnebyer er grillet sardin den ubestridte sommerklassikeren. Det er mat som setter spor.
 

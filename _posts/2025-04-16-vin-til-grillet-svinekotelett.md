@@ -12,6 +12,7 @@ hero:
   alt: "Grillet svinekotelett med eple og frisk salvie"
   caption: "Den tidsløse trepletten – svin, eple og salvie i en klassiker"
 ---
+**Kort svar:** frisk hvitvin eller lett rødvin, fruktig karakter og aromatiske toner er det du bør se etter i vin til grillet svinekotelett med eple og salvie.
 
 Gris og eple er en av kjøkkenets eldste og mest pålitelige kombinasjoner. Svinekjøttets rike, litt søtlige fettinnhold og eplenes friske sødme og syre er en kontrast som har fungert i hundrevis av år i norske, franske og britiske kjøkken. Salvie tilfører et aromatisk, litt bittert preg som binder det hele.
 

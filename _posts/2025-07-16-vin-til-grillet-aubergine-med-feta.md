@@ -12,6 +12,7 @@ hero:
   alt: "Grillet aubergine med hvit fetaost og frisk mynte"
   caption: "Sommerfest fra Middelhavet – røykfylt aubergine møter salt fetaost"
 ---
+**Kort svar:** frisk syre, aromatisk karakter og moderat kropp er det du bør se etter i vin til grillet aubergine med fetaost og mynte.
 
 Aubergine på grillen er en transformasjon. Den litt bitre, svampete grønnsaken blir røykfylt, myk og nesten kjøttfull under grillvarmen – en helt annen karakter enn i ovnen. Fetaost tilfører salt og syrlighet, mynte gir frisk, aromatisk kontrast. Resultatet er en rett med overraskende mye å si til vinen.
 

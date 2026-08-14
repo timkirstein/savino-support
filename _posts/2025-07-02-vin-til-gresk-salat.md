@@ -12,6 +12,7 @@ hero:
   alt: "Gresk salat med fetaost og oliven i skål"
   caption: "Middelhavsommeren i en salatskål – salt, syrlig og frisk"
 ---
+**Kort svar:** frisk, tørr stil, mineral karakter og lett til moderat kropp er det du bør se etter i vin til gresk salat med fetaost og oliven.
 
 Gresk salat – horiatiki – er en av Middelhavets mest elskede sommerklassikere. Salaten er ikke bare en siderett; den er et smaksbilde på sommerens beste råvarer: saftige tomater, sprø agurk, søt paprika, skarp rødløk, salt-syrlig fetaost og kraftige kalamataoliven. Dressingen er enkel – god olivenolje og oregano.
 

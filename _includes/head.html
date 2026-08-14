@@ -18,4 +18,24 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon/favicon-16x16.png" />
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicon/apple-touch-icon.png" />
   <link rel="stylesheet" href="/assets/css/main.css" />
+  {% if page.date %}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": {{ page.title | jsonify }},
+      {% if page.description %}"description": {{ page.description | jsonify }},{% endif %}
+      "datePublished": "{{ page.date | date_to_xmlschema }}",
+      {% if page.hero.src %}"image": "{{ page.hero.src | absolute_url }}",{% endif %}
+      "url": "{{ page.url | absolute_url }}",
+      "mainEntityOfPage": "{{ page.url | absolute_url }}",
+      "author": { "@type": "Organization", "name": "Savino" },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Savino",
+        "logo": { "@type": "ImageObject", "url": "https://savino.no/logo_primary.png" }
+      }
+    }
+  </script>
+  {% endif %}
 </head>

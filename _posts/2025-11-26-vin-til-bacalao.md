@@ -12,6 +12,7 @@ hero:
   alt: "bacalao på et trebord"
   caption: "Norsk hverdagsklassiker med iberiske røtter – og et krevende vinvalg"
 ---
+**Kort svar:** tydelig syre, fruktig profil og moderat kropp er det du bør se etter i vin til bacalao.
 
 Bacalao er en norsk hverdagsklassiker med iberiske røtter – en trøstemat med salt torskefilet, tomater, olivenolje, paprika og gjerne oliven og kapers. Saltigheten og syren fra tomatene gjør vinvalget krevende: vinen trenger nok friskhet til å tåle saltet, men tilstrekkelig fruktrikdom til å møte tomatenes syre. Det er en rett som straffer et dårlig vinvalg fort.
 

@@ -12,6 +12,7 @@ hero:
   alt: "pizza på et trebord"
   caption: "Sprø pizza med tomatsaus – en hverdagsklassiker som vil ha riktig vin"
 ---
+**Kort svar:** god til høy syre, fruktig, rød bærprofil og moderat kropp er det du bør se etter i vin til pizza.
 
 En god pizza med tomatsaus, mozzarella og dine favorittoppinger er en av de enkleste og beste hverdagsrettene vi kjenner. Kombinasjonen av syrlig tomatsaus, smeltet ost og kraftige topping som pepperoni eller salami gir en rett med mye smak som trenger en vin med tilsvarende karakter. Italias egne viner er det åpenbare utgangspunktet.
 
