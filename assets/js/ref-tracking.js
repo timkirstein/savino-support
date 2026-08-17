@@ -2,6 +2,11 @@ import { hasAnalyticsConsent, onConsentAccepted } from "./cookie-consent.js";
 
 const REF_KEY = "savino_ref";
 
+/** The persisted campaign ref (e.g. "meta_aug2026"), if one was ever captured. */
+export function getRef() {
+  return localStorage.getItem(REF_KEY) || null;
+}
+
 const firebaseConfig = {
   apiKey: "AIzaSyCoNj8jhauPfhoVr-XBSH5DWcjH4he5IaA",
   authDomain: "grapemate-f80e3.firebaseapp.com",
