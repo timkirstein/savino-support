@@ -14,6 +14,9 @@
   --muted:           #6E7E76;
   --line:            rgba(10,26,20,0.10);
   --line-strong:     rgba(10,26,20,0.18);
+  // Premium accent — matches premiumGold in savino-colors.md and the
+  // paywall's gold star chips in the app (AppColors.premiumGold).
+  --gold:            #C8952A;
 
   --sans:  'Manrope', system-ui, sans-serif;
   --serif: 'DM Serif Display', Georgia, serif;

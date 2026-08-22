@@ -21,70 +21,147 @@ permalink: /giftcard/
 </script>
 
 <section class="giftcard-hero">
-  <div class="giftcard-wrap">
-    <h1>Gi bort riktig vin, hver gang</h1>
-    <p class="lead">
-      Gi Savino Premium i gave — ett år med personlige vinanbefalinger,
-      levert som et vakkert digitalt gavekort mottakeren kan løse inn på
-      minutter.
-    </p>
+  <div class="giftcard-grid">
+    <div class="giftcard-intro">
+      <p class="eyebrow">Gavekort &middot; Savino Premium</p>
+      <h1>Gi bort en <em>sommelier</em> i lommen.</h1>
+      <p class="lead">
+        Ett år med Savino Premium &mdash; personlige vinanbefalinger til
+        hver rett, basert på Vinmonopolets sortiment og mottakerens egen
+        kjeller.
+      </p>
 
-    <div id="giftcard-card" class="giftcard-card">
-      <div class="price-row">
-        <span class="price">699 kr</span>
-        <span class="price-sub">for 1 år &middot; engangskjøp, ikke abonnement</span>
+      <div class="delivery-card">
+        <p class="delivery-label">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="9" />
+            <path d="M12 7v5l3 3" />
+          </svg>
+          Leveres på minutter
+        </p>
+        <p class="delivery-title">Et vakkert digitalt gavekort.</p>
+        <p class="delivery-desc">
+          Send det på e-post eller skriv det ut &mdash; mottakeren løser
+          inn koden i appen og er i gang samme kveld.
+        </p>
       </div>
 
-      <form id="giftcard-form" class="giftcard-form">
-        <label for="recipientName">
-          Mottakers navn <span class="optional">(valgfritt)</span>
-        </label>
-        <input
-          type="text"
-          id="recipientName"
-          name="recipientName"
-          maxlength="100"
-          placeholder="F.eks. Kari Nordmann"
-          autocomplete="off"
-        />
-
-        <label for="message">
-          Personlig hilsen <span class="optional">(valgfritt)</span>
-        </label>
-        <textarea
-          id="message"
-          name="message"
-          maxlength="200"
-          rows="3"
-          placeholder="Skriv en hilsen til mottakeren…"
-        ></textarea>
-        <span class="char-count"><span id="messageCount">0</span>/200</span>
-
-        <button
-          type="submit"
-          id="giftcard-submit"
-          class="giftcard-submit"
-          data-track="giftcard_checkout_click"
-        >
-          Kjøp gavekort — 699 kr
-        </button>
-        <p id="giftcard-error" class="giftcard-error" hidden></p>
-      </form>
+      <ul class="feature-list">
+        <li>
+          <span class="feature-check" aria-hidden="true">
+            <svg width="14" height="14" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M3 8L6.5 11.5L13 4.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+          </span>
+          <div>
+            <p class="feature-title">Forstå hvorfor vinen passer</p>
+            <p class="feature-desc">En kort begrunnelse til hver anbefaling &mdash; som å spørre en sommelier.</p>
+          </div>
+        </li>
+        <li>
+          <span class="feature-check" aria-hidden="true">
+            <svg width="14" height="14" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M3 8L6.5 11.5L13 4.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+          </span>
+          <div>
+            <p class="feature-title">Din personlige vinekspert</p>
+            <p class="feature-desc">Sett opp vinmenyer, analyser kjelleren, finn beste kjøp.</p>
+          </div>
+        </li>
+        <li>
+          <span class="feature-check" aria-hidden="true">
+            <svg width="14" height="14" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M3 8L6.5 11.5L13 4.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+          </span>
+          <div>
+            <p class="feature-title">Ingen binding for mottakeren</p>
+            <p class="feature-desc">Gavekortet gjelder i ett år og fornyes ikke automatisk.</p>
+          </div>
+        </li>
+      </ul>
     </div>
 
-    <div id="giftcard-success" class="giftcard-success" hidden>
-      <h2>Takk for kjøpet! 🍷</h2>
-      <p>
-        Gavekortet er sendt til e-posten din, med koden og en
-        innløsningslenke. Sjekk innboksen (og eventuelt søppelpost) om noen
-        minutter.
+    <div class="giftcard-purchase">
+      <div id="giftcard-card-wrap" class="giftcard-card-wrap">
+        <div class="giftcard-preview">
+          <div class="preview-top">
+            <span class="preview-logo">SAVINO</span>
+            <span class="preview-badge">Gavekort</span>
+          </div>
+          <p class="preview-to" id="previewTo">Til deg</p>
+          <p class="preview-message" id="previewMessage">
+            Din personlige hilsen vises her på gavekortet.
+          </p>
+          <div class="preview-divider"></div>
+          <p class="preview-duration">12 måneder Premium</p>
+        </div>
+
+        <div class="giftcard-purchase-body">
+          <div class="price-row">
+            <span class="price">699 kr</span>
+            <span class="price-sub">for 1 år &middot; engangskjøp, ikke abonnement</span>
+          </div>
+
+          <form id="giftcard-form" class="giftcard-form">
+            <label for="recipientName">
+              Mottakers navn <span class="optional">(valgfritt)</span>
+            </label>
+            <input
+              type="text"
+              id="recipientName"
+              name="recipientName"
+              maxlength="100"
+              placeholder="F.eks. Kari Nordmann"
+              autocomplete="off"
+            />
+
+            <label for="message">
+              Personlig hilsen <span class="optional">(valgfritt)</span>
+            </label>
+            <textarea
+              id="message"
+              name="message"
+              maxlength="200"
+              rows="3"
+              placeholder="Skriv en hilsen til mottakeren…"
+            ></textarea>
+            <span class="char-count"><span id="messageCount">0</span>/200</span>
+
+            <button
+              type="submit"
+              id="giftcard-submit"
+              class="giftcard-submit"
+              data-track="giftcard_checkout_click"
+            >
+              Kjøp gavekort — 699 kr
+            </button>
+            <p id="giftcard-error" class="giftcard-error" hidden></p>
+          </form>
+
+          <p class="giftcard-terms">
+            Gyldig i 12 måneder fra kjøpsdato. Betaling håndteres sikkert
+            av Stripe.
+          </p>
+        </div>
+      </div>
+
+      <div id="giftcard-success" class="giftcard-success" hidden>
+        <h2>Takk for kjøpet! 🍷</h2>
+        <p>
+          Gavekortet er sendt til e-posten din, med koden og en
+          innløsningslenke. Sjekk innboksen (og eventuelt søppelpost) om
+          noen minutter.
+        </p>
+      </div>
+
+      <p class="giftcard-links">
+        <a href="/terms.html">Vilkår</a>
+        <span class="sep">&middot;</span>
+        <a href="/privacy.html">Personvern</a>
       </p>
     </div>
-
-    <p class="giftcard-terms">
-      Gavekortet er gyldig i 12 måneder fra kjøpsdato. Etter utløp kan koden
-      ikke lenger løses inn. Betaling håndteres sikkert av Stripe.
-    </p>
   </div>
 </section>
 

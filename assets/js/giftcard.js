@@ -19,6 +19,27 @@ function getUtmParams() {
   return out;
 }
 
+const PREVIEW_TO_DEFAULT = "Til deg";
+const PREVIEW_MESSAGE_DEFAULT = "Din personlige hilsen vises her på gavekortet.";
+
+/** Mirrors the name/message fields live onto the gift-card mockup at the top of the purchase card. */
+function initLivePreview() {
+  const recipientInput = document.getElementById("recipientName");
+  const messageInput = document.getElementById("message");
+  const previewTo = document.getElementById("previewTo");
+  const previewMessage = document.getElementById("previewMessage");
+  if (!recipientInput || !messageInput || !previewTo || !previewMessage) return;
+
+  recipientInput.addEventListener("input", () => {
+    const name = recipientInput.value.trim();
+    previewTo.textContent = name ? `Til ${name}` : PREVIEW_TO_DEFAULT;
+  });
+  messageInput.addEventListener("input", () => {
+    const message = messageInput.value.trim();
+    previewMessage.textContent = message || PREVIEW_MESSAGE_DEFAULT;
+  });
+}
+
 function initGiftcardForm() {
   const form = document.getElementById("giftcard-form");
   if (!form) return;
@@ -78,13 +99,14 @@ function showPurchasedBannerIfNeeded() {
   const params = new URLSearchParams(window.location.search);
   if (params.get("purchased") !== "1") return;
 
-  const card = document.getElementById("giftcard-card");
+  const card = document.getElementById("giftcard-card-wrap");
   const success = document.getElementById("giftcard-success");
   if (card) card.hidden = true;
   if (success) success.hidden = false;
 }
 
 function init() {
+  initLivePreview();
   initGiftcardForm();
   showPurchasedBannerIfNeeded();
 }
