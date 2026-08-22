@@ -47,8 +47,26 @@ function attachDownloadClickTracking() {
   });
 }
 
+/** Delegated click listener for the /giftcard "Kjøp gavekort" button. */
+function attachGiftcardClickTracking() {
+  document.addEventListener("click", (event) => {
+    const target = event.target.closest('[data-track="giftcard_checkout_click"]');
+    if (!target) return;
+    if (!hasAnalyticsConsent() || !window.fbq) return;
+
+    const ref = getRef();
+    window.fbq("track", "InitiateCheckout", {
+      content_name: "giftcard",
+      value: 699,
+      currency: "NOK",
+      ...(ref ? { ref } : {}),
+    });
+  });
+}
+
 function init() {
   attachDownloadClickTracking();
+  attachGiftcardClickTracking();
 
   if (hasAnalyticsConsent()) {
     bootstrapPixel();

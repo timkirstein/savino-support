@@ -1,0 +1,91 @@
+---
+layout: default
+title: "Gi Savino Premium i gave"
+description: "Gi bort ett år med Savino Premium — en personlig vingave, klar på minutter. 699 kr, engangskjøp."
+permalink: /giftcard/
+---
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Savino Premium – Gavekort, 1 år",
+    "description": "Gavekort for 12 måneder Savino Premium.",
+    "offers": {
+      "@type": "Offer",
+      "priceCurrency": "NOK",
+      "price": "699",
+      "availability": "https://schema.org/InStock",
+      "url": "https://savino.no/giftcard/"
+    }
+  }
+</script>
+
+<section class="giftcard-hero">
+  <div class="giftcard-wrap">
+    <h1>Gi bort riktig vin, hver gang</h1>
+    <p class="lead">
+      Gi Savino Premium i gave — ett år med personlige vinanbefalinger,
+      levert som et vakkert digitalt gavekort mottakeren kan løse inn på
+      minutter.
+    </p>
+
+    <div id="giftcard-card" class="giftcard-card">
+      <div class="price-row">
+        <span class="price">699 kr</span>
+        <span class="price-sub">for 1 år &middot; engangskjøp, ikke abonnement</span>
+      </div>
+
+      <form id="giftcard-form" class="giftcard-form">
+        <label for="recipientName">
+          Mottakers navn <span class="optional">(valgfritt)</span>
+        </label>
+        <input
+          type="text"
+          id="recipientName"
+          name="recipientName"
+          maxlength="100"
+          placeholder="F.eks. Frank Erik"
+          autocomplete="off"
+        />
+
+        <label for="message">
+          Personlig hilsen <span class="optional">(valgfritt)</span>
+        </label>
+        <textarea
+          id="message"
+          name="message"
+          maxlength="200"
+          rows="3"
+          placeholder="Skriv en hilsen til mottakeren…"
+        ></textarea>
+        <span class="char-count"><span id="messageCount">0</span>/200</span>
+
+        <button
+          type="submit"
+          id="giftcard-submit"
+          class="giftcard-submit"
+          data-track="giftcard_checkout_click"
+        >
+          Kjøp gavekort — 699 kr
+        </button>
+        <p id="giftcard-error" class="giftcard-error" hidden></p>
+      </form>
+    </div>
+
+    <div id="giftcard-success" class="giftcard-success" hidden>
+      <h2>Takk for kjøpet! 🍷</h2>
+      <p>
+        Gavekortet er sendt til e-posten din, med koden og en
+        innløsningslenke. Sjekk innboksen (og eventuelt søppelpost) om noen
+        minutter.
+      </p>
+    </div>
+
+    <p class="giftcard-terms">
+      Gavekortet er gyldig i 12 måneder fra kjøpsdato. Etter utløp kan koden
+      ikke lenger løses inn. Betaling håndteres sikkert av Stripe.
+    </p>
+  </div>
+</section>
+
+<script type="module" src="/assets/js/giftcard.js" defer></script>

@@ -1,0 +1,47 @@
+---
+layout: null
+permalink: /gave/
+---
+<!doctype html>
+<html lang="nb">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Åpner gaven din… · Savino</title>
+  <meta name="robots" content="noindex" />
+  <script>
+    // The actual redemption page (Firebase Auth + Firestore) lives on
+    // app.savino.no, not this static site — this stub exists purely so the
+    // literal savino.no/gave?code=... URL printed on the gift-card PDF and
+    // sent in the purchase email still resolves. Redirect happens
+    // synchronously in <head>, before render, so it's effectively instant
+    // for anyone with JS enabled (the overwhelming majority — see the
+    // visible fallback link in <body> for the rest).
+    (function () {
+      var params = new URLSearchParams(window.location.search);
+      var code = params.get("code") || "";
+      var target =
+        "https://app.savino.no/gave" +
+        (code ? "?code=" + encodeURIComponent(code) : "");
+      window.location.replace(target);
+    })();
+  </script>
+</head>
+<body>
+  <p>
+    Åpner gaven din&hellip; Hvis du ikke sendes videre automatisk,
+    <a id="fallback-link" href="https://app.savino.no/gave">klikk her</a>.
+  </p>
+  <script>
+    (function () {
+      var params = new URLSearchParams(window.location.search);
+      var code = params.get("code") || "";
+      var target =
+        "https://app.savino.no/gave" +
+        (code ? "?code=" + encodeURIComponent(code) : "");
+      var link = document.getElementById("fallback-link");
+      if (link) link.href = target;
+    })();
+  </script>
+</body>
+</html>
