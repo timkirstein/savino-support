@@ -1,4 +1,4 @@
-// /giftcard page only — not loaded globally from default.html (unlike
+// /gavekort page only — not loaded globally from default.html (unlike
 // ref-tracking.js/meta-pixel.js/google-ads.js), since nothing else on the
 // site needs a Stripe Checkout call.
 const ENDPOINT =

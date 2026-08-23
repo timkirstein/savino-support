@@ -47,7 +47,7 @@ function attachDownloadClickTracking() {
   });
 }
 
-/** Delegated click listener for the /giftcard "Kjøp gavekort" button. */
+/** Delegated click listener for the /gavekort "Kjøp gavekort" button. */
 function attachGiftcardClickTracking() {
   document.addEventListener("click", (event) => {
     const target = event.target.closest('[data-track="giftcard_checkout_click"]');
