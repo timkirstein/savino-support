@@ -10,12 +10,30 @@ permalink: /gavekort/
     "@type": "Product",
     "name": "Savino Premium – Gavekort, 1 år",
     "description": "Gavekort for 12 måneder Savino Premium.",
+    "image": "https://savino.no/logo_primary.png",
+    "brand": { "@type": "Brand", "name": "Savino" },
+    "identifierExists": false,
     "offers": {
       "@type": "Offer",
       "priceCurrency": "NOK",
       "price": "699",
       "availability": "https://schema.org/InStock",
-      "url": "https://savino.no/gavekort/"
+      "url": "https://savino.no/gavekort/",
+      "hasMerchantReturnPolicy": {
+        "@type": "MerchantReturnPolicy",
+        "applicableCountry": "NO",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnNotPermitted"
+      },
+      "shippingDetails": {
+        "@type": "OfferShippingDetails",
+        "shippingRate": { "@type": "MonetaryAmount", "value": "0", "currency": "NOK" },
+        "shippingDestination": { "@type": "DefinedRegion", "addressCountry": "NO" },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": { "@type": "QuantitativeValue", "minValue": 0, "maxValue": 0, "unitCode": "DAY" },
+          "transitTime": { "@type": "QuantitativeValue", "minValue": 0, "maxValue": 0, "unitCode": "DAY" }
+        }
+      }
     }
   }
 </script>
