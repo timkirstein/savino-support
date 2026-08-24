@@ -16,8 +16,17 @@ end
 Liquid::Template.register_filter(Jekyll::WinePriceFilter)
 
 module Savino
-  ENDPOINT  = 'https://europe-west1-grapemate-f80e3.cloudfunctions.net/blogSearchWines'
-  CACHE_DIR = '.jekyll-cache/wine_fetcher'
+  ENDPOINT     = 'https://europe-west1-grapemate-f80e3.cloudfunctions.net/blogSearchWines'
+  CACHE_DIR    = '.jekyll-cache/wine_fetcher'
+  # The endpoint runs a full LLM pipeline (dish analysis + intro text + up to
+  # 3 wine descriptions) on a cold cache — this can occasionally take longer
+  # than a first-request-only timeout would allow. 45s gives real headroom;
+  # MAX_ATTEMPTS retries once more on top of that so a single slow/transient
+  # request never permanently leaves a post without wines until it happens to
+  # be rebuilt again.
+  READ_TIMEOUT_SECONDS = 45
+  MAX_ATTEMPTS         = 2
+  RETRY_DELAY_SECONDS  = 3
 
   def self.fetch_wines(dish, api_key)
     cache_key  = Digest::MD5.hexdigest("#{dish}|100|500|3")
@@ -30,10 +39,27 @@ module Savino
 
     FileUtils.mkdir_p(CACHE_DIR)
 
+    data = nil
+    MAX_ATTEMPTS.times do |attempt|
+      data = request_wines(dish, api_key)
+      break if data
+
+      if attempt < MAX_ATTEMPTS - 1
+        Jekyll.logger.warn 'WineFetcher:', "Retrying '#{dish}' (attempt #{attempt + 2}/#{MAX_ATTEMPTS})…"
+        sleep RETRY_DELAY_SECONDS
+      end
+    end
+    return nil unless data
+
+    File.write(cache_file, JSON.generate(data))
+    data
+  end
+
+  def self.request_wines(dish, api_key)
     uri  = URI(ENDPOINT)
     http = Net::HTTP.new(uri.host, uri.port)
-    http.use_ssl     = true
-    http.read_timeout = 15
+    http.use_ssl      = true
+    http.read_timeout = READ_TIMEOUT_SECONDS
 
     req = Net::HTTP::Post.new(uri.path)
     req['Content-Type'] = 'application/json'
@@ -60,7 +86,6 @@ module Savino
       return nil
     end
 
-    File.write(cache_file, JSON.generate(data))
     data
   rescue StandardError => e
     Jekyll.logger.warn 'WineFetcher:', "#{e.class}: #{e.message}"
