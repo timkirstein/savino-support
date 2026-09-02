@@ -1,5 +1,5 @@
 import { hasAnalyticsConsent, onConsentAccepted } from "./cookie-consent.js";
-import { getRef } from "./ref-tracking.js";
+import { getRef, utmEventParams } from "./ref-tracking.js";
 
 // Same dataset as the Savino-web pixel and the Meta CAPI events sent from
 // the Stripe webhook — keeps app, web and landing-page conversions unified
@@ -31,7 +31,7 @@ function bootstrapPixel() {
   window.fbq("init", PIXEL_ID);
 
   const ref = getRef();
-  window.fbq("track", "PageView", ref ? { ref } : {});
+  window.fbq("track", "PageView", { ...(ref ? { ref } : {}), ...utmEventParams() });
 }
 
 /** Delegated click listener for every "Last ned"-button on the site — mirrors ref-tracking.js's download_click. */
@@ -43,7 +43,12 @@ function attachDownloadClickTracking() {
 
     const ref = getRef();
     const store = target.dataset.store || "unknown";
-    window.fbq("track", "Lead", { content_name: "app_download", store, ...(ref ? { ref } : {}) });
+    window.fbq("track", "Lead", {
+      content_name: "app_download",
+      store,
+      ...(ref ? { ref } : {}),
+      ...utmEventParams(),
+    });
   });
 }
 
