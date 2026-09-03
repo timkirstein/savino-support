@@ -28,19 +28,34 @@ const firebaseConfig = {
   measurementId: "G-GGS48F5ZSE",
 };
 
+// reCAPTCHA v3 site key for App Check — same key + "digital_somelier_v2 (web)"
+// App Check app as Savino-web/savino-b2b (same appId above). savino.no (this
+// site's domain, per CNAME) is allow-listed for this key in the reCAPTCHA
+// admin console alongside app.savino.no, savino-b2b.web.app, and localhost.
+const RECAPTCHA_SITE_KEY = "6LcWMJAtAAAAAHeeTECZFO-U8h19XfkTWKw5KMaj";
+
 let firebaseHandlesPromise = null;
 
-/** Lazily loads + initializes Firebase (Analytics + Firestore) — only ever called once consent is granted. */
+/** Lazily loads + initializes Firebase (App Check + Analytics + Firestore) — only ever called once consent is granted. */
 function getFirebaseHandles() {
   if (!firebaseHandlesPromise) {
     firebaseHandlesPromise = (async () => {
-      const [{ initializeApp }, { getAnalytics, logEvent }, { getFirestore, collection, addDoc, serverTimestamp }] =
-        await Promise.all([
-          import("https://www.gstatic.com/firebasejs/12.0.0/firebase-app.js"),
-          import("https://www.gstatic.com/firebasejs/12.0.0/firebase-analytics.js"),
-          import("https://www.gstatic.com/firebasejs/12.0.0/firebase-firestore.js"),
-        ]);
+      const [
+        { initializeApp },
+        { initializeAppCheck, ReCaptchaV3Provider },
+        { getAnalytics, logEvent },
+        { getFirestore, collection, addDoc, serverTimestamp },
+      ] = await Promise.all([
+        import("https://www.gstatic.com/firebasejs/12.0.0/firebase-app.js"),
+        import("https://www.gstatic.com/firebasejs/12.0.0/firebase-app-check.js"),
+        import("https://www.gstatic.com/firebasejs/12.0.0/firebase-analytics.js"),
+        import("https://www.gstatic.com/firebasejs/12.0.0/firebase-firestore.js"),
+      ]);
       const app = initializeApp(firebaseConfig);
+      initializeAppCheck(app, {
+        provider: new ReCaptchaV3Provider(RECAPTCHA_SITE_KEY),
+        isTokenAutoRefreshEnabled: true,
+      });
       return {
         analytics: getAnalytics(app),
         db: getFirestore(app),
