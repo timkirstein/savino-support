@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="no">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>Tag debug — Savino</title>
+    <style>
+      body { font-family: -apple-system, sans-serif; max-width: 640px; margin: 40px auto; padding: 0 16px; }
+      h1 { font-size: 18px; }
+      code { background: #f0f0f0; padding: 2px 5px; border-radius: 3px; }
+      #status { white-space: pre-wrap; background: #111; color: #0f0; padding: 12px; border-radius: 6px; font-size: 12px; }
+      button { padding: 10px 16px; margin: 4px 8px 4px 0; }
+      .links a { display: inline-block; margin: 4px 8px 4px 0; }
+    </style>
+  </head>
+  <body>
+    <h1>Tag debug</h1>
+    <p>
+      Loads a chosen subset of the real site scripts via <code>?scripts=</code> (comma list of
+      <code>ads</code>, <code>meta</code>, <code>ref</code>). Default: <code>ads</code> only.
+      Example: <code>/tag-debug.html?scripts=ads,ref</code>
+    </p>
+    <p class="links">
+      <a href="/tag-debug.html?scripts=ads">ads only</a>
+      <a href="/tag-debug.html?scripts=ads,ref">ads+ref</a>
+      <a href="/tag-debug.html?scripts=ads,meta">ads+meta</a>
+      <a href="/tag-debug.html?scripts=ads,meta,ref">ads+meta+ref (all, like real site)</a>
+    </p>
+
+    <p><strong>Loading:</strong> <span id="loading"></span></p>
+
+    <button id="fire">Fire test conversion event</button>
+    <button id="refresh">Refresh status</button>
+
+    <p><a data-track="download_click" data-store="ios" href="https://apps.apple.com/no/app/savino/id6755443985">App Store (real tracked link)</a></p>
+
+    <pre id="status">…</pre>
+
+    <script type="module">
+      const params = new URLSearchParams(location.search);
+      const scripts = (params.get("scripts") || "ads").split(",").map((s) => s.trim());
+      document.getElementById("loading").textContent = scripts.join(", ");
+
+      const SRC = {
+        ads: "/assets/js/google-ads.js",
+        meta: "/assets/js/meta-pixel.js",
+        ref: "/assets/js/ref-tracking.js",
+      };
+
+      for (const key of scripts) {
+        if (!SRC[key]) continue;
+        const s = document.createElement("script");
+        s.type = "module";
+        s.src = SRC[key];
+        document.body.appendChild(s);
+      }
+
+      function snapshot() {
+        const gtm = window.google_tag_manager;
+        const ics = window.google_tag_data && window.google_tag_data.ics;
+        const awScripts = Array.from(document.querySelectorAll('script[src*="gtag/js"]')).map(
+          (s) => new URL(s.src).searchParams.get("id")
+        );
+        return {
+          gtagName: window.gtag ? window.gtag.name : null,
+          gtagScripts: awScripts,
+          topGtmKeys: gtm ? Object.keys(gtm) : null,
+          awContainerKeys: gtm && gtm["AW-18395465832"] ? Object.keys(gtm["AW-18395465832"]) : null,
+          ics: ics ? { active: ics.active, usedDefault: ics.usedDefault, accessedDefault: ics.accessedDefault } : null,
+        };
+      }
+
+      function render() {
+        document.getElementById("status").textContent = JSON.stringify(snapshot(), null, 2);
+      }
+
+      document.getElementById("refresh").addEventListener("click", render);
+      document.getElementById("fire").addEventListener("click", () => {
+        if (window.gtag) {
+          window.gtag("event", "conversion", {
+            send_to: "AW-18395465832/V2VJCLzNruUcEOiQ0sNE",
+            value: 1,
+            currency: "NOK",
+          });
+        }
+        setTimeout(render, 500);
+      });
+
+      setInterval(render, 2000);
+      render();
+    </script>
+  </body>
+</html>
