@@ -1,0 +1,61 @@
+/* Partner card — used on Om Savino to list collaboration partners */
+.partner-card {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  background: var(--mint-2);
+  border-radius: 18px;
+  padding: 32px 36px;
+  margin: 0 0 22px;
+}
+
+.partner-logo-link {
+  flex-shrink: 0;
+  line-height: 0;
+}
+
+/* Compound selector needed: `.body img` in _article.scss (0,0,1,1) otherwise
+   beats a bare `.partner-logo` class (0,0,1,0) and silently wins the width. */
+.partner-card .partner-logo {
+  width: 108px;
+  max-width: 108px;
+  height: auto;
+  border: none;
+}
+
+.partner-copy {
+  p {
+    font-size: 15.5px;
+    line-height: 1.6;
+    color: var(--ink-2);
+    margin: 0 0 12px;
+  }
+}
+
+.partner-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-weight: 600;
+  font-size: 14.5px;
+  color: var(--green-deep);
+  text-decoration: none;
+
+  &:hover {
+    color: var(--green);
+  }
+}
+
+@media (max-width: 640px) {
+  .partner-card {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 28px 24px;
+    gap: 18px;
+  }
+
+  .partner-card .partner-logo {
+    width: 88px;
+    max-width: 88px;
+  }
+}
