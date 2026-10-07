@@ -15,6 +15,26 @@ end
 
 Liquid::Template.register_filter(Jekyll::WinePriceFilter)
 
+module Jekyll
+  # The generated wine text is "description. Passer godt til …" — the pairing
+  # sentence repeats what the post is already about, so only the description
+  # is shown. Always keeps at least the first sentence.
+  module WineDescriptionFilter
+    PAIRING_SENTENCE = /\A(Passer|Passar|Serveres|Serveras)\b.*\b(til|till)\b/i
+
+    def wine_description(text)
+      return '' if text.nil?
+      sentences = text.to_s.strip.split(/(?<=[.!?])\s+/)
+      kept = sentences.reject.with_index { |s, i| i.positive? && s =~ PAIRING_SENTENCE }
+      kept = sentences.first(1) if kept.empty?
+      kept.join(' ')
+    end
+  end
+end
+
+Liquid::Template.register_filter(Jekyll::WineDescriptionFilter)
+
+
 module Savino
   ENDPOINT     = 'https://europe-west1-grapemate-f80e3.cloudfunctions.net/blogSearchWines'
   CACHE_DIR    = '.jekyll-cache/wine_fetcher'
