@@ -7,6 +7,10 @@ date: 2026-10-09
 category: Kjøtt
 permalink: /blogg/vin-til-farikal/
 dish: "fårikål – lammekjøtt og kål kokt i lag med hel sort pepper, servert med kokte poteter"
+hero:
+  src: /assets/img/farikal.jpg
+  alt: "en skål med lam og kål i kraft"
+  caption: "Fårikål – Norges nasjonalrett, høstens store gryterett"
 ---
 **Kort svar:** frisk syre, moderat tannin og en krydret, pepperaktig frukt er det du bør se etter i vin til fårikål.
 

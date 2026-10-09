@@ -7,6 +7,10 @@ date: 2026-10-09
 category: Kjøtt
 permalink: /blogg/vin-til-ovnsbakt-svinebuk/
 dish: "ovnsbakt svinebuk med sprø svor, servert med eplemos og ovnsbakte rotgrønnsaker"
+hero:
+  src: /assets/img/pork_belly.jpg
+  alt: "ovnsbakt svinebuk servert med potetmos og saus"
+  caption: "Ovnsbakt svinebuk – fet, sprø og full av smak"
 ---
 **Kort svar:** høy syre, saftig frukt og lite tannin er det du bør se etter i vin til ovnsbakt svinebuk.
 

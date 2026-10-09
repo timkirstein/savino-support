@@ -7,6 +7,10 @@ date: 2026-10-09
 category: Hverdagsmat
 permalink: /blogg/vin-til-lapskaus/
 dish: "brun lapskaus med storfekjøtt, poteter, gulrot og kålrot"
+hero:
+  src: /assets/img/lapskaus.jpg
+  alt: "en skål med lapskaus med kjøtt, gulrot og poteter"
+  caption: "Lapskaus – norsk hverdagsmat på sitt beste"
 ---
 **Kort svar:** saftig frukt, middels kropp og myke tanniner er det du bør se etter i vin til lapskaus.
 

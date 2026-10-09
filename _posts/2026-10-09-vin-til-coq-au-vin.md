@@ -7,6 +7,10 @@ date: 2026-10-09
 category: Kjøtt
 permalink: /blogg/vin-til-coq-au-vin/
 dish: "coq au vin – kylling langtidsbraisert i rødvin med bacon, sjampinjong og perleløk"
+hero:
+  src: /assets/img/coq_au_vin.jpg
+  alt: "coq au vin med gulrot og perleløk i en dyp tallerken"
+  caption: "Coq au vin – fransk høstklassiker braisert i rødvin"
 ---
 **Kort svar:** elegant frukt, myke tanniner og jordlige toner er det du bør se etter i vin til coq au vin.
 

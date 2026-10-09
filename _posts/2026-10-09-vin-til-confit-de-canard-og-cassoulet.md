@@ -7,6 +7,10 @@ date: 2026-10-09
 category: Kjøtt
 permalink: /blogg/vin-til-confit-de-canard-og-cassoulet/
 dish: "cassoulet med andeconfit, toulousepølse, svinekjøtt og hvite bønner"
+hero:
+  src: /assets/img/confit_de_canard.jpg
+  alt: "confit de canard med potetmos og mørk saus"
+  caption: "Confit de canard – Sørvest-Frankrikes høstklassiker"
 ---
 **Kort svar:** fast tannin, frisk syre og mørk, krydret frukt er det du bør se etter i vin til confit de canard og cassoulet.
 

@@ -7,6 +7,10 @@ date: 2026-10-09
 category: Vegetar
 permalink: /blogg/vin-til-gresskarsuppe/
 dish: "kremet gresskarsuppe med fløte, hvitløk og ristede gresskarkjerner"
+hero:
+  src: /assets/img/pumpkin_soup.jpg
+  alt: "kremet gresskarsuppe med krutonger og gresskarkjerner"
+  caption: "Gresskarsuppe – høsten i en skål"
 ---
 **Kort svar:** rund, fruktig fylde og god syre er det du bør se etter i vin til gresskarsuppe.
 

@@ -7,6 +7,10 @@ date: 2026-10-09
 category: Vegetar
 permalink: /blogg/vin-til-kantarell-pa-toast/
 dish: "kantarell på toast – smørstekte kantareller med hvitløk og persille på ristet surdeigsbrød"
+hero:
+  src: /assets/img/chanterelle_toast.jpg
+  alt: "to skiver toast med smørstekte kantareller og ruccola"
+  caption: "Kantarell på toast – sesongens enkleste soppmat"
 ---
 **Kort svar:** rund fylde, et lett smørpreg og frisk syre er det du bør se etter i vin til kantarell på toast.
 

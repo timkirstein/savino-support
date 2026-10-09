@@ -7,6 +7,10 @@ date: 2026-10-09
 category: Kjøtt
 permalink: /blogg/vin-til-osso-buco/
 dish: "osso buco – kalveskank langtidsbraisert i hvitvin og tomat, servert med gremolata og risotto alla milanese"
+hero:
+  src: /assets/img/osso_buco.jpg
+  alt: "osso buco i tomatsaus servert i en støpejernsform"
+  caption: "Osso buco – italiensk langtidskokt kalv"
 ---
 **Kort svar:** høy syre, middels kropp og fast, men ikke for kraftig tannin er det du bør se etter i vin til osso buco.
 
