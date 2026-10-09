@@ -1,0 +1,28 @@
+---
+layout: null
+permalink: /nvkf/
+---
+<!doctype html>
+<html lang="nb">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Savino Premium · NVKF</title>
+  <meta name="robots" content="noindex" />
+  <script>
+    // Landing stub for the NVKF Christmas-dinner QR code. The QR points at
+    // savino.no (not app.savino.no) on purpose: app.savino.no/premium is a
+    // verified Universal/App Link, so scanning it on a phone with Savino
+    // installed opens the APP instead of the web checkout, where the promo
+    // code (NVKF30) can't be applied. savino.no is not claimed by the app, so
+    // this page loads in the browser and forwards to the web checkout.
+    window.location.replace("https://app.savino.no/premium?promo=NVKF30");
+  </script>
+</head>
+<body>
+  <p>
+    Åpner Savino Premium&hellip; Hvis du ikke sendes videre automatisk,
+    <a href="https://app.savino.no/premium?promo=NVKF30">klikk her</a>.
+  </p>
+</body>
+</html>
