@@ -178,7 +178,7 @@
             <div class="cta-row">
               <a
                 class="btn btn-primary btn-lg store-btn"
-                href="https://apps.apple.com/no/app/savino/id6755443985"
+                href="{% include store-url.html store="ios" placement="hero" %}"
                 target="_blank"
                 rel="noopener"
                 data-track="download_click"
@@ -193,7 +193,7 @@
               </a>
               <a
                 class="btn btn-primary btn-lg store-btn"
-                href="https://play.google.com/store/apps/details?id=com.savino.digitalsommelier"
+                href="{% include store-url.html store="android" placement="hero" %}"
                 target="_blank"
                 rel="noopener"
                 data-track="download_click"
@@ -568,6 +568,7 @@
 
     {% include cookie-consent.html %}
     <script type="module" src="/assets/js/ref-tracking.js"></script>
+    <script type="module" src="/assets/js/store-link-attribution.js"></script>
     <script type="module" src="/assets/js/meta-pixel.js"></script>
     <script type="module" src="/assets/js/google-ads.js"></script>
   </body>

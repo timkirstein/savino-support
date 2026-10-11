@@ -1,0 +1,32 @@
+{%- comment -%}
+  Store link with source attribution, so installs that start on savino.no
+  can be told apart from other installs.
+
+  Usage: href="{% include store-url.html store="ios" placement="header" %}"
+
+  - iOS: App Store campaign link (pt = provider token, ct = campaign, max 30
+    chars). Shows up as counts in App Store Connect → Analytics →
+    Acquisition → Campaigns once a campaign has 5+ installs.
+  - Android: Play Install Referrer. The app's GoogleAdsReferrerService writes
+    utm_source as RevenueCat's $mediaSource and utm_campaign as $campaign, so
+    these installs get their own series in RevenueCat Charts.
+
+  The campaign is the post slug for blog posts, otherwise the page path
+  ("home" for the front page). assets/js/store-link-attribution.js replaces
+  utm_source/ct with the visitor's own incoming UTM source when there is one.
+{%- endcomment -%}
+{%- if page.slug and page.layout == "post" -%}
+  {%- assign sl_campaign = page.slug -%}
+  {%- assign sl_medium = "blog" -%}
+{%- else -%}
+  {%- assign sl_campaign = page.url | remove: "index.html" | remove_first: "/" | split: "/" | join: "-" -%}
+  {%- if sl_campaign == "" -%}{%- assign sl_campaign = "home" -%}{%- endif -%}
+  {%- assign sl_medium = "site" -%}
+{%- endif -%}
+{%- if include.store == "ios" -%}
+  {%- assign sl_ct = sl_campaign | remove_first: "vin-til-" | replace_first: "blogg-kategori-", "kat-" | prepend: "web_" | slice: 0, 30 -%}
+  https://apps.apple.com/no/app/savino/id6755443985?pt=128302666&ct={{ sl_ct | url_encode }}&mt=8
+{%- else -%}
+  {%- capture sl_referrer -%}utm_source=savino_web&utm_medium={{ sl_medium }}&utm_campaign={{ sl_campaign }}&utm_content={{ include.placement | default: "unknown" }}{%- endcapture -%}
+  https://play.google.com/store/apps/details?id=com.savino.digitalsommelier&referrer={{ sl_referrer | url_encode }}
+{%- endif -%}
