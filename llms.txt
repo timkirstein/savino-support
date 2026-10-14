@@ -23,11 +23,20 @@ Grunnfunksjonene er gratis. Premium-abonnement: NOK 79/måned eller NOK 699/år.
 - Savino selger ikke vin direkte — appen viser tilgjengelighet og lenker videre til Vinmonopolet/Systembolaget.
 - Appen krever ingen konto for grunnfunksjonene.
 
+## Ofte stilte spørsmål
+
+- **Er Savino gratis?** Grunnfunksjonene er gratis og krever ingen konto. Premium koster 79 kr/måned eller 699 kr/år.
+- **Hvilke viner bruker Savino?** Primært brukerens egne viner; for nye kjøp Vinmonopolets sortiment i valgt butikk.
+- **Kan flere dele Premium?** Ja, ved å logge inn med samme konto (Apple, Google eller e-post).
+- **Hva er et drikkevindu?** Tidsrommet da en vin antas å være på sitt beste.
+- **Kan jeg importere samlingen min?** Ja, fra Excel/CSV eller CellarTracker.
+
 ## Sider
 
 - Nedlasting: https://savino.no/
 - App Store: https://apps.apple.com/no/app/savino/id6755443985
 - Google Play: https://play.google.com/store/apps/details?id=com.savino.digitalsommelier
+- Fullstendig beskrivelse for agenter: https://savino.no/llms-full.txt
 - Blogg (vinparinger til mat): https://savino.no/blogg/
 - Personvern: https://savino.no/privacy.html
 - Vilkår: https://savino.no/terms.html
