@@ -4,6 +4,8 @@ import { hasAnalyticsConsent, onConsentAccepted } from "./cookie-consent.js";
 // "Klick på nedladdningsknapp" conversion action, savino.no.
 const AW_ID = "AW-18395465832";
 const CONVERSION_LABEL = "AW-18395465832/V2VJCLzNruUcEOiQ0sNE";
+// Gavekort-konverteringer (Savino gavekort klikk).
+const GIFT_CLICK_LABEL = "AW-18395465832/d-BHCPvL_p0dEOiQ0sNE";
 
 /**
  * Consent Mode v2 state object. Before "Godta", every signal is "denied" —
@@ -48,6 +50,14 @@ function bootstrapGoogleAds() {
 /** Delegated click listener for every "Last ned"-button on the site — mirrors meta-pixel.js's download_click. */
 function attachDownloadClickTracking() {
   document.addEventListener("click", (event) => {
+    if (event.target.closest('[data-track="giftcard_checkout_click"]') && window.gtag) {
+      window.gtag("event", "conversion", {
+        send_to: GIFT_CLICK_LABEL,
+        value: 1.0,
+        currency: "NOK",
+      });
+    }
+
     const target = event.target.closest('[data-track="download_click"]');
     if (!target || !window.gtag) return;
 

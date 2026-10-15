@@ -103,6 +103,22 @@ function showPurchasedBannerIfNeeded() {
   const success = document.getElementById("giftcard-success");
   if (card) card.hidden = true;
   if (success) success.hidden = false;
+  trackGiftPurchase();
+}
+
+/** Google Ads-konvertering "Savino gavekort kjøp" (699 NOK). Én gang per fane, også ved omlasting. */
+function trackGiftPurchase() {
+  try {
+    if (sessionStorage.getItem("savino_gift_purchase_sent")) return;
+    sessionStorage.setItem("savino_gift_purchase_sent", "1");
+  } catch {
+    // sessionStorage kan være blokkert — da telles hendelsen heller enn at den mistes.
+  }
+  window.gtag?.("event", "conversion", {
+    send_to: "AW-18395465832/vkNlCPjL_p0dEOiQ0sNE",
+    value: 699,
+    currency: "NOK",
+  });
 }
 
 function init() {
