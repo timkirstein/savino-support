@@ -1,0 +1,62 @@
+<!doctype html><html lang="nb"><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--dark:#0B3F35;--green:#199978;--mint:#E8F5EE;--gold:#C8952A;--ink:#0A1A14;--muted:#6E7E76;--white:#fff}
+*{box-sizing:border-box;margin:0}
+html,body{width:100%;height:100%}
+body{font-family:Manrope,sans-serif;background:var(--mint);color:var(--ink);overflow:hidden;display:flex;align-items:center;justify-content:center}
+.wm{font-family:'DM Serif Display',serif;letter-spacing:.04em;display:flex;align-items:center;gap:1.4vmin}
+.wm img{height:6vmin;width:6vmin;border-radius:1.4vmin}
+.stage{width:100vw;height:100vh;display:flex;align-items:center;justify-content:center}
+.card{background:var(--dark);color:var(--white);border-radius:2.2vmin;box-shadow:0 3vmin 6vmin rgba(10,26,20,.3);padding:4.4vmin 5vmin;width:62vmin;height:39vmin;display:flex;flex-direction:column;justify-content:space-between;transform:rotate(-4deg)}
+.card .wm{font-size:4.6vmin}
+.card .s{font-size:1.9vmin;letter-spacing:.2em;color:var(--gold);text-transform:uppercase;font-weight:700}
+.card .t{font-size:3.8vmin;font-family:'DM Serif Display',serif;margin-top:.8vmin}
+.card .c{font-size:2.1vmin;letter-spacing:.12em;opacity:.8}
+h1{font-family:'DM Serif Display',serif;font-weight:400;line-height:1.04;color:var(--dark)}
+.txt p{font-weight:600;color:var(--green)}
+.cta{display:inline-block;background:var(--dark);color:var(--white);font-weight:800;border-radius:99px}
+.wide .stage{flex-direction:row;gap:7vmin;padding:0 5vmin}
+.wide .txt{max-width:56vw}.wide h1{font-size:12vmin}.wide .txt p{font-size:4.2vmin;margin-top:2.4vmin}
+.wide .cta{margin-top:3.4vmin;font-size:3.8vmin;padding:2vmin 4.6vmin}
+.wide .card{width:60vmin;height:37vmin}
+.sq .stage,.port .stage{flex-direction:column;gap:6vmin}
+.sq .txt,.port .txt{text-align:center}
+.sq h1{font-size:10.5vmin}.sq .txt p{font-size:3.6vmin;margin-top:2vmin}
+.sq .cta{margin-top:3.5vmin;font-size:3.3vmin;padding:1.8vmin 4.2vmin}
+.sq .card{width:70vmin;height:43.5vmin}
+.port h1{font-size:9vmin}.port .txt p{font-size:3vmin;margin-top:2vmin}
+.port .cta{margin-top:3vmin;font-size:2.8vmin;padding:1.6vmin 3.6vmin}
+.port .card{width:66vmin;height:41vmin}
+/* B */
+.mail .stage{background:var(--dark);color:var(--white);flex-direction:column;gap:4vmin;text-align:center}
+.mail .env{width:56vmin;height:36vmin;background:var(--mint);border-radius:1.6vmin;position:relative;box-shadow:0 2.4vmin 5vmin rgba(0,0,0,.4)}
+.mail .env:before{content:"";position:absolute;inset:0;background:rgba(11,63,53,.14);clip-path:polygon(0 0,100% 0,50% 58%)}
+.mail .seal{position:absolute;left:50%;top:48%;transform:translate(-50%,-50%);width:9vmin;height:9vmin;border-radius:50%;background:var(--gold);display:flex;align-items:center;justify-content:center;font-family:'DM Serif Display',serif;color:var(--dark);font-size:5vmin}
+.mail h1{color:var(--white);font-size:9.5vmin}.mail h1 i{font-style:normal;color:var(--gold)}
+.mail p{font-size:3.2vmin;color:var(--mint);font-weight:600}
+.mail.wide .stage{flex-direction:row;padding:0 7vmin;gap:8vmin;text-align:left}
+.mail.wide h1{font-size:9vmin}.mail.wide .env{width:46vmin;height:30vmin;flex:none}
+/* C */
+.type .stage{background:var(--green);color:var(--white);flex-direction:column;gap:3.2vmin;text-align:center;padding:0 8vmin}
+.type h1{color:var(--white);font-size:14vmin;line-height:1}.type h1 i{font-style:normal;color:#FFE9B0}
+.type .wm{font-size:4.6vmin}
+.type p{font-size:3.4vmin;font-weight:600;opacity:.95}
+.type.wide .stage{padding:0 9vmin}.type.wide h1{font-size:12.5vmin}
+</style></head><body>
+<script>
+const q=new URLSearchParams(location.search);
+const m=q.get('m')||'A', f=q.get('f')||'wide';
+document.body.className=f+(m==='B'?' mail':m==='C'?' type':'');
+const logo='<span class="wm">Savino</span>';
+const card=`<div class="card"><div class="wm">Savino</div><div><div class="s">Gavekort · 12 måneder</div><div class="t">Savino Premium</div></div><div class="c">SAVINO-XXXX-XXXX</div></div>`;
+let html='';
+if(m==='A'){
+ html=`<div class="stage">${card}<div class="txt"><h1>Julegaven for matglade</h1><p>Gavekort på e-post. Klart på to minutter.</p><span class="cta">Gi bort Savino Premium</span></div></div>`;
+}else if(m==='B'){
+ html=`<div class="stage"><div class="env"><div class="seal">S</div></div><div><h1>Julegaven som <i>sendes</i> rett på e-post</h1><p>Digitalt gavekort · ingen frakt</p></div></div>`;
+}else{
+ html=`<div class="stage">${logo}<h1>Den smarte <i>julegaven</i></h1><p>Gi bort Savino Premium i 12 måneder</p></div>`;
+}
+document.body.innerHTML=html;
+</script></body></html>
