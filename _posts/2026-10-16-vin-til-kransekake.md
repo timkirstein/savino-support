@@ -10,6 +10,7 @@ dish: "kransekake med sukkerglasur"
 hero:
   src: /assets/img/kransekake.jpg
   alt: "kransekake på et fat"
+  position: "center 38%"
   caption: "Kransekake – høytidens vakre og søte avslutning"
 ---
 **Kort svar:** søt, aromatisk dessertvin med nøtteaktig karakter og god syre er det du bør se etter i vin til kransekake.
