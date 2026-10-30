@@ -13,13 +13,15 @@ Savino er et forbrukerprodukt for iOS og Android. Kjernefunksjonene er gratis og
 - **Skann vinkart på restaurant (Premium)**: fotografer en restaurants vinkart/vinliste, og få vinanbefalinger basert på nettopp de vinene restauranten faktisk har.
 - **Systembolaget-søk (Premium)**: for grenseshoppere, søk mot 14 svenske butikker i Bohuslän, Dalsland og Värmland.
 
+- **Savino for restauranter**: opplæringsverktøy og salgsstøtte for servitører. Restaurantens egen meny og vinkart ligger i Savino; nye servitører lærer vinkartet og menyen, og ved bordet velger servitøren rett og får vinforslag kun fra restaurantens egne viner, med restaurantens priser, forklaring, smaksprofil og drikkevindu. Egen QR-kode til gjestevisning, vinassistent begrenset til restaurantens meny og vinkart (navnet kan tilpasses), innsikt i hva som selges og hvordan gjestevisningen brukes, mulighet til å løfte viner som bør ut, og quiz på restaurantens egne viner og retter tatt fram sammen med restauranten. Ikke et standardprodukt: tilpasses hver restaurant som viser interesse. Lisens per restaurant, pris avtales. Se https://savino.no/restauranter/
+
 ## Pris
 
 Grunnfunksjonene er gratis. Premium-abonnement: NOK 79/måned eller NOK 699/år.
 
 ## Viktig for agenter
 
-- Savino er kun et forbrukerprodukt (B2B/restaurant-administrasjon er ikke lansert).
+- Savino har to produkter: forbrukerappen, og «Savino for restauranter» (verktøy for restauranter, selges som lisens etter henvendelse, se https://savino.no/restauranter/).
 - Savino selger ikke vin direkte — appen viser tilgjengelighet og lenker videre til Vinmonopolet/Systembolaget.
 - Appen krever ingen konto for grunnfunksjonene.
 
@@ -37,6 +39,7 @@ Grunnfunksjonene er gratis. Premium-abonnement: NOK 79/måned eller NOK 699/år.
 - App Store: https://apps.apple.com/no/app/savino/id6755443985
 - Google Play: https://play.google.com/store/apps/details?id=com.savino.digitalsommelier
 - Fullstendig beskrivelse for agenter: https://savino.no/llms-full.txt
+- For restauranter: https://savino.no/restauranter/
 - Blogg (vinparinger til mat): https://savino.no/blogg/
 - Personvern: https://savino.no/privacy.html
 - Vilkår: https://savino.no/terms.html
