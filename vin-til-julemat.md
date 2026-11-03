@@ -19,7 +19,7 @@ courses:
         wine: "Champagne og tørr musserende, tørr Riesling eller Chablis. Halvtørr Riesling hvis sennepssausen er søt."
         url: /blogg/vin-til-gravlaks/
   - title: "Hovedretter"
-    intro: "Hver landsdel har sin julemiddag. Felles for dem alle: frisk syre og lite tanning gjør vinen allsidig."
+    intro: "Hver landsdel har sin julemiddag. Felles for dem alle: frisk syre og lite tannin gjør vinen allsidig."
     dishes:
       - name: "Ribbe"
         wine: "God syre, moderat sødme og middels kropp. Frisk hvitvin eller lett, fruktig rødvin."
@@ -55,9 +55,9 @@ faq:
   - q: "Hvilken vin passer til hele julemiddagen?"
     a: "Ingen vin er perfekt til alt, men en allsidig vin med god syre, moden frukt og middels kropp er sjelden feil. Halvtørr Riesling, Pinot Gris eller en lett Pinot Noir fungerer til ribbe, pinnekjøtt, medisterkaker og and. Tørr musserende vin passer fra forretten og utover."
   - q: "Rødvin eller hvitvin til ribbe?"
-    a: "Begge kan fungere. Fet svinestek med sprø svor og surkål trenger frisk syre, så en frisk hvitvin eller en lett, fruktig rødvin med lav tanning er tryggest. Unngå kraftige, tanninrike rødviner, som lett blir harde og metalliske mot fettet."
+    a: "Begge kan fungere. Fet svinestek med sprø svor og surkål trenger frisk syre, så en frisk hvitvin eller en lett, fruktig rødvin med lavt tannin er tryggest. Unngå kraftige, tanninrike rødviner, som lett blir harde og metalliske mot fettet."
   - q: "Hvilken vin passer til pinnekjøtt?"
-    a: "Pinnekjøtt er salt og røykfylt, og salt fremhever bitterhet og tanniner. Velg en vin med noe restsødme, livlig syre og tydelig aromatisk karakter, for eksempel en halvtørr hvitvin. Tørre, tanninrike rødviner er den vanskeligste kombinasjonen."
+    a: "Pinnekjøtt er salt og røkt, og salt fremhever bitterhet og tanniner. Velg en vin med noe restsødme, livlig syre og tydelig aromatisk karakter, for eksempel en halvtørr hvitvin. Tørre, tanninrike rødviner er den vanskeligste kombinasjonen."
   - q: "Hva drikker man til lutefisk?"
     a: "En ren, syrerik hvitvin med lite eik eller en frisk, tørr musserende vin er det tryggeste valget. Mye bacon gjør måltidet saltere, og da kan et snev av restsødme, for eksempel en halvtørr Riesling, fungere godt. Mange synes likevel at lutefisk smaker best med akevitt og øl."
   - q: "Hvilken vin passer til riskrem og kransekake?"
@@ -65,9 +65,9 @@ faq:
   - q: "Hvordan finner jeg en konkret flaske på Vinmonopolet?"
     a: "Beskriv retten i Savino-appen, så får du konkrete viner fra sortimentet i den Vinmonopol-butikken du velger, med forklaring på hvorfor hver vin passer."
 ---
-**Kort svar:** velg frisk syre og lav tanning. Med tre flasker, bobler, en frisk hvitvin og en lett, fruktig rødvin, dekker du de fleste norske julemiddager. Ha en søt vin klar til dessert.
+**Kort svar:** velg frisk syre og lavt tannin. Med tre flasker – bobler, en frisk hvitvin og en lett, fruktig rødvin – dekker du de fleste norske julemiddager. Ha en søt vin klar til dessert.
 
-Julemat er ikke én rett, men mange. Et typisk julebord har sprø svor, salt lam, fet and, syrlig kål og søte tyttebær på samme bord, og hver av dem stiller sine egne krav. Denne guiden gir deg de viktigste prinsippene først, og tar deg deretter gjennom retten for rett med lenker til dybdeguidene våre.
+Julemat er ikke én rett, men mange. Et typisk julebord har sprø svor, salt lam, fet and, syrlig kål og søte tyttebær på samme bord, og hver av dem stiller sine egne krav. Denne guiden gir deg de viktigste prinsippene først, og tar deg deretter gjennom rett for rett med lenker til dybdeguidene våre.
 
 ## Hvorfor er julemat så krevende for vin?
 
@@ -76,9 +76,9 @@ Julematen kombinerer fire ting som drar i hver sin retning:
 - **Fett** (svor, and, medister, smør) trenger syre i glasset for å bli løftet og skåret gjennom
 - **Salt** (pinnekjøtt, bacon, gravlaks) fremhever bitterhet og tanniner, så tunge, tanninrike rødviner blir hardere enn du venter
 - **Søtt** tilbehør (rødkål, tyttebær, svisker, kålrabistappe) gjør at helt knusktørre viner kan virke tynne
-- **Syrlig** tilbehør (surkål, sennep, inlagt sild) gir vinen litt hjelp, men skjerper samtidig kravet til friskhet
+- **Syrlig** tilbehør (surkål, sennep, sursild) gir vinen litt hjelp, men skjerper samtidig kravet til friskhet
 
-Resultatet er enkelt å oppsummere: se etter **frisk syre**, **moden frukt** og **lite tanning og eik**. Det er de egenskapene som går igjen i alle guidene våre.
+Resultatet er enkelt å oppsummere: se etter **frisk syre**, **moden frukt** og **lite tannin og eik**. Det er de egenskapene som går igjen i alle guidene våre.
 
 ## Tre flasker, og en til dessert
 
@@ -98,7 +98,7 @@ Du trenger ikke et fullt vinlager for å dekke julemiddagen. Disse tre stilene r
   <div class="pillar-trio-item">
     <span class="num">Flaske 3</span>
     <h3>Lett, fruktig rød</h3>
-    <p>Pinot Noir eller Gamay. Frisk syre, moden frukt og lav tanning følger med både svin, medister og and.</p>
+    <p>Pinot Noir eller Gamay. Frisk syre, moden frukt og lavt tannin passer til både svin, medister og and.</p>
   </div>
 </div>
 
@@ -113,7 +113,7 @@ Hver rett har sin egen dybdeguide med Savinos aktuelle anbefalinger. Her er det 
 ## Slik legger du opp vinen gjennom middagen
 
 1. **Ved ankomst og til forretten:** tørr musserende. Den fungerer også til gravlaks og er et festlig åpningsgrep.
-2. **Til hovedretten:** en frisk hvitvin eller en lett, fruktig rødvin. Serverer du flere retter samtidig, velg en vin som fungerer bredt fremfor å jakte den perfekte match til hver enkelt.
+2. **Til hovedretten:** en frisk hvitvin eller en lett, fruktig rødvin. Serverer du flere retter samtidig, velg en vin som fungerer bredt fremfor å jakte på den perfekte matchen til hver enkelt.
 3. **Til dessert:** en vin som er minst like søt som desserten, servert kald i små glass.
 
 > Serverer du ribbe, pinnekjøtt og and samtidig, velger du helst en allsidig vin med god syre og moderat kropp.
@@ -127,8 +127,8 @@ Selv samme rett kan trenge ulik vin avhengig av hva som står ved siden av:
 - **Rødkål, tyttebær og svisker** tilfører fruktighet og sødme, og åpner for viner med litt mer moden frukt
 - **Surkål** er en venn av vinen: den renser ganen og gjør at vinen trenger litt mindre syre
 - **Sennep** er skarp, og litt restsødme i vinen demper den
-- **Brun saus og krydret medister** blir lett bitre og harde med mye tanning og eik, så hold deg til lav tanning
+- **Brun saus og krydret medister** blir lett bitre og harde med mye tannin og eik, så hold deg til lavt tannin
 
 ## Finn riktig flaske
 
-Prinsippene over gir deg retningen, men sortimentet i butikken din bestemmer hvilke flasker du faktisk kan kjøpe. Beskriv retten i Savino, så får du konkrete viner fra Vinmonopolet-butikken du velger, med match-score og forklaring.
+Prinsippene over gir deg retningen, men sortimentet i butikken din bestemmer hvilke flasker du faktisk kan kjøpe. Beskriv retten i Savino, så får du konkrete viner fra Vinmonopol-butikken du velger, med match-score og forklaring.
