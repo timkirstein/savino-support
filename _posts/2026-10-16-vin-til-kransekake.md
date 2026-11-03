@@ -12,6 +12,7 @@ hero:
   alt: "kransekake på et fat"
   position: "center 38%"
   caption: "Kransekake – høytidens vakre og søte avslutning"
+pillar: julemat
 ---
 **Kort svar:** søt, aromatisk dessertvin med nøtteaktig karakter og god syre er det du bør se etter i vin til kransekake.
 

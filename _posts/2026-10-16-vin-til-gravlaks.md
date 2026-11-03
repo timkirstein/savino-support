@@ -11,6 +11,7 @@ hero:
   src: /assets/img/gravlaks.jpg
   alt: "gravlaks med sennepssaus og dill"
   caption: "Gravlaks – den gode starten på julemiddagen"
+pillar: julemat
 ---
 **Kort svar:** høy syre, ren frukt og lav til moderat sødme er det du bør se etter i vin til gravlaks.
 

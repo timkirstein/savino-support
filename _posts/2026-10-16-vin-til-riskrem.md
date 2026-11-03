@@ -11,6 +11,7 @@ hero:
   src: /assets/img/riskrem.jpg
   alt: "riskrem med bringebærsaus"
   caption: "Riskrem – julaftens klassiske dessert med mandelgaven"
+pillar: julemat
 ---
 **Kort svar:** lett sødme, frisk syre og bærfrukt er det du bør se etter i vin til riskrem.
 

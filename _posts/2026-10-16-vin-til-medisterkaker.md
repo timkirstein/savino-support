@@ -12,6 +12,7 @@ hero:
   alt: "medisterkaker med rødkål og tyttebær"
   position: "center 72%"
   caption: "Medisterkaker – julemiddagen mange faktisk lager hver uke i desember"
+pillar: julemat
 ---
 **Kort svar:** fruktig rødvin med lav tanning og frisk syre, eller en halvtørr hvitvin, er det du bør se etter i vin til medisterkaker.
 

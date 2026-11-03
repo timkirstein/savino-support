@@ -11,6 +11,7 @@ hero:
   src: /assets/img/ribbe.jpg
   alt: "ribbe på et trebord"
   caption: "Sprø svor og rik ribbe – julemiddagen som krever riktig glass"
+pillar: julemat
 ---
 **Kort svar:** god til høy syre, moderat sødme og middels kropp er det du bør se etter i vin til ribbe.
 

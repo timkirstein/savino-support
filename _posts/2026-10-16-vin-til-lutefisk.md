@@ -11,6 +11,7 @@ hero:
   src: /assets/img/lutefisk.jpg
   alt: "hvit fisk med sprø bacon og spinat på en tallerken"
   caption: "Lutefisk – julebordets mest omdiskuterte klassiker"
+pillar: julemat
 ---
 **Kort svar:** høy syre, ren frukt og lite eik er det du bør se etter i vin til lutefisk.
 

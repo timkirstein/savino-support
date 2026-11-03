@@ -41,6 +41,7 @@ Grunnfunksjonene er gratis. Premium-abonnement: NOK 79/måned eller NOK 699/år.
 - Fullstendig beskrivelse for agenter: https://savino.no/llms-full.txt
 - For restauranter: https://savino.no/restauranter/
 - Blogg (vinparinger til mat): https://savino.no/blogg/
+- Vin til julemat, komplett guide til ribbe, pinnekjøtt, lutefisk og resten av julebordet: https://savino.no/blogg/vin-til-julemat/
 - Personvern: https://savino.no/privacy.html
 - Vilkår: https://savino.no/terms.html
 - Kontakt: hei@savino.no

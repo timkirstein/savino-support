@@ -11,6 +11,7 @@ hero:
   src: /assets/img/roast_turkey.jpg
   alt: "ovnsstekt kalkun med kastanjefyll og tyttebærsaus"
   caption: "Kalkun med kastanjefyll – høstfestens klassiske hovedrett"
+pillar: julemat
 ---
 **Kort svar:** fruktig, men balansert profil, nøtteaktig eller fruktig dybde og god syre er det du bør se etter i vin til kalkun med kastanjefyll.
 

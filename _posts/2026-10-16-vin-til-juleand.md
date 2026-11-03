@@ -11,6 +11,7 @@ hero:
   src: /assets/img/juleand.jpg
   alt: "helstekt and med epler og rødkål"
   caption: "Juleand – festlig alternativ til ribbe og pinnekjøtt"
+pillar: julemat
 ---
 **Kort svar:** frisk syre, moden frukt og moderat tanning er det du bør se etter i vin til juleand.
 

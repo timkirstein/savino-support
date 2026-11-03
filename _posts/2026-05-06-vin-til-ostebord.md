@@ -11,6 +11,7 @@ hero:
   src: /assets/img/cheese.jpg
   alt: "ostebord på et trebord"
   caption: "Et godt ostebord – vinvalgets kunst der syre og fett møtes"
+pillar: julemat
 ---
 **Kort svar:** god syre, intensitetsmatch og lav til moderat tannin er det du bør se etter i vin til ostebord.
 

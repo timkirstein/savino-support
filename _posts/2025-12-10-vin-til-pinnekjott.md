@@ -11,6 +11,7 @@ hero:
   src: /assets/img/pinnekjott.jpg
   alt: "pinnekjøtt på et trebord"
   caption: "Vestlandets julemiddag – salt, røykfylt og krevende for vinen"
+pillar: julemat
 ---
 **Kort svar:** noe resterende sødme, frisk, livlig syre og aromatisk intensitet er det du bør se etter i vin til pinnekjøtt.
 
