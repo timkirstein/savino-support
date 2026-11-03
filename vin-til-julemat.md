@@ -7,8 +7,9 @@ date: 2026-11-03
 category: Guide
 permalink: /blogg/vin-til-julemat/
 hero:
-  src: /assets/img/ribbe.jpg
-  alt: "norsk julemiddag med ribbe, rødkål og tilbehør"
+  src: /assets/img/juleand.jpg
+  position: "50% 52%"
+  alt: "helstekt juleand med tyttebær og potetmos foran et juletre"
   caption: "Julemiddagen samler fett, salt, søtt og syrlig på samme tallerken"
 courses:
   - title: "Forrett"
