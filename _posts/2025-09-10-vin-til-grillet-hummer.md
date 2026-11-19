@@ -6,6 +6,7 @@ lead: "Grillet hummer med hvitløksmør er sommerens festmiddag fremfor alle and
 date: 2025-09-10
 category: Sjømat
 permalink: /blogg/vin-til-grillet-hummer/
+pillar: nyttar
 dish: "grillet hummer med hvitløksmør"
 hero:
   src: /assets/img/hummer.jpg

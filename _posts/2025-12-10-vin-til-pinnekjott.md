@@ -9,7 +9,7 @@ permalink: /blogg/vin-til-pinnekjott/
 dish: "pinnekjøtt"
 hero:
   src: /assets/img/pinnekjott.jpg
-  alt: "pinnekjøtt på et trebord"
+  alt: "lammeribbe på et trebord"
   caption: "Vestlandets julemiddag – salt, røykfylt og krevende for vinen"
 pillar: julemat
 ---
