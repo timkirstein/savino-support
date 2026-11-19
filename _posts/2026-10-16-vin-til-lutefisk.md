@@ -9,7 +9,7 @@ permalink: /blogg/vin-til-lutefisk/
 dish: "lutefisk med bacon og ertestuing"
 hero:
   src: /assets/img/lutefisk.jpg
-  alt: "hvit fisk med sprø bacon og spinat på en tallerken"
+  alt: "lutefisk med bacon, ertestuing, poteter og smeltet smør på et julebord"
   caption: "Lutefisk – julebordets mest omdiskuterte klassiker"
 pillar: julemat
 ---
