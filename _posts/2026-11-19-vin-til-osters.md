@@ -9,9 +9,8 @@ permalink: /blogg/vin-til-osters/
 pillar: nyttar
 dish: "østers med sitron og sjalottvinaigrette"
 hero:
-  src: /assets/img/sjomatfat.jpg
-  position: "35% 80%"
-  alt: "ferske østers med sitron på et sjømatfat"
+  src: /assets/img/ostron.jpg
+  alt: "ferske østers på is med sitron"
   caption: "Østers og et glass kald hvitvin – nyttårsaftens klassiske forrett"
 ---
 **Kort svar:** høy syre, ren frukt uten eik og lett kropp. Chablis, Muscadet, tørr Riesling og tørr champagne er de klassiske valgene til østers.

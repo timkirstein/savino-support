@@ -7,10 +7,9 @@ date: 2026-11-19
 category: Guide
 permalink: /blogg/vin-til-nyttar/
 hero:
-  src: /assets/img/sjomatfat.jpg
-  position: "50% 70%"
-  alt: "sjømatfat med østers, sjøkreps og sitron"
-  caption: "Nyttårsmiddagen starter ofte med skalldyr, og skalldyr elsker bobler"
+  src: /assets/img/nyar.jpg
+  alt: "champagneflaske og glass på et pyntet nyttårsbord"
+  caption: "Nyttårsmiddagen ender med bobler – og starter gjerne med dem også"
 courses:
   - title: "Forrett"
     intro: "Salt, kaldt og delikat. Skalldyr trenger høy syre og ren frukt, og bobler gjør det enda bedre."
