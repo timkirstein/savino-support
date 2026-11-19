@@ -9,7 +9,7 @@ permalink: /blogg/vin-til-ribbe/
 dish: "ribbe"
 hero:
   src: /assets/img/ribbe.jpg
-  alt: "ribbe på et trebord"
+  alt: "ribbe med sprø svor, pære og ovnsbakte poteter"
   caption: "Sprø svor og rik ribbe – julemiddagen som krever riktig glass"
 pillar: julemat
 ---
