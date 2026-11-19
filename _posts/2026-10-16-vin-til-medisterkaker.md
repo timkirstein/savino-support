@@ -9,8 +9,8 @@ permalink: /blogg/vin-til-medisterkaker/
 dish: "stekte medisterkaker med brun saus, rødkål og tyttebær"
 hero:
   src: /assets/img/medisterkaker.jpg
-  alt: "medisterkaker med rødkål og tyttebær"
-  position: "center 72%"
+  alt: "medisterkaker med brun saus, kokte poteter og tyttebær"
+  position: "50% 60%"
   caption: "Medisterkaker – julemiddagen mange faktisk lager hver uke i desember"
 pillar: julemat
 ---
