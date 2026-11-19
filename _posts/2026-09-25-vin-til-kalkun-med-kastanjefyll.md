@@ -8,8 +8,8 @@ category: Kjøtt
 permalink: /blogg/vin-til-kalkun-med-kastanjefyll/
 dish: "ovnsstekt kalkun med kastanjefyll, tyttebærsaus og ovnsbakte rotgrønnsaker"
 hero:
-  src: /assets/img/roast_turkey.jpg
-  alt: "ovnsstekt kalkun med kastanjefyll og tyttebærsaus"
+  src: /assets/img/kalkon.jpg
+  alt: "ovnsstekt kalkun med rotgrønnsaker på et pyntet julebord"
   caption: "Kalkun med kastanjefyll – høstfestens klassiske hovedrett"
 pillar: julemat
 ---
